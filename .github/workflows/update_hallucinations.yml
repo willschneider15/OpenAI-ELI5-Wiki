@@ -26,8 +26,22 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Fetch PR message content
+        id: pr_message
+        uses: actions/github-script@v5
+        with:
+          script: |
+            const pr = await github.rest.pulls.get({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.issue.number,
+            });
+            return pr.data.body;
+
       - name: Update hallucinations.json
-        run: python update_hallucinations.py
+        run: |
+          export PR_MESSAGE="${{ steps.pr_message.outputs.result }}"
+          python scripts/update_hallucinations.py
 
       - name: Commit changes
         run: |
