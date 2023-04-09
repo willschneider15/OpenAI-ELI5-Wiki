@@ -31,6 +31,7 @@ Before contributing, please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for
 
 - `content/`: Contains the ELI5 markdown files organized by categories.
 - `data/`: Stores the known hallucinations.json file and other data files.
+- `scripts/`: Stores scripts to help automate concept collection, ELI5 creations, etc.
 - `.github/`: Holds GitHub Actions workflows and issue/PR templates.
 - `LICENSE`: The open-source license for the project.
 - `CONTRIBUTING.md`: Guidelines for contributing to the project.
