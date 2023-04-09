@@ -2,6 +2,7 @@ import os
 import openai
 from dotenv import load_dotenv
 from pathlib import Path
+import asyncio
 
 # Load the API key from the .env file
 load_dotenv()
@@ -20,17 +21,16 @@ output_dir.mkdir(exist_ok=True)
 
 # Generate ELI5 explanation
 def generate_eli5(title):
-    prompt = f"I am a computer science student. Explain the concept of {title} like I'm 5 in 150 words or less. Respond with a markdown file."
-    response = openai.Completion.create(
-        engine="text-davinci-003",
-        prompt=prompt,
-        max_tokens=250,
-        n=1,
-        stop=None,
-        temperature=0.5,
+    prompt = f"I am a Business student. Explain the concept of {title} like I'm 5 in 150 words or less. Respond with a markdown file. Only include a well formatted explanation. Include bullet points when appropriate. Do not include titles."
+    response = openai.ChatCompletion.create(
+        model="gpt-3.5-turbo",
+        messages=[
+            {"role": "system", "content": "You are college Business teacher."},
+            {"role": "user", "content": prompt}
+        ]
     )
 
-    return response.choices[0].text.strip()
+    return response.choices[0].message['content'].strip()
 
 def process_category(category_file_name):
     category_file_path = data_dir / category_file_name
@@ -51,4 +51,4 @@ def process_category(category_file_name):
             f.write(f"{eli5}\n")
 
 # Process just one category for testing
-process_category("Computer_Science.txt")
+process_category("Business.txt")
