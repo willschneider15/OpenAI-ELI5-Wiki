@@ -1,3 +1,0 @@
-# Mobile Computing
-
-Mobile computing is the use of technology that allows people to access information and services from anywhere, at any time, using any device. It is the use of portable computing devices such as smartphones, tablets, and laptops to access data and services from the internet. Mobile computing makes it easy to access information and services from anywhere, at any time. With mobile computing, users can access the internet, send emails, make phone calls, and access applications. They can also use their device to access data stored on the cloud, or to access applications that are hosted on the cloud. Mobile computing has made it easier for people to stay connected, collaborate, and access data and services from anywhere.

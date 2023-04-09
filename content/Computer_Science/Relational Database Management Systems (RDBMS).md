@@ -1,3 +1,0 @@
-# Relational Database Management Systems (RDBMS)
-
-Relational Database Management Systems (RDBMS) are computer programs that allow users to store and manage data in an organized way. RDBMS programs help users store data in tables, which are organized like spreadsheets with rows and columns. The rows represent individual records, and the columns contain the data for each record. This allows users to easily search and retrieve data from the database. RDBMS also allow users to create relationships between different tables, making it easier to find and analyze data. By using RDBMS, users can quickly and easily access large amounts of data, making it a powerful tool for businesses and organizations.

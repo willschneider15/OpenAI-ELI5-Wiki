@@ -1,3 +1,0 @@
-# Configuration Management (Ansible, Puppet, Chef)
-
-Configuration Management is a way of keeping track of the different parts of a computer system. It helps to ensure that all the components of a system are up to date and working properly. It can be done using tools such as Ansible, Puppet, and Chef. These tools allow you to create scripts that can be used to automate the process of configuring and maintaining a system. The scripts can be used to install, configure, and update software, and to keep track of system changes. This makes it easier to keep all the components of a system up to date, and to quickly identify and fix any problems that arise.

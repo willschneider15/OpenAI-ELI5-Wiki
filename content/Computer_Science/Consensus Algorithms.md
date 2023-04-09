@@ -1,3 +1,0 @@
-# Consensus Algorithms
-
-Consensus algorithms are algorithms used to reach agreement among distributed processes or systems. They are used to ensure that all participants in the system agree on a common set of data. Consensus algorithms are designed to ensure that all participants in the system have the same view of the data, even if some participants are faulty or malicious. They are used to ensure that all data is consistent and up to date. Consensus algorithms can be used to agree on the order of transactions, the validity of transactions, or the state of the system. Consensus algorithms are important for distributed systems because they ensure that all participants agree on the same data, even if some participants are faulty or malicious.

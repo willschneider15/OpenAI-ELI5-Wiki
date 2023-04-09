@@ -1,3 +1,0 @@
-# Race Condition
-
-Race condition is a type of problem that can occur when two or more processes try to access the same data at the same time. For example, if two processes are trying to update a shared variable, the result of the update will depend on the order in which the processes access the variable. If one process accesses the variable first and updates it, then the other process will get the updated value. But if the other process accesses the variable first and updates it, then the first process will get the updated value. This can lead to unexpected results and can cause problems in a system.

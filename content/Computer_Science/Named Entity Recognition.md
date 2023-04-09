@@ -1,3 +1,0 @@
-# Named Entity Recognition
-
-Named Entity Recognition (NER) is a type of natural language processing (NLP) that identifies and categorizes words or phrases in a text. NER can be used to identify people, places, organizations, and dates in a text. NER can help computers understand the context of a sentence and can be used to answer questions or summarize text. For example, if a text mentions "John Smith" and "New York City," NER can identify that John Smith is a person and New York City is a place. NER can also be used to detect sentiment, such as whether a sentence is positive or negative. NER can be used in many applications, such as search engine optimization, customer service, and machine translation.

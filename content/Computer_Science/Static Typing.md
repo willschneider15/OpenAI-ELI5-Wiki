@@ -1,3 +1,0 @@
-# Static Typing
-
-Static Typing is a type of programming language where the data types of variables must be declared before they can be used. This means that when you create a variable, you must tell the computer what type of data it will hold, such as a number, a string of characters, or a boolean value. This helps the computer know how to interact with the variable, and helps avoid errors if the wrong type of data is used. Static Typing also helps programmers keep track of their code since they know the type of data that is expected when they call a function or use a variable. This helps them avoid errors and makes the code easier to read and debug.

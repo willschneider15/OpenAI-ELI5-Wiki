@@ -1,3 +1,0 @@
-# Cloud Computing
-
-Cloud Computing is a way of using the internet to store and access information and programs. Instead of having to store data and programs on your own computer, you can store them on the cloud, which is like a giant online storage space. With cloud computing, you can access your data and programs from any device, like a laptop, tablet, or smartphone. It's like having a virtual hard drive that's always with you, no matter where you go. Cloud computing also makes it easier to share information with other people, since you can access the same data from any device. Plus, you don't have to worry about losing information if your computer crashes, since it's all stored safely in the cloud.

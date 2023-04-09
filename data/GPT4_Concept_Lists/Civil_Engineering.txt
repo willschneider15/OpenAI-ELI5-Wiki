@@ -1,0 +1,107 @@
+Structural Engineering
+Building Materials
+Reinforced Concrete Design
+Prestressed Concrete Design
+Steel Design
+Timber Design
+Masonry Design
+Composite Structures
+Bridge Engineering
+Structural Dynamics
+Earthquake Engineering
+Seismic Design
+Wind Engineering
+Soil Mechanics
+Geotechnical Engineering
+Foundation Engineering
+Deep Foundations
+Shallow Foundations
+Retaining Structures
+Soil Stabilization
+Ground Improvement Techniques
+Slope Stability
+Earth Retaining Systems
+Soil-Structure Interaction
+Rock Mechanics
+Tunnel Engineering
+Dams and Embankments
+Geosynthetics
+Pavement Engineering
+Highway Engineering
+Transportation Engineering
+Traffic Engineering
+Transportation Planning
+Transportation Systems
+Public Transit Systems
+Airports and Runways
+Railway Engineering
+Ports and Harbors
+Intelligent Transportation Systems (ITS)
+Geomatics Engineering
+Surveying and Geodesy
+GIS (Geographic Information Systems)
+Remote Sensing
+Land Development
+Site Planning
+Urban and Regional Planning
+City Planning
+Sustainable Development
+Land Use and Zoning
+Environmental Engineering
+Water Resources Engineering
+Hydrology
+Hydraulics
+Stormwater Management
+Floodplain Management
+Groundwater Engineering
+Open Channel Flow
+Sediment Transport
+Water Distribution Systems
+Sanitary Sewer Systems
+Wastewater Treatment
+Water Treatment
+Water Quality
+Air Pollution Control
+Noise Pollution Control
+Solid Waste Management
+Hazardous Waste Management
+Environmental Impact Assessment (EIA)
+Environmental Regulations and Compliance
+Coastal Engineering
+Marine Engineering
+Offshore Structures
+Wave Mechanics
+Coastal Protection
+Shoreline Management
+Erosion Control
+River Engineering
+Wetlands and Estuarine Systems
+Construction Engineering and Management
+Construction Materials
+Construction Methods
+Construction Equipment
+Estimating and Bidding
+Construction Scheduling
+Construction Planning and Control
+Construction Safety and Health
+Quality Management
+Project Management
+Contracts and Specifications
+Risk Management
+Value Engineering
+Building Information Modeling (BIM)
+Infrastructure Asset Management
+Life Cycle Assessment
+Sustainability and Green Infrastructure
+Resilience and Climate Change Adaptation
+Codes and Standards
+Engineering Economics
+Engineering Ethics
+Legal Issues in Civil Engineering
+Technical Writing and Communication
+Engineering Software (AutoCAD, Revit, SAP2000, etc.)
+Research and Development (R&D)
+Engineering Organizations and Societies
+Licensure and Certification
+Continuing Education
+Career Development

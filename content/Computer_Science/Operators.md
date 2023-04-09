@@ -1,3 +1,0 @@
-# Operators
-
-Operators are symbols that tell a computer to perform operations on values or variables. They are used to manipulate data and get results. For example, the plus (+) operator is used to add two values together. The minus (-) operator is used to subtract one value from another. The asterisk (*) operator is used to multiply two values together. The slash (/) operator is used to divide one value by another. There are also other operators like the modulus (%) operator which returns the remainder of a division operation, and the exponent (^) operator which raises one value to a certain power. Operators are powerful tools that allow us to do complex calculations and operations quickly and easily.

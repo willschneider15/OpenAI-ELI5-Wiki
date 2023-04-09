@@ -1,3 +1,0 @@
-# MapReduce
-
-MapReduce is a type of programming model used to process large amounts of data. It consists of two phases: the map phase and the reduce phase. In the map phase, data is divided into smaller chunks, and each chunk is processed independently. Then, the results of the map phase are combined in the reduce phase to produce the final output. It is an efficient way to process data because it allows for parallel processing, meaning that multiple computers can work on the same data set at the same time. By breaking down the data into smaller chunks, it is easier to process the data more quickly and accurately.

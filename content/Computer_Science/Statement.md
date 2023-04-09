@@ -1,3 +1,0 @@
-# Statement
-
-A statement is a single line of code that performs a specific action. It can be an instruction to the computer to perform a task, such as assigning a value to a variable, or to execute a function. Statements are the fundamental building blocks of a program, and they are used to control the flow of execution. For example, an if statement can be used to check a condition and execute a certain set of instructions depending on the outcome. Statements can also be used to declare variables, create objects, and perform mathematical operations. In general, statements are used to control the flow of a program and allow it to do something useful.

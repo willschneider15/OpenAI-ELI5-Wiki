@@ -1,3 +1,0 @@
-# Object Detection
-
-Object detection is a type of computer vision technology that can identify objects in an image or video. It works by looking for specific features in the image that are associated with a particular object. For example, if you want to detect a car in an image, the computer will look for certain features like the shape of the car, its color, and other details. Once the computer has identified the object, it can then determine its location and size within the image. Object detection is used in a variety of applications, such as facial recognition, autonomous driving, and medical image analysis.

@@ -1,3 +1,0 @@
-# Serverless Computing
-
-Serverless Computing is a way of running computer programs without having to manage or maintain any servers. Instead, a cloud provider (like Amazon Web Services or Microsoft Azure) manages the servers, and the user pays only for the amount of computing time they use. This makes it easier and more cost-effective for users to run their programs, as they don't have to worry about setting up, configuring, and maintaining servers. Additionally, the cloud provider takes care of any scaling needs, meaning that the user's program can automatically handle more requests as needed, without having to manually manage the servers.

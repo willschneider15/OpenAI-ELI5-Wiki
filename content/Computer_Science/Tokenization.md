@@ -1,3 +1,0 @@
-# Tokenization
-
-Tokenization is the process of breaking a sentence, phrase, or word into smaller pieces called tokens. It is a way of splitting up a string of characters into smaller parts that can be used in programming. For example, if you have the sentence "I like apples," tokenization would break it up into the individual words: "I," "like," and "apples." Tokenization is useful in computer science because it allows us to store and manipulate data more easily. For example, if you wanted to search for a specific word in a sentence, you could use tokenization to quickly find the word you're looking for. Tokenization can also help with data analysis, by allowing us to quickly identify patterns in data.

@@ -1,3 +1,0 @@
-# Pointer
-
-A pointer is like a finger that points to something. It's a type of computer memory that stores the address of another piece of memory. When you use a pointer, you can get to the data stored at that address without having to look for it in the computer's memory. For example, if you have a list of numbers, a pointer can point to the first number in the list. Then, you can use the pointer to access the other numbers in the list. Pointers can also be used to store the address of a function, so that you can call the function by using the pointer. Pointers are a powerful tool for programming because they allow you to quickly access data and functions without having to search for them.

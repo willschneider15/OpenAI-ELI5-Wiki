@@ -1,3 +1,0 @@
-# Greedy
-
-Greedy is an algorithm used to solve problems. It works by making a series of decisions that are locally optimal, meaning that each decision is the best choice at that moment. For example, if you are trying to fill a bag with the most valuable items, you would start by putting the most valuable item in the bag. Then, you would add the second most valuable item, and so on. This is called a greedy approach because you are always taking the best choice at each step. This approach can be used to solve many different types of problems, such as finding the shortest path between two points or finding the most efficient way to use a set of resources.

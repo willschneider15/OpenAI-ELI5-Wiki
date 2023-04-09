@@ -1,3 +1,0 @@
-# Interpreted
-
-Interpreted is a type of programming language. It is different from other types of programming languages because instead of being compiled, it is interpreted. This means that when you write a program in an interpreted language, it is not converted into machine code (the language computers understand). Instead, it is read line-by-line by an interpreter. The interpreter then translates the program into machine code and executes it. This makes interpreted languages easier to learn and use, as you don't need to understand machine code to write programs. They also tend to be faster to develop, as they don't require you to compile the program each time you make a change.

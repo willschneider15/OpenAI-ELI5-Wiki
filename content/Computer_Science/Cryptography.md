@@ -1,3 +1,0 @@
-# Cryptography
-
-Cryptography is a way to make sure messages stay secure. It works by encoding messages so that only the person with the right “key” can decode them. The key is like a secret code that can unlock the message. Cryptography is used to keep information safe, like passwords or credit card numbers. It also helps people communicate securely online, like sending emails or making purchases. Cryptography is used all over the world to protect data and keep it safe from people who might want to steal it. It's like a secret code that only you and the person you're sending the message to can understand.

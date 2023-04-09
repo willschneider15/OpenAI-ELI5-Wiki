@@ -1,3 +1,0 @@
-# Conditional Logic
-
-Conditional logic is a way of making decisions. It is a type of programming that uses "if-then" statements. It works by creating a set of conditions and then deciding what to do based on those conditions. For example, if a number is greater than 5, then the program will print "The number is greater than 5". If the number is not greater than 5, then the program will print "The number is not greater than 5". This type of programming is useful for making decisions and solving problems. It helps us to think through the different possibilities and decide what to do in each situation.

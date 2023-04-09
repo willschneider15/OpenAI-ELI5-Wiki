@@ -1,3 +1,0 @@
-# Instruction Set Architecture (ISA)
-
-ISA stands for Instruction Set Architecture. It is the interface between the computer's hardware and its software. It defines the set of instructions that a computer can execute and how they are encoded. It includes the data types and addressing modes that are supported by the processor. It also defines the registers, memory, and other components of the processor. ISA provides the framework for the assembly language, which is used to write programs that can be executed by the processor. ISA is important because it allows the processor to understand the instructions given to it by the programmer. Without ISA, the processor would not be able to understand the program and would not be able to execute it.

@@ -1,3 +1,0 @@
-# CPU
-
-A CPU (Central Processing Unit) is like a brain for a computer. It takes in instructions from the computer's software and then processes them. It's like a tiny factory that takes in raw materials (data) and then creates something useful (information). The CPU is made up of many tiny transistors, which are like tiny switches that can be turned on and off. When the transistors are turned on, they form pathways for electricity to flow through. This electricity is used to make calculations and perform tasks. The CPU can also store information in its memory, so it can remember what it has done in the past. Without a CPU, a computer wouldn't be able to do anything.

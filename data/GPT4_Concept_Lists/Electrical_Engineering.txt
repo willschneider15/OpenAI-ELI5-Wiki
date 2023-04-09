@@ -1,0 +1,183 @@
+Circuit Analysis
+Linear Circuits
+Nonlinear Circuits
+DC Circuits
+AC Circuits
+Transient Analysis
+Thevenin's Theorem
+Norton's Theorem
+Kirchhoff's Laws
+Superposition Principle
+Network Theorems
+Electromagnetic Fields
+Maxwell's Equations
+Electrostatics
+Magnetostatics
+Electromagnetic Induction
+Wave Propagation
+Transmission Lines
+Electrical Machines
+Transformers
+DC Motors
+DC Generators
+AC Motors
+Induction Motors
+Synchronous Motors
+Brushless DC Motors
+Stepper Motors
+Power Electronics
+Diodes
+Transistors
+Thyristors
+IGBTs
+MOSFETs
+Rectifiers
+Inverters
+Converters
+Choppers
+Switch Mode Power Supplies
+Analog Electronics
+Amplifiers
+Operational Amplifiers
+Filters
+Oscillators
+Waveform Generators
+Analog-to-Digital Converters (ADCs)
+Digital-to-Analog Converters (DACs)
+Comparator Circuits
+Voltage Regulators
+Digital Electronics
+Logic Gates
+Boolean Algebra
+Karnaugh Maps
+Combinational Circuits
+Sequential Circuits
+Flip-Flops
+Registers
+Counters
+Multiplexers
+Demultiplexers
+Encoders
+Decoders
+Memory Devices
+Microprocessors
+Microcontrollers
+Embedded Systems
+Firmware Development
+Assembly Language Programming
+C/C++ for Embedded Systems
+RTOS (Real-Time Operating Systems)
+Digital Signal Processing (DSP)
+Signals and Systems
+Fourier Analysis
+Laplace Transform
+Z-Transform
+Convolution
+Filter Design
+Discrete Fourier Transform (DFT)
+Fast Fourier Transform (FFT)
+Wavelet Transform
+Adaptive Signal Processing
+Control Systems
+Feedback Control
+Linear Control Theory
+Nonlinear Control Theory
+Optimal Control
+Adaptive Control
+Robust Control
+Stability Analysis
+State-Space Representation
+Transfer Functions
+Root Locus
+Frequency Response
+PID Controllers
+Fuzzy Logic Control
+Neural Network Control
+Communications Systems
+Analog Communication
+Digital Communication
+Modulation Techniques
+Demodulation Techniques
+Channel Coding
+Error Control Coding
+Source Coding
+Data Compression
+Encryption
+Information Theory
+Wireless Communication
+Cellular Networks
+Satellite Communication
+Optical Communication
+Fiber Optic Systems
+Network Protocols
+Internet of Things (IoT)
+Computer Networks
+Local Area Networks (LANs)
+Wide Area Networks (WANs)
+Network Topologies
+TCP/IP
+Ethernet
+Wi-Fi
+Bluetooth
+Zigbee
+5G
+RF and Microwave Engineering
+Antennas
+Waveguides
+RF Filters
+RF Amplifiers
+RF Oscillators
+RF Modulation Techniques
+Radar Systems
+GPS and GNSS
+Software-Defined Radio (SDR)
+Electromagnetic Compatibility (EMC)
+Electromagnetic Interference (EMI)
+Shielding Techniques
+Grounding
+Noise Reduction
+Crosstalk
+Energy Systems
+Power Systems
+Power Generation
+Power Transmission
+Power Distribution
+Smart Grid
+Renewable Energy
+Solar Power
+Wind Power
+Hydropower
+Energy Storage Systems
+Electric Vehicles
+Battery Technology
+Charging Infrastructure
+Grid Integration
+High-Voltage Engineering
+Protective Relaying
+Fault Analysis
+Circuit Breakers
+Power Quality
+Power System Stability
+Load Flow Analysis
+State Estimation
+Power System Operation and Control
+Instrumentation and Sensors
+Measurement Techniques
+Data Acquisition
+Virtual Instrumentation
+LabVIEW
+Automated Test Equipment
+Biomedical Engineering
+Medical Imaging
+Bioinstrumentation
+Biosensors
+Biomedical Signal Processing
+Biopotential Measurements
+Implantable Devices
+Artificial Organs
+Prosthetics
+Ethics in Engineering
+Engineering Economics
+Project Management
+Technical Writing and Communication
+Engineering Software

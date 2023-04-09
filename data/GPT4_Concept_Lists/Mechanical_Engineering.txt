@@ -1,0 +1,109 @@
+Mechanics of Materials
+Strength of Materials
+Material Science
+Engineering Materials
+Thermodynamics
+Heat Transfer
+Fluid Mechanics
+Hydraulics and Pneumatics
+Mass Transfer
+Refrigeration and Air Conditioning
+Internal Combustion Engines
+Automotive Engineering
+Power Plant Engineering
+Renewable Energy Systems
+Solar Energy
+Wind Energy
+Geothermal Energy
+Hydroelectric Power
+Nuclear Power
+Energy Storage
+Statics
+Dynamics
+Kinematics
+Kinetics
+Newtonian Mechanics
+Lagrangian Mechanics
+Hamiltonian Mechanics
+Vibration Analysis
+System Dynamics
+Control Systems
+Feedback Control
+Linear Control Theory
+Nonlinear Control Theory
+Optimal Control
+Adaptive Control
+Robust Control
+Stability Analysis
+Mechanical Design
+Machine Design
+Mechanism Design
+Design for Manufacturing
+Design for Assembly
+Design Optimization
+Failure Analysis
+Fatigue and Fracture Mechanics
+Structural Analysis
+Finite Element Analysis (FEA)
+Computational Fluid Dynamics (CFD)
+Simulation and Modeling
+Computer-Aided Design (CAD)
+Computer-Aided Manufacturing (CAM)
+Computer-Aided Engineering (CAE)
+Geometric Dimensioning and Tolerancing (GD&T)
+Mechatronics
+Electromechanical Systems
+Sensors and Actuators
+Microelectromechanical Systems (MEMS)
+Robotics
+Industrial Automation
+Machine Vision
+Unmanned Aerial Vehicles (UAVs)
+Autonomous Vehicles
+Engineering Economics
+Project Management
+Engineering Ethics
+Safety and Risk Analysis
+Reliability Engineering
+Quality Assurance and Control
+Maintenance Engineering
+Human Factors Engineering
+Ergonomics
+Manufacturing Processes
+Machining
+Casting
+Forming
+Joining and Welding
+Additive Manufacturing (3D Printing)
+Molding and Extrusion
+Surface Engineering
+Tribology
+Friction and Wear
+Lubrication
+Bearings
+Gears and Gear Drives
+Belt and Chain Drives
+Couplings and Clutches
+Linkages
+Pumps and Compressors
+Valves and Fittings
+Gas Turbines
+Steam Turbines
+Hydraulic and Pneumatic Systems
+Fluid Power
+Conveyors and Material Handling Systems
+HVAC (Heating, Ventilation, and Air Conditioning) Systems
+Noise and Vibration Control
+Acoustics
+Metrology and Instrumentation
+Measurement and Inspection
+Nondestructive Testing
+Reverse Engineering
+Engineering Analysis and Problem Solving
+Engineering Software (MATLAB, SolidWorks, ANSYS, etc.)
+Research and Development (R&D)
+Technical Writing and Communication
+Engineering Organizations and Societies
+Licensure and Certification
+Continuing Education
+Career Development

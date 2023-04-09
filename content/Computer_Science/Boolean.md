@@ -1,3 +1,0 @@
-# Boolean
-
-Boolean is a type of data that can be either true or false. It is named after George Boole, an English mathematician who invented it. Boolean is a type of logic used to make decisions or solve problems. It is used to create an "if-then" statement, which means that if something is true, then something else must also be true. For example, if it is raining outside, then it must be wet. Boolean is also used in computer programming to tell the computer what to do. For example, if a program needs to check if a number is greater than 10, it can use Boolean to tell it to do so. Boolean is a very useful tool in computer science and can be used to solve many problems.

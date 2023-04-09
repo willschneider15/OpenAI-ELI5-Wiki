@@ -1,3 +1,0 @@
-# TCP
-
-TCP stands for Transmission Control Protocol. It is a network protocol that helps computers communicate with each other over the internet. It is responsible for breaking up messages into small pieces called packets and sending them to the right destination. It also makes sure that all the packets arrive in the right order and that none are lost. It also helps check for errors in the data. TCP works like a two-way street - it sends data from one computer to another and then waits for a response. This way, the two computers can communicate with each other and make sure that the data is correct.

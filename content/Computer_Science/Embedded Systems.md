@@ -1,3 +1,0 @@
-# Embedded Systems
-
-Embedded systems are computer systems that are built into a larger device or system. They are designed to perform a specific task and are usually small in size. They are made up of a combination of hardware and software components. The hardware includes a processor, memory, and input/output devices. The software includes the operating system and other applications. Embedded systems are used in many everyday devices such as cell phones, televisions, and cars. They are also used in industrial and medical equipment, robots, and military systems. Embedded systems are important because they help us control and monitor our environment. They make our lives easier and help us to be more efficient.

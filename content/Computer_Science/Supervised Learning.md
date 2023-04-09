@@ -1,3 +1,0 @@
-# Supervised Learning
-
-Supervised Learning is a type of machine learning where a computer is given a set of data and a set of labels that tell the computer what each piece of data is. The computer then uses the labels to learn how to identify the data correctly. For example, if the computer is given a set of pictures of cats and dogs, it can learn to recognize which is which by looking at the labels. After the computer has learned how to identify the data correctly, it can then be used to predict what other data looks like. For example, if the computer is given a picture of a new animal, it can tell whether it is a cat or a dog.

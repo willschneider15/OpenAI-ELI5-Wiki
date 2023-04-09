@@ -1,3 +1,0 @@
-# Stack
-
-A stack is like a pile of books. When you want to add a new book to the pile, you put it on top. This is called pushing the book onto the stack. When you want to take a book off the pile, you take the one on the top of the pile. This is called popping the book off the stack. Stacks are used in computer programming to store data in a specific order. The data is added and removed in a Last In, First Out (LIFO) order. This means that the last item added to the stack is the first item that can be removed. Stacks are used in many different ways, from managing memory in a computer to solving complex mathematical equations.

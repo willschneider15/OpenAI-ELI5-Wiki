@@ -1,3 +1,0 @@
-# Arguments
-
-Arguments are pieces of information that are passed into a function in order to get a desired result. They are also known as parameters or inputs. Arguments are placed within the parentheses of a function, and can be of any data type, such as numbers, strings, or Boolean values. When a function is called, the arguments are evaluated and the function then performs a specific task based on the values of the arguments. For example, a function might take two numbers as arguments and return the sum of the two numbers. Arguments are an important part of programming and are used to customize the behavior of a function.

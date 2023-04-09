@@ -1,3 +1,0 @@
-# Unsupervised Learning
-
-Unsupervised Learning is a type of machine learning algorithm that works without any prior knowledge of the data. It looks at the data and tries to find patterns within it. It is used to discover hidden structures in the data, such as clusters of similar data points. It can also be used to detect anomalies in the data, such as outliers. Unsupervised Learning algorithms are used in applications such as image recognition, natural language processing, and customer segmentation. By using Unsupervised Learning, computers can learn to identify patterns in data without any human guidance.

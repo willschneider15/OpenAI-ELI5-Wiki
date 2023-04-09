@@ -1,3 +1,0 @@
-# Agile Methodology
-
-Agile Methodology is a way of developing software that focuses on quickly creating and improving products. It encourages collaboration between developers, designers, and customers to ensure that the final product meets the customer's needs. Agile emphasizes the importance of flexibility, allowing for changes in the product as the customer's needs change. The process is broken down into small chunks called "sprints", which are short periods of time where the team works together to create a new feature or improve an existing one. At the end of each sprint, the team reviews the work and makes adjustments as needed. Agile Methodology is a great way to ensure that the customer's needs are met while also allowing for quick changes and improvements.
