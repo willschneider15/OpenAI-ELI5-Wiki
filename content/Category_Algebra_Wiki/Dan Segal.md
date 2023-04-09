@@ -1,0 +1,3 @@
+# Dan Segal
+
+Dan Segal is a concept that teaches us to be mindful of how we spend our money. It suggests that instead of spending money on things that don't bring us long-term satisfaction, we should focus on investing in experiences and relationships that will bring us lasting joy. Dan Segal encourages us to think about what matters most to us, and to make sure that our money is going towards those things. It also suggests that we think about our spending habits and make sure that we're not overspending on things that won't bring us lasting joy. By following the principles of Dan Segal, we can make sure that our money is going towards the things that will bring us true happiness.

@@ -1,0 +1,3 @@
+# Deep Learning
+
+Deep Learning is a type of Artificial Intelligence (AI) that uses algorithms to learn from large amounts of data. It is based on the idea that machines can learn from experience, just like humans do. Deep Learning uses layers of artificial neurons to process data and recognize patterns. Each layer of neurons is connected to the next, and each layer learns from the data it receives. The more layers there are, the deeper the learning. By using Deep Learning, machines can learn to recognize images, understand natural language, and make decisions. It is a powerful tool that can be used to solve complex problems.

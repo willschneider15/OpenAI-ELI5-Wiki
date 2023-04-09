@@ -1,0 +1,3 @@
+# Linear map
+
+Linear maps are a type of mathematical function that maps points from one space to another. They can be thought of like a straight line connecting two points. Linear maps take input points and transform them by multiplying them by a matrix, which is a set of numbers. The output points are then transformed according to the matrix. Linear maps are useful because they can be used to model relationships between different sets of data, such as transforming a 2D image into a 3D image. They are also used to solve linear equations and to analyze linear transformations. Linear maps can be applied to many different types of data, including vectors, matrices, and images.

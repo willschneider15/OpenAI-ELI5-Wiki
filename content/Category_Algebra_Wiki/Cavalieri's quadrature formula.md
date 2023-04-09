@@ -1,0 +1,3 @@
+# Cavalieri's quadrature formula
+
+Cavalieri's quadrature formula is a mathematical technique used to calculate the area of a shape by dividing it into small parts and adding up the areas of those parts. It is based on the idea that any shape can be broken down into a number of small pieces, and the area of each piece can be calculated by multiplying its height by its width. The total area of the shape is then the sum of the areas of all the pieces. This technique was first proposed by Italian mathematician Bonaventura Cavalieri in the 17th century. It is still used today, especially in computer graphics and engineering applications.

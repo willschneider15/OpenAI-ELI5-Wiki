@@ -1,0 +1,3 @@
+# Kernel (linear algebra)
+
+Kernel is a concept in linear algebra that helps us to understand how two sets of data are related. It is a mathematical tool used to measure the similarity between two sets of data. The kernel of a set of data is a measure of how much the data points in the set are related to each other. It is calculated by taking the dot product of two data points and then squaring it. The kernel can be used to determine the similarity between two data sets, and can also be used to classify data. For example, if two data sets have a high kernel, then they are likely to be related. The kernel can also be used to determine the best way to fit a line to a set of data points.

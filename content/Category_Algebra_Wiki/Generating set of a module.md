@@ -1,0 +1,3 @@
+# Generating set of a module
+
+A generating set of a module is a subset of the module's elements that can be used to generate all the other elements of the module. It is a minimal set of elements that can be used to generate the entire module. Generating sets are useful for understanding the structure of a module, and they can be used to make calculations and proofs more efficient. Generating sets can also be used to reduce the number of elements that need to be considered when solving a problem. Generating sets are typically composed of linearly independent elements, which means that no element of the generating set can be expressed as a linear combination of the other elements.

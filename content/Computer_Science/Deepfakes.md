@@ -1,0 +1,3 @@
+# Deepfakes
+
+Deepfakes are a type of artificial intelligence technology that can generate realistic videos or images of people doing or saying things they never actually did or said. It works by using a collection of images or videos of a person and then using algorithms to generate a new, convincing image or video of that person. For example, a deepfake video could be created that looks like a famous actor saying something they never actually said. Deepfakes can be used for both good and bad purposes, such as creating realistic videos for entertainment or creating malicious videos that spread false information.

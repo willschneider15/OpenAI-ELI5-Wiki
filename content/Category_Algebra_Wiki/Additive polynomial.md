@@ -1,0 +1,3 @@
+# Additive polynomial
+
+An additive polynomial is a type of polynomial equation that involves the addition of two or more terms. The terms of the equation can be constants, variables, or a combination of both. The terms can also be multiplied or divided by each other. The result of the equation is a single value that can be used to solve problems. Additive polynomials are used in many areas of mathematics, including algebra, calculus, and trigonometry. They can be used to find the area of a shape, calculate the volume of a cylinder, or solve equations involving more than one variable. By using additive polynomials, problems can be solved with greater accuracy and efficiency.

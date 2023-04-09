@@ -1,0 +1,3 @@
+# Hurwitz determinant
+
+The Hurwitz determinant is a mathematical tool used to determine the stability of a system. It is a matrix that contains information about the system's poles and zeros. The determinant of the matrix is calculated and then used to determine the stability of the system. If the determinant is negative, the system is stable; if the determinant is positive, the system is unstable. The Hurwitz determinant is a useful tool for engineers and scientists to analyze the stability of a system. It can be used to predict the behavior of a system and can help identify potential problems before they become serious.

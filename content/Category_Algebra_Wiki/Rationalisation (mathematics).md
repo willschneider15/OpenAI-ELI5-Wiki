@@ -1,0 +1,3 @@
+# Rationalisation (mathematics)
+
+Rationalisation is a mathematical concept which involves the simplification of an expression by removing any irrational numbers. It is done by multiplying both the numerator and denominator of a fraction by the same number. This number is usually the denominator's conjugate, which is the denominator with the opposite sign. By doing this, the denominator becomes a rational number and the fraction is simplified. For example, if you have the fraction $\frac{3}{\sqrt{2}}$, you can multiply the numerator and denominator by $\sqrt{2}$ to get $\frac{3\sqrt{2}}{2}$. This fraction is now simplified and rationalised.

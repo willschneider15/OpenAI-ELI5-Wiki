@@ -1,0 +1,3 @@
+# Berlekamp's algorithm
+
+Berlekamp's algorithm is an algorithm used to solve certain types of problems involving polynomials. It is named after its inventor, Elwyn Berlekamp. The algorithm works by taking a polynomial and breaking it down into simpler polynomials that can be more easily solved. This process is repeated until the problem is solved. Berlekamp's algorithm is used in many areas, such as cryptography, coding theory, and algebraic geometry. It can be used to solve problems that involve finding the roots of polynomials, finding the coefficients of polynomials, and finding the factors of polynomials. By breaking down a problem into simpler pieces, Berlekamp's algorithm can make solving complex polynomial problems easier.

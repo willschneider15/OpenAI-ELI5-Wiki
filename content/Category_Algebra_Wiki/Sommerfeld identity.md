@@ -1,0 +1,3 @@
+# Sommerfeld identity
+
+Sommerfeld identity is a mathematical equation that relates the average velocity of a particle to its average acceleration. It states that the average velocity of a particle over a given time interval is equal to the average acceleration multiplied by the time interval. This equation is useful in physics because it allows us to calculate the average velocity of a particle over a given time interval without having to measure the particle's position at every instant. The equation is named after Arnold Sommerfeld, a German physicist who developed it in the early 1900s. In essence, the Sommerfeld identity provides a way to calculate the average velocity of a particle without having to measure its position at every instant.

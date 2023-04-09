@@ -1,0 +1,3 @@
+# Rank (graph theory)
+
+Rank is a concept used in graph theory that measures the number of edges in a graph. It is usually represented by a number, and can be thought of as a measure of the complexity of the graph. In a graph, the higher the rank, the more edges it has. For example, a graph with rank 5 would have five edges, while a graph with rank 10 would have ten edges. Rank can also be used to compare the complexity of different graphs. For example, if two graphs have the same rank, they would have the same number of edges, but if one graph has a higher rank than the other, it would have more edges.

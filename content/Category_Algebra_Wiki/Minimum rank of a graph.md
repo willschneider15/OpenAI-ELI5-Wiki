@@ -1,0 +1,3 @@
+# Minimum rank of a graph
+
+Minimum rank of a graph is a concept used in graph theory to describe the smallest number of edges that can be removed from the graph to make it acyclic. A graph is acyclic if it contains no cycles, which means that there are no paths that start and end at the same vertex. The minimum rank of a graph is determined by the number of vertices and the number of edges. The minimum rank of a graph is equal to the number of vertices minus the number of edges. This concept is useful for finding the minimum number of edges that need to be removed from a graph in order to make it acyclic.

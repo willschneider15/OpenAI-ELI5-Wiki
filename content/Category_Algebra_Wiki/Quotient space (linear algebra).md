@@ -1,0 +1,3 @@
+# Quotient space (linear algebra)
+
+Quotient space is a concept in linear algebra which involves dividing a vector space into two or more subspaces. It is done by taking a subspace of the original vector space and dividing it by the subspace of the original vector space that is perpendicular to it. The result is a new vector space, called the quotient space, which is the space that remains after the division. This concept is useful for finding the solution to linear equations, since it allows us to break a complex problem into smaller, simpler parts. It also helps us understand how different vector spaces interact with each other and how they can be combined to create new vector spaces.

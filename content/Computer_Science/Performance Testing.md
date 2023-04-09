@@ -1,0 +1,3 @@
+# Performance Testing
+
+Performance testing is a type of software testing that is done to determine how well a system performs in terms of responsiveness and stability under a particular workload. It can help identify potential bottlenecks, determine the maximum number of users the system can handle at once, and measure the overall performance of the system. Performance testing is usually done by simulating real-world scenarios with a predefined set of users and measuring the response time, resource usage, and throughput of the system. This type of testing is important because it helps ensure that your system can handle the expected load and will not crash or become unresponsive when it is being used by many people at once.

@@ -1,0 +1,3 @@
+# Bilinear form
+
+A bilinear form is a mathematical concept which describes the relationship between two linear equations. It is a type of multilinear form, meaning it is a polynomial in two or more variables. In a bilinear form, the coefficients of the two linear equations are related to each other in a specific way. The form of a bilinear form is typically written as a matrix, with the coefficients of each variable on the left side of the matrix and the constants on the right side. By changing the coefficients, the bilinear form can be used to describe a variety of different relationships between two linear equations. It is often used in calculus, linear algebra, and other branches of mathematics.

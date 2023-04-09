@@ -1,0 +1,3 @@
+# Spectral graph theory
+
+Spectral graph theory is a branch of mathematics that studies the properties of graphs through the use of linear algebra. It looks at the eigenvalues and eigenvectors of a graph to understand its structure and properties. Eigenvalues measure the amount of stretching or squeezing that happens when a graph is transformed, while eigenvectors measure the direction of the transformation. By studying these values, we can learn about the connectivity of a graph, as well as its clustering structure. Spectral graph theory can also be used to solve optimization problems, such as finding the shortest path between two points.

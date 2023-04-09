@@ -1,0 +1,3 @@
+# Antivector
+
+Antivector is a concept that relates to physics and mathematics. It is a mathematical concept that describes the opposite of a vector. A vector is a quantity with both magnitude and direction, such as a force or velocity. An antivector is the opposite of a vector, meaning it has the same magnitude but the opposite direction. For example, if a vector is pointing to the right, the antivector would be pointing to the left. Antivectors are important in physics because they can help explain the behavior of particles and waves. For example, when two waves meet, the result is a combination of their vectors and antivectors. Antivectors can also be used to describe the motion of particles in a vacuum.

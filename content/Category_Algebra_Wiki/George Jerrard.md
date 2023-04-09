@@ -1,0 +1,3 @@
+# George Jerrard
+
+George Jerrard was a British mathematician and philosopher who developed a concept called "The Principle of Indifference". This principle states that when faced with a decision, we should not give any extra preference to one option over another. We should treat all options as equal and make our decision based on facts and logic, not on our own personal biases or preferences. This concept is important in decision-making, as it helps us to make more informed and unbiased decisions. It also encourages us to think more objectively and rationally, which can lead to better outcomes.

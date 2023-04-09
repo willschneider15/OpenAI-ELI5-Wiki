@@ -1,0 +1,3 @@
+# Unit vector
+
+A unit vector is a vector that has a magnitude (or length) of one. It is usually represented by a line with an arrow at one end. Unit vectors are used to represent directions, such as up, down, left, or right. They are also used to represent the magnitude of a vector in a certain direction, such as the speed of a car traveling north. Unit vectors are important because they allow us to compare two vectors of different magnitudes, and to calculate the angle between them. Unit vectors can also be used to calculate the components of a vector, which is the length of the vector in each direction.

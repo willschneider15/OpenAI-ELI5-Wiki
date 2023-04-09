@@ -1,0 +1,3 @@
+# Algebraic graph theory
+
+Algebraic graph theory is a branch of mathematics that studies the relationships between graphs and algebraic structures. Graphs are made up of points (or vertices) connected by lines (or edges). Algebraic graph theory looks at how the properties of these graphs can be described using algebraic equations. For example, a graph could be used to represent a network of friends, and algebraic equations can be used to describe how many friends each person has, or how many people two friends have in common. Algebraic graph theory can also be used to solve problems, such as finding the shortest path between two points.

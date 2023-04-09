@@ -1,0 +1,3 @@
+# General linear group
+
+The General Linear Group is a group of matrices that represent all possible linear transformations of a given vector space. It is composed of all matrices that can be used to transform one vector space into another. These matrices can be used to scale, rotate, reflect, and translate vectors. The General Linear Group is important in mathematics and physics because it is used to study linear transformations and their properties. It is also used to solve linear equations and to model physical systems. In addition, the General Linear Group is used in computer graphics to transform and manipulate objects.

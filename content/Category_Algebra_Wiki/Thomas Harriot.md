@@ -1,0 +1,3 @@
+# Thomas Harriot
+
+Thomas Harriot was an English mathematician and astronomer who lived in the 1500s. He was one of the first people to use a telescope to study the night sky. He was also the first person to create detailed drawings of the moon and planets. He was a pioneer in the field of mathematics and made important contributions to the development of trigonometry. He also wrote a book about the mathematics of navigation, which helped sailors find their way around the world. He was an important figure in the Scientific Revolution and is considered one of the greatest scientists of the Renaissance.

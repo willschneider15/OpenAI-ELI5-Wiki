@@ -1,0 +1,3 @@
+# László Rédei
+
+László Rédei was a Hungarian mathematician who developed the concept of "Rédei's Theorem". This theorem states that if two different mathematical statements are true, then the combination of them must also be true. This is an important concept in mathematics because it helps us understand how different mathematical statements can be related to each other. For example, if two equations have the same solution, then the combination of those equations must also have the same solution. Rédei's Theorem is a useful tool for proving mathematical statements and understanding the relationships between different mathematical statements.

@@ -1,0 +1,3 @@
+# Wallace Smith Martindale
+
+Wallace Smith Martindale is a system of organizing information. It was developed by librarians in the late 1800s to help people find and organize information. It works by grouping related topics together and assigning each topic a number. Each number represents a specific topic. For example, the number 8 might represent books about animals, while the number 9 might represent books about plants. By assigning numbers to topics, it makes it easier to find information on a specific subject. With Wallace Smith Martindale, you can quickly look up a topic and find all the information related to it. It's a great way to organize information and make it easier to find.

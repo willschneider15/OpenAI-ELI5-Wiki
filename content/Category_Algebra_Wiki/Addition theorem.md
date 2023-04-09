@@ -1,0 +1,3 @@
+# Addition theorem
+
+The Addition Theorem states that for any two angles, the sum of their measures is equal to the measure of the angle formed by the sum of their sides. This means that if two angles, `A` and `B`, have measures of `x` and `y` respectively, then the measure of the angle formed by the sum of their sides is equal to `x + y`. This theorem is useful for solving problems involving angles, as it allows us to determine the measure of angles without having to measure them directly. For example, if we know that two angles form a straight line, then the sum of their measures must be 180°.

@@ -1,0 +1,3 @@
+# Benjamin Peirce
+
+Benjamin Peirce was an American mathematician who is credited with creating the concept of "mathematical rigor." This refers to the idea that mathematical proofs should be precise, logical, and free of errors. Peirce believed that mathematics should be based on rigorous logical reasoning, rather than intuition or guesswork. He argued that mathematics should be based on facts and evidence, rather than assumptions or speculation. Peirce's ideas have been influential in modern mathematics and have helped to shape the way we think about mathematics today. His concept of mathematical rigor has been adopted by mathematicians around the world and is now considered essential for producing reliable and accurate mathematical results.

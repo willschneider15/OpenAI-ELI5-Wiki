@@ -1,0 +1,3 @@
+# Lemmatization
+
+Lemmatization is a way of simplifying words so that they can be more easily understood. It involves taking a word and reducing it to its base form. For example, the word "running" would be reduced to "run". This makes it easier for computers to process and understand words, as they don't have to take into account all the different forms of a word. Lemmatization is especially useful for natural language processing, where computers need to understand the meaning of words in order to process them. Lemmatization can also help with spelling and grammar mistakes, as it will give the computer the correct spelling of a word.

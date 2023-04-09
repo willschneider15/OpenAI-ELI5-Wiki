@@ -1,0 +1,3 @@
+# Amitsur complex
+
+Amitsur complexes are a type of algebraic structure that are used to study algebraic equations. They are named after the mathematician Shmuel Amitsur, who developed the concept in the 1950s. Amitsur complexes are a set of elements and operations that satisfy certain axioms. The elements of an Amitsur complex are called "generators", and the operations are called "operations". The axioms define how the generators and operations interact, and how they can be combined to form new elements and operations. Amitsur complexes are useful in studying algebraic equations because they allow us to represent equations in a more abstract way, and to better understand their structure.

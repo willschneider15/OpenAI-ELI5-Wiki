@@ -1,0 +1,3 @@
+# Jessica Sklar
+
+Jessica Sklar is an inspiring entrepreneur who created a successful business from nothing. She started out by selling jewelry on eBay and then eventually opened her own jewelry store. She has since become a successful businesswoman and has been featured in numerous publications and television shows. She is an example of how hard work and dedication can lead to success. Jessica Sklar is a reminder that anyone can achieve their dreams if they put in the effort and have a positive attitude. She is an example of how you can take an idea and turn it into a successful business. Jessica Sklar is an inspiration to many and her success story is an example of what can be achieved with hard work and dedication.

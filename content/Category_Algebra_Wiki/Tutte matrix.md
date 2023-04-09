@@ -1,0 +1,3 @@
+# Tutte matrix
+
+A Tutte matrix is a type of mathematical matrix that is used to represent a graph. It is named after the British mathematician W.T. Tutte. The matrix consists of rows and columns that represent the edges and vertices of a graph. Each entry in the matrix contains a value that indicates whether an edge is connected to a vertex or not. If the value is 1, then the edge is connected to the vertex, and if the value is 0, then the edge is not connected to the vertex. The Tutte matrix can be used to determine the number of edges and vertices in a graph, as well as the number of connected components. It can also be used to find paths between two vertices in a graph.

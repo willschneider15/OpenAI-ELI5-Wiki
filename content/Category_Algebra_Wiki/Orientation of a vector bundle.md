@@ -1,0 +1,3 @@
+# Orientation of a vector bundle
+
+A vector bundle is a mathematical object that consists of a set of vectors and a set of functions that connect them. The orientation of a vector bundle is a way of assigning a direction to each of the vectors. This direction is determined by the order in which the vectors are connected. For example, if the vectors are connected in a clockwise direction, then the orientation of the vector bundle is said to be clockwise. The orientation of a vector bundle is important in mathematics, as it can be used to determine the properties of the bundle and the objects it contains.

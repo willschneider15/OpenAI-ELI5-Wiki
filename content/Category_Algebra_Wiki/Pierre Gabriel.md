@@ -1,0 +1,3 @@
+# Pierre Gabriel
+
+Pierre Gabriel is a concept that helps children learn how to make decisions and solve problems. It involves breaking down a problem into small parts, or "Gabriels," and then figuring out the best solution for each part. This helps children think more logically and systematically, so they can understand the problem better and come up with the best answer. With Pierre Gabriel, children learn to look at a problem from different perspectives, consider different solutions, and then decide which one is best for them. This helps them develop important decision-making skills that can be used in their everyday lives.

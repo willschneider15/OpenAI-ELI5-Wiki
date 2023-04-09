@@ -1,0 +1,3 @@
+# Differentiation of trigonometric functions
+
+Differentiation of trigonometric functions is a process of finding the rate of change of a trigonometric function with respect to its independent variable. It is used to find the slope of a curve at any given point. This is done by taking the derivative of the function, which is the rate of change of the output with respect to the input. Differentiation of trigonometric functions is an important concept in calculus as it is used to find the maximum and minimum points of a curve, as well as the inflection points. This can be used to determine the shape of a curve and the area under it. Differentiation of trigonometric functions can also be used to solve equations and find the roots of a function.

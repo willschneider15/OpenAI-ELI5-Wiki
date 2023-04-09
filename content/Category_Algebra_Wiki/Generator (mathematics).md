@@ -1,0 +1,3 @@
+# Generator (mathematics)
+
+Generators are mathematical objects which can be used to generate a set of related numbers. A generator can be thought of as a machine which takes a number as an input and produces a related number as an output. Generators are often used in mathematics to generate sequences of numbers, such as the Fibonacci sequence. Generators can also be used to create patterns or sequences of numbers which have a certain property, such as being prime numbers. Generators can be used to explore relationships between numbers and to discover new patterns or sequences. Generators can also be used to create algorithms which can be used to solve mathematical problems.

@@ -1,0 +1,3 @@
+# Polarization of an algebraic form
+
+Polarization of an algebraic form is a concept used to describe the transformation of a polynomial from one form to another. It involves the use of a transformation matrix to convert the polynomial from its original form to a new form. This new form has the same coefficients as the original form but in a different order. This transformation is useful as it can help simplify the polynomial, making it easier to analyze and solve. Polarization also allows for the polynomial to be expressed in different forms, such as the standard form or the factored form. This can be useful when trying to solve equations or identify the roots of a polynomial.

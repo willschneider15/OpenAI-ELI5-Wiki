@@ -1,0 +1,3 @@
+# Phishing
+
+Phishing is a type of cyber attack that attempts to trick people into revealing sensitive information or taking some other action. It is done by sending emails or texts that appear to be from a legitimate source, such as a bank or company. The emails or texts contain links or attachments that lead to malicious websites or downloads. These websites or downloads can be used to steal passwords, credit card information, and other personal information. People should be careful when clicking on links or downloading attachments from unknown sources, as they could be part of a phishing attack.

@@ -1,0 +1,3 @@
+# Machine Code
+
+Machine code is the language that computers understand. It is made up of a series of numbers and letters that are used to tell the computer what to do. Machine code is the lowest level of programming language and it is the basic instructions that the computer follows. It is usually written in binary, which is a series of 0s and 1s. The 0s and 1s tell the computer which instructions to execute. Machine code is the foundation of all computer programs, and it is the language that the computer understands best. Even though it can be difficult to read and understand, it is an essential part of programming.

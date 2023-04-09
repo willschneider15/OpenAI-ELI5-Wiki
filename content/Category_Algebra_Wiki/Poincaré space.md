@@ -1,0 +1,3 @@
+# Poincaré space
+
+Poincaré space is a way of looking at the world through the eyes of mathematics. It is a space where shapes and objects can be represented as mathematical equations. This makes it easier to understand how things interact with each other and how they change over time. In Poincaré space, shapes can be described by equations that show how they change over time. This makes it possible to study how objects move and how they interact with each other. It is also used to study how the laws of physics work in different parts of the universe. Poincaré space is a powerful tool for understanding the world around us and how it works.

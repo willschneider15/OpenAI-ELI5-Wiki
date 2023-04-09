@@ -1,0 +1,3 @@
+# Spread of a matrix
+
+A matrix is a two-dimensional data structure that contains elements arranged in rows and columns. The spread of a matrix is the difference between the largest and smallest values in the matrix. It is used to measure the range of values in a matrix and is calculated by subtracting the smallest value from the largest value. It is a useful tool for comparing different matrices and determining which one has the greatest range of values. The spread can also be used to measure the variability of values in a matrix. A larger spread indicates that the data is more spread out, while a smaller spread indicates that the data is more concentrated. The spread of a matrix is an important concept to understand when working with matrices.

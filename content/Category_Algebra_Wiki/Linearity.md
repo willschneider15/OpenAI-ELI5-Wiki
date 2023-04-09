@@ -1,0 +1,3 @@
+# Linearity
+
+Linearity is a concept that can be used to describe relationships between different things. It means that if you change one thing, the other thing will change in a predictable, consistent way. For example, if you increase the speed of a car, it will take less time to travel a certain distance. This is an example of a linear relationship. Linearity is important in mathematics because it makes it easier to predict how things will change when one thing is changed. It also helps us understand how different things are related to each other and how they interact. Linearity is a concept that is used in many different areas, from physics to economics.

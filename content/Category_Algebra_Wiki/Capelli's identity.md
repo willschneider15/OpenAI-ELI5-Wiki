@@ -1,0 +1,3 @@
+# Capelli's identity
+
+Capelli's identity is a way of proving that two people are related. It is based on the idea that each person has a unique pattern of genetic markers, called alleles, which can be used to identify them. The alleles are passed down from parent to child, so if two people have the same alleles, it is likely that they are related. To prove this, scientists use a technique called DNA fingerprinting, which looks at the alleles of each person and compares them. If the alleles match, it is a strong indication that the two people are related. Capelli's identity is a powerful tool for proving relationships between people and can be used to identify family members or to solve criminal cases.

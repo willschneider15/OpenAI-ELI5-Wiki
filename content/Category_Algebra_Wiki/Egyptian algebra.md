@@ -1,0 +1,3 @@
+# Egyptian algebra
+
+Egyptian algebra was a system of mathematics used by the ancient Egyptians to solve problems. It was based on the idea of using symbols to represent unknown numbers and equations to find the solution. The symbols were usually geometric shapes such as triangles, squares, and circles. The equations used simple operations such as addition, subtraction, multiplication, and division. The Egyptians used this system to solve problems such as finding the area of a triangle or the volume of a cylinder. They were able to solve these problems without the use of a calculator or other modern tools. Egyptian algebra was a very advanced system for its time and is still studied today.

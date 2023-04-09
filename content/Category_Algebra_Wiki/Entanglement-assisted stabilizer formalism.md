@@ -1,0 +1,3 @@
+# Entanglement-assisted stabilizer formalism
+
+Entanglement-assisted stabilizer formalism is a way of using entanglement to simplify the calculations of stabilizer codes. Entanglement-assisted stabilizer formalism works by taking two entangled qubits and using them to represent a single logical qubit. This allows for a simplified representation of the stabilizer code, which is a set of equations that describe the state of a quantum system. This simplification makes it easier to calculate the properties of the system, such as its energy or the probability of an outcome. Entanglement-assisted stabilizer formalism can be used to study the properties of quantum systems, and to help us understand how they work.

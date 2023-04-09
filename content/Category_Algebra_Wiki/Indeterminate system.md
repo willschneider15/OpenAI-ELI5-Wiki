@@ -1,0 +1,3 @@
+# Indeterminate system
+
+An indeterminate system is a system of equations or inequalities that cannot be solved by a single equation or inequality. It is characterized by having more unknowns (variables) than equations or inequalities, making it impossible to determine a unique solution. In such cases, there may be multiple solutions, no solution, or an infinite number of solutions. Indeterminate systems can be solved using methods such as the Gaussian Elimination or the Cramer's Rule. These methods involve manipulating the equations or inequalities to find a solution, or a set of solutions, that satisfies all of the equations or inequalities.

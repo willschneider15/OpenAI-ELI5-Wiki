@@ -1,0 +1,3 @@
+# Freshman's dream
+
+Freshman's Dream is a concept that states that freshmen year of college is the best year of college. It is based on the idea that freshman year is the most exciting and carefree part of college life, as students are just beginning their college experience and are allowed to explore different opportunities and make new friends. Freshman year is also the time when students can take on more responsibility and become more independent, as they are no longer living with their parents and are now responsible for their own decisions and actions. Freshman year is also the time when students can make mistakes and learn from them, as they are still adjusting to college life and the transition from high school.

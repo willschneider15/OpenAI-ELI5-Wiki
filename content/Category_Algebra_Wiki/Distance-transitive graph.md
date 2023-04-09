@@ -1,0 +1,3 @@
+# Distance-transitive graph
+
+Distance-transitive graphs are a type of graph that is used to measure the distance between two vertices (points) in a graph. In a distance-transitive graph, the distance between any two vertices is always the same, regardless of the order in which they are connected. This means that if two vertices are connected by a path of length n, then the same path of length n will be found between any other two vertices in the graph. This property makes distance-transitive graphs useful for modeling real-world networks, such as transportation systems, where the distance between two points is always the same.

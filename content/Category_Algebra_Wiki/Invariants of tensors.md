@@ -1,0 +1,3 @@
+# Invariants of tensors
+
+Invariants of tensors are mathematical objects that remain constant under certain transformations. They are used to describe the properties of a system that remain unchanged in certain circumstances. For example, the length of a vector is an invariant of the vector under rotations. Similarly, the volume of a cube is an invariant of the cube under translations. Invariants of tensors are important in physics, engineering, and mathematics, as they provide insight into the behavior of a system under different transformations. They can be used to simplify equations and provide a way to compare different systems.

@@ -1,0 +1,3 @@
+# Homogeneous function
+
+Homogeneous functions are mathematical functions that have the same degree of non-linearity across all of their inputs. This means that if you take two inputs of the same type, the output of the function will be the same regardless of the values of the inputs. Homogeneous functions are useful for simplifying equations and making them easier to work with. For example, if you have a function that takes two inputs and returns a value, it is much easier to work with if the function is homogeneous because you can just plug in the same value for both inputs and get the same result. Homogeneous functions are also useful in optimization problems because they allow you to quickly identify the optimal solution without having to solve the entire problem.

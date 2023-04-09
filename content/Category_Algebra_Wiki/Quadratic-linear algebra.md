@@ -1,0 +1,3 @@
+# Quadratic-linear algebra
+
+Quadratic-linear algebra is a type of algebra that combines the concepts of linear algebra and quadratic equations. In linear algebra, equations are written in the form of linear equations, which are equations with one variable and a constant. Quadratic equations, on the other hand, are equations with two variables and a constant. Quadratic-linear algebra combines these two concepts, allowing for equations with two variables and a quadratic equation. This allows for equations with more complex solutions, such as equations with multiple solutions or equations that are not linear. Quadratic-linear algebra is used in many areas of mathematics and science, such as physics, economics, and engineering.

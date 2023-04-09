@@ -1,0 +1,3 @@
+# Rational series
+
+Rational series is a type of mathematical sequence in which each successive term is obtained by adding a fixed number to the previous term. The fixed number is called the common difference and the sequence is said to be in arithmetic progression. For example, the sequence 2, 5, 8, 11, 14, 17 is an arithmetic progression with a common difference of 3. Rational series is a special type of arithmetic progression in which the common difference is a fraction or a rational number. For example, the sequence 1/2, 1, 3/2, 2, 5/2 is a rational series with a common difference of 1/2. Rational series are useful in solving mathematical problems and can be used to analyze patterns and relationships in data.

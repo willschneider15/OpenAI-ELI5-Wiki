@@ -1,0 +1,3 @@
+# Responsive Web Design
+
+Responsive web design is a way of designing websites so that they look good and work well on any device, from a desktop computer to a smartphone. It uses a combination of flexible grids and layouts, images, and clever use of CSS media queries. The idea is that the website should automatically adjust itself to look good on any screen size, no matter how big or small it is. This means that the website will look great on any device, no matter what its size or resolution. Responsive web design is important because it ensures that users have a great experience when they visit your website, no matter what device they are using.

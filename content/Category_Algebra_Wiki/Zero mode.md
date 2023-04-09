@@ -1,0 +1,3 @@
+# Zero mode
+
+Zero mode is a way of thinking about how the world works. It is based on the idea that everything is connected and that all parts of the universe are part of a larger whole. Zero mode believes that by understanding the connections between all things, we can better understand the world around us and make better decisions. It encourages us to look at the big picture and consider the implications of our actions. Zero mode also emphasizes the importance of balance and harmony between all things, as well as the need for us to be mindful of our environment and our impact on it. With this type of thinking, we can learn to be more aware of our decisions and the consequences of our actions.

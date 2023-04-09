@@ -1,0 +1,3 @@
+# Bartel Leendert van der Waerden
+
+Bartel Leendert van der Waerden was a Dutch mathematician who made important contributions to the field of mathematics. He is best known for his work on algebra and number theory, as well as his work on the history of mathematics. He is also remembered for his work on the Van der Waerden numbers, which are a set of numbers that are used to determine the size of a set of numbers. Van der Waerden's work has been used in many areas of mathematics, including graph theory, group theory, and number theory. Van der Waerden's work is important because it helped to develop the modern field of mathematics and he is remembered for his contributions to the field.

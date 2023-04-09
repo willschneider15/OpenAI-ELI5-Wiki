@@ -1,0 +1,3 @@
+# Irreducible polynomial
+
+An irreducible polynomial is a mathematical expression that cannot be broken down into simpler polynomials. It is a polynomial that has no factors other than itself and one. For example, the polynomial x^2 + 1 is irreducible because it cannot be factored into two polynomials. Irreducible polynomials are important in algebra and number theory, as they are used to construct fields and other algebraic structures. They are also used in cryptography to create secure systems. Irreducible polynomials can be used to find the roots of a polynomial, which can be used to solve equations.

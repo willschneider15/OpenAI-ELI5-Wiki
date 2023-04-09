@@ -1,0 +1,3 @@
+# Agata Smoktunowicz
+
+Agata Smoktunowicz is a Polish artist who creates art from everyday objects. She uses materials such as wood, metal, paper, and fabric to create sculptures and installations. Her works often explore themes of nature, memory, and identity. She often combines the materials in unexpected ways to create unique pieces. Her art is often interactive, allowing viewers to experience and explore the materials in a new way. Smoktunowicz's art is often playful and whimsical, inviting viewers to look at the world in a new way. By using everyday objects, she encourages viewers to think about the objects around them in new and creative ways. Smoktunowicz's art is a reminder that art can be found in the most unexpected places.

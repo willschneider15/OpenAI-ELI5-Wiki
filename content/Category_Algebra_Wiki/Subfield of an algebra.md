@@ -1,0 +1,3 @@
+# Subfield of an algebra
+
+A subfield of an algebra is a subset of a larger algebraic structure that shares the same properties as the larger algebraic structure. It is a type of algebraic structure that is smaller than the larger algebraic structure, yet still has the same properties. Subfields can be used to simplify calculations and make them easier to understand. For example, if a larger algebraic structure contains elements that are too complex to calculate, a subfield can be used to simplify the calculations. Subfields can also be used to create new algebraic structures that are more specific to certain problems.

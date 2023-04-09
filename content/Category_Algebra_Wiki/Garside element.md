@@ -1,0 +1,3 @@
+# Garside element
+
+A Garside element is a type of element used in the study of monoids, which are algebraic structures that have a single associative binary operation. Garside elements are special elements that have a unique property called the Garside property, which states that any two elements in the monoid can be expressed as a product of powers of the Garside element and its inverse. This property makes Garside elements very useful in studying the structure of monoids. Garside elements can be used to create a normal form for elements in the monoid, which allows for efficient computations and makes it easier to study the properties of the monoid.

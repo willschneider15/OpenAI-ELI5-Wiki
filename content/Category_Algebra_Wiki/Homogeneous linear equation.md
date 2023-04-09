@@ -1,0 +1,3 @@
+# Homogeneous linear equation
+
+A homogeneous linear equation is a type of equation in which all terms have the same degree, or power. This means that all terms are multiplied by the same variable. The equation can be written as ax + by + cz = 0, where a, b, and c are constants and x, y, and z are variables. The solution to a homogeneous linear equation is a set of values for the variables that make the equation true. For example, if the equation is 2x + 3y + 4z = 0, then the solution is x = -2, y = -3, and z = -4. Homogeneous linear equations are used in many areas of mathematics, including calculus, linear algebra, and graph theory.

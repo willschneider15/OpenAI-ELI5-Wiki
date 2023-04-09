@@ -1,0 +1,3 @@
+# Sergey Fomin
+
+Sergey Fomin is a Russian mathematician who made important contributions to the field of mathematical optimization. He is best known for developing the Fomin-Kirillov algorithm, which is a powerful tool for solving optimization problems. This algorithm is used to find the best solution to a given problem by searching through all possible solutions. It is based on the idea of finding the most optimal solution among a set of choices. Fomin's work has had an immense impact on the field of mathematical optimization and has been used in many areas, such as finance, engineering, and machine learning. Fomin's work has also been used to develop algorithms for solving the traveling salesman problem and other difficult optimization problems.

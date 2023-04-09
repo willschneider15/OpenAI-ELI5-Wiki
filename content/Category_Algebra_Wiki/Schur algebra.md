@@ -1,0 +1,3 @@
+# Schur algebra
+
+Schur algebras are a type of algebra used to study symmetric polynomials. The Schur algebra is named after Issai Schur, a German mathematician. It is a special type of algebra that combines elements of linear algebra, group theory, and representation theory. The Schur algebra can be used to solve linear equations, find symmetric polynomials, and study the structure of certain types of algebraic objects. It is also used to study the representations of certain groups, such as the symmetric group. In short, Schur algebras are a powerful tool for studying symmetric polynomials and other algebraic structures.

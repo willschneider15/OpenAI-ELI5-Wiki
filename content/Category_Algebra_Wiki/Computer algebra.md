@@ -1,0 +1,3 @@
+# Computer algebra
+
+Computer algebra is like a calculator for math equations. Instead of punching numbers into a calculator, you type in math equations and the computer does the calculations for you. It's like having a math wizard at your fingertips. It can solve equations, simplify fractions, and even help you graph equations. Computer algebra is a great tool for students and teachers alike. It can help you save time and energy when solving math problems. It can also help you understand math concepts more deeply. With computer algebra, you can explore math problems in ways you never thought possible.

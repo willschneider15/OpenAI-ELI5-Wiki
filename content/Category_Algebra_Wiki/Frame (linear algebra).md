@@ -1,0 +1,3 @@
+# Frame (linear algebra)
+
+Frame is a concept in linear algebra which is used to describe a set of vectors. It is a collection of vectors that span a vector space. A Frame is a set of vectors that are linearly independent and span the same space. This means that any vector in the space can be written as a linear combination of the vectors in the Frame. Frames are useful for representing linear transformations and for solving linear equations. They can also be used to describe the geometry of a space. Frames can be thought of as building blocks for a vector space. Just like a house is built from bricks, a vector space is built from Frames.

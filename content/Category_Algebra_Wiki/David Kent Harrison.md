@@ -1,0 +1,3 @@
+# David Kent Harrison
+
+David Kent Harrison is a concept that teaches children the importance of respect and understanding. It encourages children to be kind to each other and to think about how their actions and words might affect others. It also encourages children to think before they act, and to be aware of their own feelings and the feelings of others. It teaches children to be mindful of the environment and to be considerate of those around them. David Kent Harrison also encourages children to take responsibility for their actions and to think about the consequences of their actions. It helps children to develop empathy, compassion, and understanding of others.

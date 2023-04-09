@@ -1,0 +1,3 @@
+# Memory Address
+
+Memory address is an important concept in computer science. It is a unique identifier for a specific memory location in a computer's memory. Each memory location has an address, which is a number that can be used to access the data stored in that location. A memory address can be thought of like a street address – it tells the computer where to find the data it needs. Memory addresses are used to access data stored in memory, such as instructions for a program, data for calculations, or data to be displayed on the screen. Memory addresses are also used to store data, such as variables and other values used in a program. By using memory addresses, a computer can quickly and efficiently access the data it needs.

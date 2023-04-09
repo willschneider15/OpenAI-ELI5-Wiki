@@ -1,0 +1,3 @@
+# Unitary method
+
+Unitary method is a method of solving mathematical problems. It is a systematic way of breaking down a problem into smaller parts to find the solution. The method involves dividing the problem into smaller parts and then adding or subtracting the parts to find the solution. This method is helpful when the problem is too complex to solve in one step. It can also be used to solve problems involving fractions, decimals, and percentages. Unitary method can be used to solve a variety of problems, from basic arithmetic to more complex ones. It is a useful tool for problem-solving and understanding the basics of mathematics.

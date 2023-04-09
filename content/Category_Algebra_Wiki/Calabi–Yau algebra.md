@@ -1,0 +1,3 @@
+# Calabi–Yau algebra
+
+A Calabi–Yau algebra is a type of mathematical structure used to describe the geometry of certain spaces. It is named after mathematicians Eugenio Calabi and Shing-Tung Yau. It is a type of algebraic structure that can be used to describe the shape of certain objects in space, such as curved surfaces. It is made up of two parts: a set of equations called the Calabi–Yau equation and a set of equations called the Yau equation. The Calabi–Yau equation describes the shape of the object, while the Yau equation describes how the object is curved. Together, these equations help to describe the geometry of the object in a mathematical way.

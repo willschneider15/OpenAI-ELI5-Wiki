@@ -1,0 +1,3 @@
+# Maximum-minimums identity
+
+Maximum-minimums identity is a mathematical concept that states that the maximum of a function is equal to the minimum of its derivative. This concept is used to find the maximum and minimum values of a function by taking the derivative of the function and then finding the points at which the derivative is equal to zero. The maximum-minimums identity is useful in many fields, such as calculus, optimization, and economics. It can be used to find the maximum and minimum values of a function, as well as to determine the rate of change of a function at certain points. This concept is also helpful in finding the global minimum or maximum of a function, which is a point where the function has the lowest or highest value, respectively.

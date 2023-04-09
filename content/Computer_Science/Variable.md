@@ -1,0 +1,3 @@
+# Variable
+
+A variable is like a box that holds information. It can be used to store a number, letter, or word. For example, if you wanted to remember your age, you could create a variable called "age" and store your age inside it. Variables can also be used to store more complex information like a list of your favorite colors or a list of your friends' names. Variables can also be used to store the results of calculations. For example, if you wanted to calculate the average of two numbers, you could create two variables to store the two numbers and then create a third variable to store the result of the calculation. Variables are an important part of computer programming because they allow us to store and manipulate information.

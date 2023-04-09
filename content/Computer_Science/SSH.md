@@ -1,0 +1,3 @@
+# SSH
+
+SSH stands for Secure Shell and is a way to securely log into a computer remotely. It is like a secret tunnel that is created between two computers, allowing data to be sent securely. To use SSH, you need a username and password. The data sent between the two computers is encrypted, so that no one else can see it. When you log in, the data is decrypted so that you can view it. SSH is useful for securely accessing a computer from a remote location, or for transferring files between two computers. It is also used for securely connecting two computers together, so that you can use one computer to control the other.

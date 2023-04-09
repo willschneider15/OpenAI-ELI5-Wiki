@@ -1,0 +1,3 @@
+# Stabilizer code
+
+Stabilizer codes are a type of error-correcting code used in quantum computing. They help to protect quantum information from errors caused by noise, such as fluctuations in temperature or electromagnetic interference. Stabilizer codes work by encoding quantum information into a set of qubits (quantum bits). Each qubit is assigned a stabilizer operator, which is a mathematical equation that describes how the qubit should behave. If the qubit does not behave as expected, the stabilizer operator can detect the error and correct it. This helps to ensure that the quantum information remains accurate, even in the presence of noise.

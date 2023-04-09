@@ -1,0 +1,3 @@
+# Generalized eigenvector
+
+A generalized eigenvector is a vector that can be used to solve a system of linear equations. It is a combination of several eigenvectors, which are vectors that do not change direction when multiplied by a matrix. Generalized eigenvectors are useful because they allow us to solve systems of equations that have more than one solution. They can be used to find the best solution for a given problem, as well as for finding the most efficient way to solve a system of equations. Generalized eigenvectors are also used in machine learning applications, where they help to find the most important features in a dataset.

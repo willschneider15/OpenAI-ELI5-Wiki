@@ -1,0 +1,3 @@
+# Generalized arithmetic progression
+
+Generalized arithmetic progression (GAP) is a type of mathematical sequence in which the difference between any two consecutive terms is a constant. This constant is known as the common difference. GAPs can be used to describe a variety of patterns, such as linear and exponential growth. They are often used to describe sequences of numbers that increase or decrease by a fixed amount. For example, the sequence 1, 3, 5, 7, 9, 11 is a GAP with the common difference of 2. GAPs can also be used to model real-world situations, such as population growth or the spread of an epidemic. GAPs are an important tool for understanding and predicting the behavior of many natural and artificial systems.

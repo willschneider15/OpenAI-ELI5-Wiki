@@ -1,0 +1,3 @@
+# Exterior calculus identities
+
+Exterior calculus identities are mathematical equations that describe the behavior of physical systems. These identities are based on the idea of differential forms, which are mathematical objects that can be used to represent physical quantities such as velocity, force, and energy. Exterior calculus identities can be used to describe the relationship between these physical quantities and the underlying geometry of a system. These equations can be used to solve complex problems in physics, engineering, and other scientific fields. By understanding the behavior of physical systems through exterior calculus identities, scientists can gain insight into the underlying laws of nature.

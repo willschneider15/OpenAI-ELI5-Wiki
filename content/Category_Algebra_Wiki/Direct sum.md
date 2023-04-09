@@ -1,0 +1,3 @@
+# Direct sum
+
+Direct sum is a way of combining two or more objects into one. It is used in mathematics to combine two or more vector spaces, which are collections of objects that can be added and multiplied. The direct sum of two vector spaces is the new vector space that contains all the elements of the two original vector spaces. The elements of the new vector space can be added together and multiplied, just like in the original vector spaces. The direct sum of two vector spaces is important because it allows us to study larger and more complex systems than we could with just one vector space.

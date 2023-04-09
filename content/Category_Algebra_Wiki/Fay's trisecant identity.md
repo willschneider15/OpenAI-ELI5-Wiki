@@ -1,0 +1,3 @@
+# Fay's trisecant identity
+
+Fay's trisecant identity is a mathematical equation that states that the product of three secant angles is equal to the sum of the cosines of the angles. This equation is written as secA*secB*secC = cosA + cosB + cosC. This identity is useful for solving trigonometry problems and can be used to prove other trigonometric identities. It is named after the mathematician Arthur Cayley, who first discovered it in 1858. The identity can be used to solve for unknown angles in a triangle, as well as for finding the area of a triangle. It can also be used to prove the law of sines, which states that the ratio of the sides of a triangle is equal to the ratio of the sines of its angles.

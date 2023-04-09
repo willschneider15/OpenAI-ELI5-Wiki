@@ -1,0 +1,3 @@
+# Oscar Goldman (mathematician)
+
+Oscar Goldman was a mathematician who worked in the field of algebra and number theory. He was known for his work in the area of algebraic number theory, which deals with the study of algebraic structures related to numbers. Goldman's work focused on the study of algebraic fields, which are mathematical structures that generalize the notion of a number. He was also known for his work in the area of algebraic geometry, which deals with the study of algebraic curves and surfaces. Goldman's research was instrumental in the development of modern algebraic number theory, and his work has been highly influential in the field.

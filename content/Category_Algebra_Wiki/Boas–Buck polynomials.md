@@ -1,0 +1,3 @@
+# Boas–Buck polynomials
+
+Boas–Buck polynomials are mathematical equations used to calculate the area of a curved surface. They are named after mathematicians Ralph Boas and David Buck, who developed the equations in the 1950s. The polynomials are used to calculate the area of a curved surface by taking into account the curvature of the surface. The equations are based on the principle that the area of a curved surface can be approximated by adding up the areas of many small flat surfaces. Boas–Buck polynomials are used in a variety of fields, such as engineering and physics, to calculate the area of curved surfaces.

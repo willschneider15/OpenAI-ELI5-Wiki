@@ -1,0 +1,3 @@
+# Edray Herber Goins
+
+Edray Herber Goins was an African American mathematician and educator who worked to make mathematics more accessible to students of all backgrounds. He believed that everyone should have the opportunity to learn and understand mathematics, regardless of their race or socioeconomic background. Goins developed a method of teaching mathematics that focused on problem solving and critical thinking, rather than memorization and repetition. He also encouraged students to explore their own ideas and think creatively about mathematical problems. By emphasizing the importance of understanding mathematics, Goins helped to make mathematics more accessible and gave students the confidence to pursue their mathematical interests.

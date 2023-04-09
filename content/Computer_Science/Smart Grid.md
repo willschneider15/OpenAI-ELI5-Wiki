@@ -1,0 +1,3 @@
+# Smart Grid
+
+Smart Grid is a modernized power grid that uses digital technology to monitor and manage electricity production, delivery, and consumption. It allows for two-way communication between the power grid and the user, allowing users to better manage their energy usage and reduce their energy costs. Smart Grid also helps to reduce energy waste by allowing energy producers to adjust their power production in real-time to match the demands of their customers. Smart Grid also helps to increase the reliability of the power grid by detecting and responding to outages and other issues quickly. In short, Smart Grid is an efficient and reliable way to manage energy production and consumption.

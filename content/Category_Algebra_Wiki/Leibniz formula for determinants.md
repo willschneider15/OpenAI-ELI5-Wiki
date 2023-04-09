@@ -1,0 +1,3 @@
+# Leibniz formula for determinants
+
+Leibniz Formula for Determinants is a formula used to calculate the determinant of an n x n matrix. It is named after the German mathematician Gottfried Wilhelm Leibniz, who first discovered it. The formula states that the determinant of an n x n matrix is equal to the sum of all products of the elements in each row and column, with alternating signs (+/-). The sign of each product is determined by the sign of the product of the row and column indices. This formula can be used to quickly calculate the determinant of any n x n matrix, making it an invaluable tool in linear algebra.

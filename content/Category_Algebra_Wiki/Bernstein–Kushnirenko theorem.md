@@ -1,0 +1,3 @@
+# Bernstein–Kushnirenko theorem
+
+The Bernstein–Kushnirenko theorem is a mathematical theorem that states that the number of solutions to a system of polynomial equations is equal to the number of points in the intersection of certain polytopes. In other words, it is a way to count the number of solutions to a system of equations without actually having to solve the equations. It is important because it allows mathematicians to determine how many solutions to a system of equations there are without having to actually solve the equations. This can save a lot of time, especially when the equations are very complicated.

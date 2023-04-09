@@ -1,0 +1,3 @@
+# Orthogonal complement
+
+The Orthogonal Complement is a concept from linear algebra. It is a set of vectors that are perpendicular (or "orthogonal") to a given vector. This set of vectors can be used to describe a vector space, which is a set of vectors that span a given space. The Orthogonal Complement is the set of vectors that are perpendicular to the given vector, and together they form a basis for the vector space. This basis can be used to describe any vector in the space, and can also be used to solve equations involving the vector space. The Orthogonal Complement is an important concept in linear algebra and is used in many applications.

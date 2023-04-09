@@ -1,0 +1,3 @@
+# Radical polynomial
+
+Radical polynomials are polynomials that contain a radical expression. A radical expression is an expression that contains a square root, cube root, or other root of a number. Radical polynomials are used to solve equations that cannot be solved using traditional methods. To solve a radical polynomial, you need to use the properties of radicals and algebraic operations. For example, you can use the distributive property to combine like terms and the addition property of radicals to add or subtract radical expressions. You can also use the multiplication and division properties of radicals to multiply and divide radical expressions. Once you have simplified the radical polynomial, you can then solve it by factoring or using other methods.

@@ -1,0 +1,3 @@
+# Matrix pencil
+
+Matrix pencil is a method used to solve a system of linear equations. It is a type of mathematical tool that can help you find the solution to a problem. It works by taking the coefficients of the equations and forming a matrix. This matrix is then used to find the solution to the system of equations. To do this, the matrix is manipulated in a certain way to reduce it to a simpler form. This simpler form can then be used to find the solution to the system of equations. Matrix pencil is a useful tool for solving linear equations and can help you quickly and efficiently find the solution to a problem.

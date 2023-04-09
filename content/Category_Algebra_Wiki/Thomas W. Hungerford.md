@@ -1,0 +1,3 @@
+# Thomas W. Hungerford
+
+Thomas W. Hungerford was an American mathematician who introduced the concept of algebraic structures. He believed that algebraic structures could be used to describe any mathematical system. He used these structures to create a unified approach to solving problems. He developed a system of symbols and equations that could be used to represent any mathematical system. He also proposed a set of axioms, or rules, that could be used to determine the properties of a mathematical system. By using algebraic structures, Hungerford was able to create a unified approach to solving problems that could be used in many different areas of mathematics.

@@ -1,0 +1,3 @@
+# Coates graph
+
+Coates Graph is a way of visualizing data. It is a type of bar graph that shows the relationship between two variables. The x-axis represents one variable, and the y-axis represents the other. The bars on the graph represent the data points, with the length of the bar representing the value of the data point. The bars can be arranged in different ways to show the relationship between the two variables, such as the direction and strength of the relationship. Coates Graphs are useful for quickly understanding the data in a given situation and making decisions based on the information.

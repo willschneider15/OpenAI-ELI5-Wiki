@@ -1,0 +1,3 @@
+# Bochner–Kodaira–Nakano identity
+
+The Bochner-Kodaira-Nakano identity is a mathematical formula that relates a certain type of function, called a harmonic function, to a certain type of integral, called an integral over a Riemannian manifold. In simple terms, it tells us how the integral of a harmonic function over a Riemannian manifold is related to the integral of its derivatives over the same manifold. This identity is important in mathematics because it helps us understand how certain functions behave over different types of spaces. It also has applications in physics, such as in the study of wave equations.

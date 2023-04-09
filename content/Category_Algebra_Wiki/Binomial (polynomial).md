@@ -1,0 +1,3 @@
+# Binomial (polynomial)
+
+Binomial (polynomial) is a mathematical expression that is made up of two terms, usually separated by a plus or minus sign. It is usually written in the form of a polynomial, which is a mathematical expression that involves variables and constants. The two terms of a binomial are usually multiplied together, and the result is a single expression. For example, x2 + 3x - 5 is a binomial. The two terms are x2 and 3x, and when they are multiplied together the result is a single expression, x2 + 3x - 5. Binomials are used in many areas of mathematics, such as algebra, calculus, and probability.

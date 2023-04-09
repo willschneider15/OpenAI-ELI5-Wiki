@@ -1,0 +1,3 @@
+# Matrix calculus
+
+Matrix calculus is a type of mathematics that helps us to understand how matrices (arrays of numbers) change when we add or subtract from them. It helps us to understand how the elements of a matrix interact with each other and how they affect the overall shape and size of the matrix. Matrix calculus is used to solve problems in many different fields, including physics, engineering, and economics. It is especially useful when dealing with systems of equations, which can be represented by matrices. Matrix calculus helps us to understand how changes in a matrix can affect the overall outcome of a system of equations.

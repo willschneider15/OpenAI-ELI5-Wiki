@@ -1,0 +1,3 @@
+# Pre-algebra
+
+Pre-algebra is a type of math that helps you learn the basics of algebra. It introduces you to concepts like variables, equations, and functions. Pre-algebra also teaches you how to solve problems using these concepts. It helps you understand how to use numbers and symbols to represent relationships between different things. Pre-algebra is important because it helps you understand the basics before you move on to more difficult topics. It also helps you build problem-solving skills that you can use in other areas of your life. Pre-algebra is a great way to get started in math and it can open up a lot of doors for you in the future.

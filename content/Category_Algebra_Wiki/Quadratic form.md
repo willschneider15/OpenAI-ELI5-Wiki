@@ -1,0 +1,3 @@
+# Quadratic form
+
+A quadratic form is a type of equation that is used in mathematics to describe a relationship between two or more variables. It is usually written in the form of ax² + bx + c = 0, where a, b, and c are constants. The equation can be used to find the minimum or maximum of a function, and to solve systems of equations. Quadratic forms are used in many areas of mathematics, including algebra, calculus, and geometry. They can also be used to solve problems in physics, chemistry, and engineering. Quadratic forms are useful because they can be used to solve complicated problems quickly and accurately.

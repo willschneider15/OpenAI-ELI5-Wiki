@@ -1,0 +1,3 @@
+# Hartley kernel
+
+Hartley kernel is a type of mathematical function used to measure the similarity between two sets of data. It is commonly used in machine learning algorithms to determine how closely two sets of data are related. The Hartley kernel is calculated by taking the sum of the absolute differences between the corresponding elements in two data sets. The more similar the two sets of data, the higher the Hartley kernel value will be. The Hartley kernel is a useful tool for measuring the similarity between two data sets and can be used to help determine which algorithms are best suited for a given problem.

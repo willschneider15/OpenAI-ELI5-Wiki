@@ -1,0 +1,3 @@
+# Winfried Scharlau
+
+Winfried Scharlau is a German mathematician and philosopher who is best known for his work on the philosophy of mathematics. He believes that mathematics is a language that allows us to understand the world around us and that it is essential for understanding the universe. He also believes that mathematics can be used to solve problems, create new ideas, and develop new technologies. Scharlau believes that mathematics is an important part of our lives and should be taught to children in school so that they can develop a better understanding of the world around them. He also believes that mathematics can be used to help people make better decisions and to understand the world in a more logical and structured way.

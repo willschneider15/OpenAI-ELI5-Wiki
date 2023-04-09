@@ -1,0 +1,3 @@
+# Amitsur–Levitzki theorem
+
+Amitsur–Levitzki theorem states that if two rings (sets of numbers) are finite and have the same number of elements, then they are isomorphic. In other words, the two rings can be mapped onto each other in a way that preserves the structure of the rings. This means that any operations that can be done in one ring can also be done in the other. For example, if one ring has three elements, then the other ring must also have three elements and the operations in each ring must be the same. This theorem is useful in mathematics and computer science because it helps to understand the structure of different rings and how they can be related.

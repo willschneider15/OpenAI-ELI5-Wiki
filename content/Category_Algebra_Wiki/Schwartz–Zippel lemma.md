@@ -1,0 +1,3 @@
+# Schwartz–Zippel lemma
+
+The Schwartz–Zippel lemma is a mathematical statement that says that if you have two polynomials with coefficients from a finite field, then the probability of them being equal is zero. In other words, it is impossible for two polynomials with coefficients from a finite field to be equal. This is because the coefficients of the polynomials can only take on a finite number of values, and so the probability of them being equal is zero. The Schwartz–Zippel lemma is used in many areas of mathematics, including cryptography, error-correcting codes, and computer algebra systems.

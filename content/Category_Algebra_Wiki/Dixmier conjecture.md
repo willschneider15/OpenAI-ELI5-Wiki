@@ -1,0 +1,3 @@
+# Dixmier conjecture
+
+Dixmier Conjecture is a mathematical hypothesis that states that every prime ideal in a commutative ring is contained in a maximal ideal. It was proposed by French mathematician Jacques Dixmier in the 1950s. The conjecture has been proven for several special cases, but is still unproven in general. To understand the conjecture, it helps to think of a ring as a collection of objects with certain properties. A prime ideal is a subset of the ring which has some special properties, such as the ability to be divided by any element in the ring. A maximal ideal is a prime ideal that can't be contained in any larger prime ideal. The Dixmier conjecture states that every prime ideal is contained in some maximal ideal.

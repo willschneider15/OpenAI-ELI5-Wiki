@@ -1,0 +1,3 @@
+# Bethany Rose Marsh
+
+Bethany Rose Marsh is a concept created by artist and author, Louisa B. Ward. It is based on the idea that people can find strength and beauty in their own unique circumstances. The concept encourages people to use their own experiences to create something beautiful and meaningful in their lives. Bethany Rose Marsh is a reminder that, no matter how hard life can be, there is always something positive to be found. It encourages people to look for the beauty in the world, even in the darkest of times. It is a reminder that everyone has the potential to create something beautiful and meaningful in their lives.

@@ -1,0 +1,3 @@
+# Adjacency algebra
+
+Adjacency algebra is a mathematical tool used to represent relationships between objects. It is useful for modeling complex networks, such as those found in social networks, computer networks, and transportation networks. Adjacency algebra uses a matrix to represent the connections between objects in a network. Each row and column of the matrix represents an object in the network, and the elements of the matrix represent the relationships between those objects. If two objects are connected, the corresponding element in the matrix will have a value of 1, and if they are not connected, the element will have a value of 0. Adjacency algebra can help us understand how objects in a network are related to each other and how they interact.

@@ -1,0 +1,3 @@
+# Graded (mathematics)
+
+Graded mathematics is a type of learning that focuses on the mastery of a set of skills and concepts. It is based on the idea that students should progress through a set of levels, each of which builds on the previous one. For example, a student might start with basic addition and subtraction, then move on to multiplication and division, and eventually work their way up to algebra and calculus. The goal is for students to become proficient in the skills and concepts they are learning, so that they can apply them in real-world situations. Graded mathematics encourages students to take responsibility for their learning and to strive for mastery of the material.

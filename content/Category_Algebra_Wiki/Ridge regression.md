@@ -1,0 +1,3 @@
+# Ridge regression
+
+Ridge regression is a type of linear regression used to prevent overfitting. It works by introducing a penalty term to the equation, which is the sum of the squares of the coefficients. This penalty term helps reduce the complexity of the model and reduces overfitting. The ridge regression equation looks like this: y=Xβ + ε + λ∑β^2, where y is the response variable, X is the design matrix, β is the vector of coefficients, ε is the error term, and λ is the regularization parameter. The regularization parameter determines the amount of penalty applied, and can be adjusted to achieve the desired fit. In summary, ridge regression helps reduce overfitting by introducing a penalty term that reduces the complexity of the model.

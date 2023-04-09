@@ -1,0 +1,3 @@
+# Line segment
+
+A line segment is a part of a line that has two endpoints. It is a straight line that can be drawn between two points. The two points are called the endpoints and the line segment is the part of the line between them. Line segments can be used to measure distances, angles, and other properties of shapes. They can also be used to divide a line into two or more parts. Line segments can be used to identify and describe the properties of shapes and can be used to compare and contrast different shapes. Line segments can also be used to draw different types of shapes, such as squares, rectangles, and triangles.

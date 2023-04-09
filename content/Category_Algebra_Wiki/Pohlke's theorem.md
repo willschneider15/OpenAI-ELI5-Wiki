@@ -1,0 +1,3 @@
+# Pohlke's theorem
+
+Pohlke's Theorem states that the total amount of energy required to move an object from one point to another is the same, regardless of the path taken. In other words, the shortest path between two points is the most efficient one. This is because the total energy used is the sum of the work done against gravity and the work done against friction. Since the work done against gravity is the same regardless of the path taken, the shortest path will require the least amount of energy to overcome friction. This theorem is important in many areas of science and engineering, such as robotics, aerospace, and navigation.

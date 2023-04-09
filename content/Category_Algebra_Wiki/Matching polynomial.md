@@ -1,0 +1,3 @@
+# Matching polynomial
+
+Matching polynomials are a way of determining the number of distinct matchings in a graph. A matching in a graph is a set of edges such that no two edges share a common vertex. The matching polynomial of a graph is a polynomial whose coefficients indicate the number of distinct matchings in the graph. The matching polynomial is calculated by taking the product of the degree of each vertex in the graph and then subtracting the sum of the degrees of the vertices. The resulting polynomial is the matching polynomial, which can be used to count the number of distinct matchings in the graph.

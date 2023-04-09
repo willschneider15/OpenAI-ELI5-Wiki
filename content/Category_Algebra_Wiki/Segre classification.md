@@ -1,0 +1,3 @@
+# Segre classification
+
+Segre Classification is a way of organizing objects in space. It is based on the idea that objects can be grouped into different categories based on their physical characteristics. For example, a star can be classified as a type A, B, or O star based on its temperature and luminosity. Similarly, galaxies can be classified into elliptical, spiral, or irregular shapes based on their appearance. This classification system helps astronomers better understand the physical characteristics of objects in space and how they interact with each other. It also helps them identify new objects and organize them into categories for further study.

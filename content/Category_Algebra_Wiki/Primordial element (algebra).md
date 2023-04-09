@@ -1,0 +1,3 @@
+# Primordial element (algebra)
+
+Primordial element is a concept from algebra that refers to a basic building block of a mathematical system. It is an element that is not derived from any other element and is therefore the most basic element in the system. It is usually a single symbol, such as a letter or number, that is used to represent a quantity or operation. Primordial elements are used to create equations and other mathematical expressions. They can also be used to represent abstract concepts, such as the concept of infinity. By combining primordial elements, mathematicians can create more complex mathematical systems and equations.

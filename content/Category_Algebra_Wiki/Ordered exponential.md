@@ -1,0 +1,3 @@
+# Ordered exponential
+
+Ordered exponential is a type of mathematical operation that is used to calculate the probability of an event occurring. It is based on the idea that each event has a certain probability of occurring and the probability of each event is multiplied together to get the overall probability. This method is useful for calculating the probability of multiple events occurring in a certain order. For example, if you wanted to calculate the probability of rolling a 6 on a dice, then you would use ordered exponential to calculate the probability of rolling a 6 on each of the six sides of the dice. This would give you the overall probability of rolling a 6 on the dice.

@@ -1,0 +1,3 @@
+# Zero object (algebra)
+
+Zero objects are numbers that, when added to another number, do not change the value of the other number. In algebra, zero is represented by the symbol 0 and is used to indicate the lack of any quantity. Zero objects are also known as additive identities because they do not affect the value of the other number when added to it. For example, if you add 0 to any number, the result will still be that same number. This is because adding 0 does not change the value of the number. Zero objects are important in algebra because they are used to simplify equations and solve for unknown values.

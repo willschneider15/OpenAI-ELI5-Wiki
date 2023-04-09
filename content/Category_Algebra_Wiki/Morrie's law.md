@@ -1,0 +1,3 @@
+# Morrie's law
+
+Morrie's Law is a simple concept that states that the more you give, the more you will receive. It was created by Morrie Schwartz, a professor at Brandeis University, and has become a popular philosophy of life. It encourages people to be generous, to give of their time, money, and energy in order to benefit others and to build relationships. It suggests that when you give, you will receive more in return, whether it be in the form of friendship, knowledge, or material goods. Morrie's Law encourages people to be kind and generous, and to think of others before themselves. It's a reminder that when we give, we will receive more in return.

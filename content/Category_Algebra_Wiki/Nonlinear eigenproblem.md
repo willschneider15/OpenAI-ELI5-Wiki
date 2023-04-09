@@ -1,0 +1,3 @@
+# Nonlinear eigenproblem
+
+A nonlinear eigenproblem is a type of mathematical problem where the eigenvalues (values associated with a linear transformation) are not linear, but instead involve a nonlinear function. In these problems, the eigenvalues are found by solving a system of nonlinear equations. This type of problem can be solved using numerical methods such as Newton's method, which is a technique for approximating the solution to a nonlinear equation. Nonlinear eigenproblems are important in many areas of mathematics, physics, and engineering, as they can provide insight into the behavior of complex systems.

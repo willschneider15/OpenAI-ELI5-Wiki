@@ -1,0 +1,3 @@
+# Minimal ideal
+
+Minimal ideal is a concept that suggests that a person should strive to achieve the most important goals with the least effort. It is based on the idea that if you focus on what is most important to you and eliminate the rest, you can achieve your goals more quickly and effectively. This concept is often used in relation to time management, where people focus on the most important tasks and eliminate the rest. It is also used in relation to money management, where people focus on the most important investments and eliminate the rest. Minimal ideal is a great way to maximize productivity and reach your goals faster.

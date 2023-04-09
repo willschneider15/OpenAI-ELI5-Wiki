@@ -1,0 +1,3 @@
+# Skew-Hamiltonian matrix
+
+A Skew-Hamiltonian matrix is a type of matrix used in mathematics. It is an n x n matrix with entries that satisfy a certain mathematical condition. This condition is that the sum of the entries in each row and column must be zero. The matrix is called skew-Hamiltonian because it is named after William Rowan Hamilton, a famous mathematician. Skew-Hamiltonian matrices are useful for solving certain types of equations, such as linear equations with fixed coefficients. They can also be used to find the solutions to certain types of differential equations. Skew-Hamiltonian matrices are important in many areas of mathematics, including linear algebra, numerical analysis, and graph theory.

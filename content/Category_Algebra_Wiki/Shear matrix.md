@@ -1,0 +1,3 @@
+# Shear matrix
+
+A shear matrix is a type of transformation matrix that is used to change the shape of an object. It works by "shearing" the object, which means that it moves one side of the object in a direction parallel to the other side. For example, if you wanted to make a square into a rectangle, you could use a shear matrix to do it. The shear matrix works by multiplying the original coordinates of the object by the shear matrix. This will change the position of the points of the object and create the desired shape. Shear matrices are useful for many applications, such as animation, graphic design, and 3D modeling.

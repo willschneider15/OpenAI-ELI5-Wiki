@@ -1,0 +1,3 @@
+# Bit
+
+A bit is a unit of information used in computers. It is the smallest unit of data and consists of a single 0 or 1. Bits are used to represent data in computers because they can be combined to form larger pieces of information. For example, 8 bits can be combined to form a byte, which is a unit of information that is 8 times larger than a bit. Bits are also used to represent instructions in computers. Instructions are made up of sequences of 0s and 1s, which are used to tell the computer what to do. Bits are also used to represent numbers, letters, and symbols, which are all converted into a series of 0s and 1s.

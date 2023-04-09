@@ -1,0 +1,3 @@
+# Radial set
+
+Radial sets are a type of mathematical structure that can be used to represent relationships between different elements. They are composed of a set of elements, each of which is associated with a specific point, or "center," in a circle. Each element is then connected to the center by a line, or "radius," forming a series of concentric circles. The elements in a radial set can be related to each other in a variety of ways, including through their distance from the center or their position in the circles. Radial sets can be used to represent a wide range of relationships, such as those between people, ideas, or physical objects.

@@ -1,0 +1,3 @@
+# Ellen Kirkman
+
+Ellen Kirkman is a concept that was developed by the American psychologist, Ellen Langer. It is based on the idea that people are more likely to change their behavior when they are presented with multiple choices. The concept suggests that when people are given multiple options, they are more likely to choose the one that best suits their needs. This can be applied to any situation, from making decisions in the workplace to choosing a new hobby. By giving people multiple options, it allows them to make a more informed decision that is tailored to their individual needs and preferences. This can help people to make better decisions, which can lead to improved outcomes.

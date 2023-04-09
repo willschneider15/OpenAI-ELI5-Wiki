@@ -1,0 +1,3 @@
+# Information algebra
+
+Information algebra is a way of combining and manipulating information in order to make decisions. It uses mathematical equations to represent data, and then uses those equations to solve problems. It can be used to analyze data, identify patterns, and make predictions. For example, if you wanted to know how many people attended a concert, you could use information algebra to determine the average attendance for each show. You could then use the equation to predict how many people will attend the next show. Information algebra is a powerful tool for making decisions and understanding data.

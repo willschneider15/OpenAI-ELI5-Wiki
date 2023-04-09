@@ -1,0 +1,3 @@
+# Minimal algebra
+
+Minimal algebra is a type of math that uses only the basic operations of addition, subtraction, multiplication, and division to solve equations. It is used to simplify equations and make them easier to understand. It is especially helpful when solving equations that involve multiple variables. With minimal algebra, you can break down complicated equations into simpler ones, making them easier to solve. It is also helpful in solving equations with fractions and exponents. By breaking down the equation into smaller parts, you can often find the solution much faster than if you were to solve the equation as a whole. Minimal algebra is a great way to make math more accessible and easier to understand.

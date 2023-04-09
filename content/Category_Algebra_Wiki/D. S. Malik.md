@@ -1,0 +1,3 @@
+# D. S. Malik
+
+D. S. Malik is a way of teaching programming that emphasizes problem solving and algorithmic thinking. It focuses on teaching students to think through problems logically and systematically in order to write efficient programs. It also encourages students to learn to debug their own code and find errors. The approach is based on the idea that programming is a skill that can be taught and learned through practice, rather than relying on memorization and rote learning. D. S. Malik's approach emphasizes the importance of understanding the underlying principles and logic of programming, rather than simply memorizing code. It also encourages students to use their own creativity and imagination to solve problems and come up with their own solutions.

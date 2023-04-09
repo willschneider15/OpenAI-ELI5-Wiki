@@ -1,0 +1,3 @@
+# Journal of Symbolic Computation
+
+Journal of Symbolic Computation is a type of computer science that uses symbols and mathematics to solve problems. It is used to help computers understand and solve difficult problems that would otherwise be difficult for them to solve. Symbolic computation uses algorithms and mathematical equations to create a symbolic representation of data, which can be used to solve complex problems quickly and accurately. Symbolic computation is used in many areas, including artificial intelligence, natural language processing, and computer vision. Symbolic computation is a powerful tool for solving difficult problems and can help computers understand and solve problems faster and more accurately.

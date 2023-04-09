@@ -1,0 +1,3 @@
+# Asymmetric-key Cryptography
+
+Asymmetric-key Cryptography, also known as Public Key Cryptography, is a type of encryption used to secure data. It uses two different keys, a public key and a private key, to encrypt and decrypt data. The public key is available to everyone, but the private key is only known to the user who created it. The public key is used to encrypt data, while the private key is used to decrypt it. The data is secure because only the user who has the private key can decrypt the data. This type of encryption is very secure and is used in many applications, such as online banking and digital signatures.

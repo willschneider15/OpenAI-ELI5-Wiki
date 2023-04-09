@@ -1,0 +1,3 @@
+# Michael Stillman
+
+Michael Stillman is a computer scientist who developed a concept called the Stillman algorithm. This algorithm is a way for computers to solve puzzles and problems by breaking them down into smaller pieces, or subproblems. The computer then works on each subproblem until it finds a solution. This process is called "divide and conquer" because it divides the problem into smaller pieces and then solves each piece separately. The Stillman algorithm is used in many computer programs and can help make them run faster and more efficiently. It is also used in artificial intelligence and machine learning. The Stillman algorithm is a great way for computers to solve complex problems, making them smarter and more useful.

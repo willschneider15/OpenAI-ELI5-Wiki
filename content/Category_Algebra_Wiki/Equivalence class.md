@@ -1,0 +1,3 @@
+# Equivalence class
+
+Equivalence classes are a concept used in software testing to divide a range of test inputs into a set of classes that are expected to have the same behavior when tested. Each class is a subset of the test inputs that are expected to produce the same results. This concept helps to reduce the amount of time and effort needed to test a system as it eliminates the need to test each individual input. By grouping similar inputs into equivalence classes, testers can quickly identify any problems or errors in the system. This concept is especially useful for large and complex systems with many different inputs that need to be tested.

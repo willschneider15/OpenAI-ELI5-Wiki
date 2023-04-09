@@ -1,0 +1,3 @@
+# Helge von Koch
+
+Helge von Koch was a Swedish mathematician who developed a concept called the Koch Curve. The Koch Curve is a mathematical shape that is created by taking a line and then adding curves to it. It is created by taking a line and then adding four smaller lines to each side of the line. These four lines are then connected to form a triangle, and then the process is repeated over and over again. This process of adding curves to a line creates a Koch Curve that looks like a snowflake. The Koch Curve is an example of a fractal, which means that it looks the same no matter how much you zoom in or out. This concept is used in mathematics to understand patterns and shapes.

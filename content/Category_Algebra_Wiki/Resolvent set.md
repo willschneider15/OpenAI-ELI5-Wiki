@@ -1,0 +1,3 @@
+# Resolvent set
+
+Resolvent set is a concept in mathematics that helps us to understand how two sets can be combined to create a new set. It is used to combine two sets, A and B, to create a new set, C, which is the combination of A and B. The elements of C are the elements of A and B that are in common. For example, if A is the set of numbers from 1 to 10 and B is the set of numbers from 5 to 15, then C would be the set of numbers from 5 to 10. This is because 5 to 10 are the numbers that are common to both sets A and B. Resolvent sets can help us to understand how two sets can be combined to create a new set.

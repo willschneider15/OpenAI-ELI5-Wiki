@@ -1,0 +1,3 @@
+# Euclidean space
+
+Euclidean space is a type of space that has three dimensions - length, width, and height. It is named after the ancient Greek mathematician Euclid, who studied geometry. In Euclidean space, points can be located by their coordinates, which are numbers that show how far a point is from the origin (the starting point). Euclidean space is used to describe the physical world, and it is used in mathematics to measure distances, angles, and shapes. It is also used in physics to describe motion and forces. Euclidean space is an important concept in mathematics, physics, and engineering.

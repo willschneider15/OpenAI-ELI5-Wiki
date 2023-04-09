@@ -1,0 +1,3 @@
+# Berlekamp–Zassenhaus algorithm
+
+The Berlekamp–Zassenhaus algorithm is a mathematical process used to factor polynomials. It is used to break down a polynomial into its individual components, which are known as its factors. The algorithm works by first taking a polynomial and then finding a root, or solution, of the polynomial. Then, the algorithm tries to divide the polynomial by the root, and if it can, it does so. This process is repeated until the polynomial can no longer be divided. Finally, the factors of the polynomial are obtained. In other words, the Berlekamp–Zassenhaus algorithm is a way to break down a polynomial into its individual factors.

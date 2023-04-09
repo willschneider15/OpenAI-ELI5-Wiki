@@ -1,0 +1,3 @@
+# Linear independence
+
+Linear independence is a concept used in mathematics to describe the relationship between two or more vectors. Vectors are mathematical objects that can be used to represent things like distances and directions. Linear independence means that two or more vectors are not dependent on each other. This means that they are not pointing in the same direction and do not have the same length. If two vectors are linearly independent, then they can be combined to form a new vector that is not the same as either of the original vectors. Linear independence is an important concept in mathematics, as it can be used to solve complex problems.

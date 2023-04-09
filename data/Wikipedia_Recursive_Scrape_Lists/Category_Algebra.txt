@@ -1,0 +1,1000 @@
+Polynomial
+Efim Zelmanov
+Binomial (polynomial)
+Tensor product of Hilbert spaces
+Closure with a twist
+Dimension
+Spectral clustering
+Siddhānta Shiromani
+Non-negative matrix factorization
+Helge von Koch
+Centrality
+Uwe Storch
+Philibert Nang
+Three-dimensional rotation operator
+Sublinear function
+Sum of two cubes
+Graph dynamical system
+Dmitry Faddeev
+Teo Mora
+Norm (mathematics)
+Boolean differential calculus
+Rationalisation (mathematics)
+Invariant subspace
+Pohlke's theorem
+Split exact sequence
+Sedrakyan's inequality
+Cauchy sequence
+Balanced set
+Elementary matrix
+Vinay V. Deodhar
+Bernstein polynomial
+Fusion frame
+Paul Halmos
+Bernoulli umbra
+Classification of finite simple groups
+Quadratic eigenvalue problem
+Codimension
+Cylinder (algebra)
+Tibor Szele
+Singular value decomposition
+Skew-Hermitian matrix
+Reinhold Baer
+Left and right (algebra)
+Faltings' annihilator theorem
+Morrie's law
+Connected Mathematics
+Vector algebra relations
+Vieta's formulas
+Eigenvalues and eigenvectors
+Symmetric graph
+Pseudoscalar
+Maple (software)
+Orthonormal function system
+CSS code
+Homogeneous function
+Marshall Hall (mathematician)
+Marko Tadić
+Barbara L. Osofsky
+Dimension (vector space)
+Rank (linear algebra)
+List of vector calculus identities
+Bartel Leendert van der Waerden
+Formal power series
+Automatic differentiation
+Difference of two squares
+Translation of axes
+Skew-Hamiltonian matrix
+Hafnian
+Suspension of a ring
+Automorphism
+Jacobi identity
+Distance-transitive graph
+List of trigonometric identities
+Sun's curious identity
+De Morgan algebra
+Height function
+Vertex-transitive graph
+Generalized arithmetic progression
+Rostislav Grigorchuk
+Power rule
+Weyl's inequality
+Kiiti Morita
+Harish-Chandra isomorphism
+Algebraic expression
+Abstract algebra
+George Seligman
+Tertiary ideal
+Polarization identity
+Graph algebra (social sciences)
+Steven Takiff
+Orthogonal Procrustes problem
+Poincaré space
+Equation
+Lagrange's identity
+Chebyshev polynomials
+Ellen Kirkman
+Thomas W. Hungerford
+Change of basis
+Frobenius normal form
+Lulu smoothing
+Archibald Read Richardson
+Adjacency matrix
+Fredholm's theorem
+Hyperstructure
+Synthetic division
+D. S. Malik
+History of algebra
+Pokhozhaev's identity
+Cancelling out
+Daniel Hershkowitz
+Orthographic projection
+Compressed sensing
+Picone identity
+Brouwer's conjecture
+Zassenhaus algorithm
+David Buchsbaum
+Hilary Priestley
+List of set identities and relations
+Hilbert–Poincaré series
+Prime avoidance lemma
+Seminorm
+Semisimple operator
+Coefficient matrix
+Vladimir Andrunakievich
+Extraneous and missing solutions
+Linear form
+Rafael Bombelli
+Enumerator polynomial
+Orthogonality (mathematics)
+Kirchhoff's theorem
+Philip Hall
+Predual
+Siegel identity
+Determinant
+Indeterminate equation
+Series multisection
+Emanuel Lasker
+Patrizia Gianni
+László Fuchs
+Max August Zorn
+Boundedly generated group
+Tuna Altınel
+Jacobson–Bourbaki theorem
+FGLM algorithm
+Pseudovector
+List of mathematical identities
+Hockey-stick identity
+Eigenplane
+Orthogonal complement
+Special linear group
+Loewner order
+Boas–Buck polynomials
+Word problem (mathematics)
+Matrix congruence
+Hermite's identity
+Raman Parimala
+Gröbner fan
+Nathan Jacobson
+Direct product
+Bernoulli polynomials
+Generalizations of Pauli matrices
+Howson property
+Tensor operator
+Boole polynomials
+Jessie Marie Jacobs
+Noether identities
+Pierre Samuel
+Elementary Number Theory, Group Theory and Ramanujan Graphs
+Algebra tile
+Brahmagupta's identity
+Nested radical
+Higher-order operad
+Schur algebra
+Moss Sweedler
+Flat (geometry)
+Caloric polynomial
+Gerhard Hochschild
+Gelfand–Kirillov dimension
+Hidden algebra
+Timeline of geometry
+Cyrus Colton MacDuffee
+Paolo Ruffini
+Inverse element
+Alexander Merkurjev
+Bochner–Kodaira–Nakano identity
+Binomial type
+Glossary of linear algebra
+Unit vector
+Partial fraction decomposition
+Information algebra
+Bidiagonal matrix
+Spread of a matrix
+Productive matrix
+Zero mode
+Polynomial identity testing
+Adjugate matrix
+Cycle basis
+Paul Monsky
+Edge and vertex spaces
+Yoneda product
+Resolvent cubic
+Polynomial decomposition
+Lovász conjecture
+Liouville's theorem (differential algebra)
+All one polynomial
+Sergey Fomin
+Linear span
+System of linear equations
+Carolyn Yackel
+MATLAB
+Bose–Mesner algebra
+Temperley–Lieb algebra
+Absorption law
+Solving quadratic equations with continued fractions
+Claudio Procesi
+Rayleigh theorem for eigenvalues
+E. H. Moore
+Hamming space
+Fay's trisecant identity
+Skip Garibaldi
+Bendixson's inequality
+Anton Sushkevich
+Ridge regression
+List of vector spaces in mathematics
+László Rédei
+Distance-regular graph
+Smooth algebra
+Quasi-unmixed ring
+Ladislav Rieger
+Dual norm
+Fridrikh Karpelevich
+Bernstein–Sato polynomial
+Quartic function
+Marie Johanna Weiss
+Scalar (mathematics)
+Vincenzo Mollame
+Kernel (set theory)
+Orthogonal diagonalization
+Cavalieri's quadrature formula
+Formal derivative
+Semi-simplicity
+Nissan Deliatitz
+Omar Khayyam
+Consistent and inconsistent equations
+Pseudoalgebra
+Entanglement-assisted stabilizer formalism
+Integration by parts
+Bjarni Jónsson
+Bill Casselman
+Cokernel
+Frucht's theorem
+Algebra
+Quadratic equation
+Unary operation
+Frame (linear algebra)
+Board puzzles with algebra of binary variables
+Berlekamp–Zassenhaus algorithm
+Tikhonov regularization
+Jean-Pierre Serre
+Co-Hopfian group
+Projection (linear algebra)
+Bethany Rose Marsh
+Orientation of a vector bundle
+Cas (mathematics)
+Frobenius reciprocity theorem
+Jordan–Pólya number
+Conference graph
+Linear independence
+International Symposium on Symbolic and Algebraic Computation
+Timeline of algebra
+Unitary method
+Partial trace
+Conformable matrix
+Reducing subspace
+Early Algebra
+Chevalley–Warning theorem
+Saunders Mac Lane
+Bell polynomials
+Vector algebra
+Additive inverse
+Star domain
+Homogeneous linear equation
+Linear equation over a ring
+Hartley kernel
+Rothe–Hagen identity
+Mitrofan Cioban
+Rosemary A. Bailey
+Jacobi–Anger expansion
+Unitary element
+Order of operations
+Free presentation
+Algebraic fraction
+Aleksandr Kurosh
+Cramer's theorem (algebraic curves)
+Gram–Schmidt process
+Stabilizer code
+Paul Cohn
+Haynsworth inertia additivity formula
+Symbolic regression
+Pythagorean trigonometric identity
+Akivis algebra
+Taro Morishima
+Bra–ket notation
+Polynomial mapping
+Graded-commutative ring
+Anna Romanowska
+Complex quadratic polynomial
+Algebra Project
+Gröbner basis
+Segre classification
+Multilinear form
+Bareiss algorithm
+Elementary function
+Algebraic signal processing
+Sorin Popa
+Carl Wilhelm Borchardt
+Alexander polynomial
+Sarah Glaz
+Binary expression tree
+Ore algebra
+FOIL method
+György Hajós
+Dave Bayer
+Primordial element (algebra)
+Kernel (linear algebra)
+Peetre's inequality
+Hierarchical closeness
+Shear mapping
+Backus–Gilbert method
+Spinors in three dimensions
+Canonical form
+Michael Artin
+Bernoulli polynomials of the second kind
+Indeterminate (variable)
+Regularized least squares
+Bhāskara II
+Eigenvalue perturbation
+Shuffle algebra
+Integral graph
+Gottfried Köthe
+Marie-Louise Dubreil-Jacotin
+Minimal ideal
+Cassini and Catalan identities
+Ezra Brown
+Identity (mathematics)
+Antivector
+Zero divisor
+List of algebraic constructions
+Inequality (mathematics)
+Laws of Form
+Abel polynomials
+Free object
+Locally finite operator
+Étienne Bézout
+Linear relation
+Implicit function theorem
+Rotation of axes
+Algebraic set
+Fierz identity
+Matlis duality
+Triangular decomposition
+Polynomial long division
+Lerche–Newberger sum rule
+Algebraic element
+Faugère's F4 and F5 algorithms
+Basis (linear algebra)
+Bunch–Nielsen–Sorensen formula
+Liouvillian function
+Ivan Cherednik
+Absolute value (algebra)
+Muriel Kennett Wales
+Distribution algebra
+Eigenoperator
+Map algebra
+Operad
+Distributive homomorphism
+Congruence relation
+Rational series
+Algebraic operation
+Zero object (algebra)
+Outline of algebra
+Quadratic-linear algebra
+Paul Gordan
+Zech's logarithm
+Addition theorem
+Cover (algebra)
+Nth root
+Matrix norm
+Filtration (mathematics)
+Big M method
+Sherman–Morrison formula
+Ágnes Szendrei
+Cyclic subspace
+Module homomorphism
+Pairing
+Subquotient
+Zero-symmetric graph
+External (mathematics)
+Garside element
+Moderne Algebra
+Factorization
+Exterior calculus identities
+Spectral theory
+List of logarithmic identities
+András P. Huhn
+Michel Kervaire
+Homotopy associative algebra
+Spectral theorem
+Elementary algebra
+Norm residue isomorphism theorem
+Coherent algebra
+Ratio
+Trilinear coordinates
+Linear subspace
+Janet basis
+Differential equations of addition
+Category of modules
+Trace diagram
+Conway polynomial (finite fields)
+Alexander Grothendieck
+Thomas Harriot
+System of polynomial equations
+Commutation matrix
+Series expansion
+Rule of Sarrus
+Agata Smoktunowicz
+Norman L. Biggs
+Algebraic equation
+Irreducible polynomial
+Symbolic-numeric computation
+Winfried Scharlau
+Angles between flats
+Coefficient diagram method
+Primitive part and content
+William Kingdon Clifford
+Alessandro Padoa
+Spherically complete field
+Semilinear map
+Infinite expression
+Radial set
+Q-Vandermonde identity
+Row equivalence
+Basis function
+Jordan–Chevalley decomposition
+Commutative property
+K-frame
+Reduction (mathematics)
+Operad algebra
+Convex cone
+Hurwitz determinant
+Unitary transformation
+Otto Schilling
+Oscar Goldman (mathematician)
+Change of variables
+Algebraic graph theory
+Dual basis
+Row and column vectors
+Shimshon Amitsur
+General Leibniz rule
+Joseph Wedderburn
+Adjacency algebra
+Artemas Martin
+Operator (mathematics)
+Minimal algebra
+Coimage
+Trinomial
+Samuelson–Berkowitz algorithm
+Clustering coefficient
+Horner's method
+Computer algebra
+Schwartz–Zippel lemma
+Koecher–Vinberg theorem
+Degen's eight-square identity
+Dependence relation
+Linear inequality
+Suresh Venapally
+Erland Samuel Bring
+Centralizer and normalizer
+Z-order curve
+Direct limit
+Robert M. Thrall
+Orthonormality
+Richard Dedekind
+Relative dimension
+Candido's identity
+Douglas Northcott
+Arithmetica
+Matrix analysis
+Parry–Sullivan invariant
+Capelli's identity
+Solution in radicals
+Friedrich Karl Schmidt
+Daniel B. Szyld
+Eben Matlis
+Affine space
+Function space
+Hasse–Schmidt derivation
+Martin Liebeck
+Edray Herber Goins
+Maximal common divisor
+Ruth Moufang
+Gordana Todorov
+The Compendious Book on Calculation by Completion and Balancing
+Liouville space
+Conductance (graph)
+Inequation
+Robert Guralnick
+Israel Nathan Herstein
+Permanent (mathematics)
+Szegő limit theorems
+Yuri Manin
+Wu's method of characteristic set
+Isomorphism class
+3D projection
+Orthogonal transformation
+Invertible matrix
+Berlekamp–Rabin algorithm
+Cyclic vector
+Goro Azumaya
+Lodovico Ferrari
+Sklyanin algebra
+Daniel Quillen
+Centrosymmetric matrix
+Donald S. Passman
+Emmy Noether
+One-relator group
+Ina Kersten
+Seidel adjacency matrix
+Two-element Boolean algebra
+Leibniz formula for determinants
+Spherical basis
+Subfield of an algebra
+Scalar multiplication
+George Jerrard
+Michael Stifel
+Amitsur complex
+Weyr canonical form
+Elimination theory
+Hilbert space
+Rank factorization
+Projectivization
+Triple product
+Buchberger's algorithm
+Cyclotomic polynomial
+Alexander Ostrowski
+Graph energy
+Bombieri norm
+Perfect complex
+Parent function
+Algebraic connectivity
+Continuant (mathematics)
+Proofs involving the addition of natural numbers
+Golden–Thompson inequality
+Michael D. Fried
+Benjamin Peirce
+E∞-operad
+Vector-valued function
+George Bergman
+Matrix pencil
+Half-transitive graph
+Dimension of an algebraic variety
+Standard flag
+Nonlinear eigenproblem
+David Kent Harrison
+Monomial ideal
+Conservation form
+Cylindrical algebraic decomposition
+Wallace Smith Martindale
+Ramanujan graph
+Algebraic function
+Macdonald identities
+Alternating polynomial
+Krull–Akizuki theorem
+Modeshape
+Null vector
+Freshman's dream
+Quartic equation
+Quadratic form
+Linear map
+Reality structure
+Peter Rosenthal
+Equivalence class
+Frobenius determinant theorem
+Harmonic polynomial
+Bernstein–Kushnirenko theorem
+Bijaganita
+Vectorization (mathematics)
+Lie operad
+Pollard's kangaroo algorithm
+Alexander Skopin
+Linear algebra
+Lapped transform
+Bézout matrix
+Dyson conjecture
+Bifundamental representation
+T. R. Ramadas
+Generator (mathematics)
+Schmidt decomposition
+Choi's theorem on completely positive maps
+Ordered exponential
+Homogeneous coordinates
+Bernhard Keller
+Gosper's algorithm
+Center (algebra)
+Dual space
+Euclidean vector
+Hecke algebra
+Heinrich Martin Weber
+Factorization of polynomials
+First and second fundamental theorems of invariant theory
+Matrix sign function
+Polynomial Diophantine equation
+Binet–Cauchy identity
+Selberg's identity
+Topological module
+Weitzenböck identity
+Quadratic formula
+Field (mathematics)
+Sommerfeld identity
+Euler's identity
+Invariants of tensors
+Rota's basis conjecture
+Eigengap
+Embedding
+Graded (mathematics)
+Conference matrix
+Walk-regular graph
+Computing the permanent
+Newton's identities
+Pascal's rule
+Transpose of a linear map
+Wild problem
+Sesquilinear form
+Sims conjecture
+Mark Sapir
+Quaternionic vector space
+Conjugate transpose
+Heine's identity
+Clearing denominators
+Underdetermined system
+Trace identity
+Pre-algebra
+Commutator
+Haran's diamond theorem
+Characteristic polynomial
+Line segment
+Resultant
+Andrei Vladimirovich Roiter
+Constant (mathematics)
+Row and column spaces
+Squeeze mapping
+Orientation (vector space)
+Constant term
+Irvin Cohen
+Otto Hesse
+Constant-recursive sequence
+Operand
+Symplectic vector space
+Coefficient
+Immanant
+Differentiation rules
+Algebraic independence
+Joachim Lambek
+Howard Levi
+Closure (mathematics)
+Indeterminate system
+Rayleigh quotient
+Invertible module
+Theory of equations
+Projection-valued measure
+Linearly disjoint
+Brahmagupta–Fibonacci identity
+Joseph J. Rotman
+Nagata's conjecture
+Abraham Adrian Albert
+Self-adjoint
+Symbolic integration
+Bochner identity
+François Viète
+Vlastimil Dlab
+Strongly regular graph
+Formula
+Cartesian tensor
+Abu Kamil
+Rogers–Ramanujan identities
+Classical Lie algebras
+Orthant
+Michel Van den Bergh
+Bernd Sturmfels
+Standard basis
+Vladimir Arnold
+Lagrange's identity (boundary value problem)
+Cycle space
+Idempotent matrix
+Polynomial greatest common divisor
+Cube root
+S-procedure
+Green's identities
+Jacobi triple product
+Associative property
+Combinatorial matrix theory
+Schur complement
+Absolutely convex set
+Yuriy Drozd
+Field arithmetic
+Variable (mathematics)
+Matrix difference equation
+Irving Kaplansky
+Symbolic power of an ideal
+Mingarelli identity
+Conditional event algebra
+Hochster–Roberts theorem
+Emil Artin
+Semi-symmetric graph
+Alexander Anderson (mathematician)
+Moshe Meiselman
+Incidence matrix
+Differential graded module
+Outline of linear algebra
+Irena Peeva
+Complex Lie algebra
+Masayoshi Nagata
+Edmonds matrix
+Median algebra
+Multiplicative inverse
+Rank (graph theory)
+Schur product theorem
+Matrix factorization of a polynomial
+Mixed linear complementarity problem
+Cyclotomic identity
+Angelescu polynomials
+Christine Riedtmann
+Eléna Wexler-Kreindler
+International Linear Algebra Society
+Nonnegative rank (linear algebra)
+Interleaving distance
+Minimum rank of a graph
+Euler's four-square identity
+Edge-transitive graph
+Roger Wolcott Richardson
+Reduct
+Multiplicative digital root
+Transitive relation
+Alon–Boppana bound
+Gershgorin circle theorem
+Hyman Bass
+Colin McLarty
+Complex network zeta function
+Defective matrix
+Regular semi-algebraic system
+Matrix addition
+Idealizer
+Quintuple product identity
+Rogers–Ramanujan continued fraction
+Lattice reduction
+Ihara zeta function
+Normal element
+Quotient space (linear algebra)
+Prosolvable group
+Dixmier conjecture
+Crystallographic restriction theorem
+Michael Stillman
+Peter Cameron (mathematician)
+Sturm's theorem
+Günter Harder
+Mode-k flattening
+Homomorphic secret sharing
+Fredholm alternative
+Overcompleteness
+Ibn al-Banna' al-Marrakushi
+Lists of integrals
+Chain rule (probability)
+Eugene Dynkin
+Regular chain
+Monomial
+Anthony Joseph Penico
+Rational difference equation
+Nicolae Popescu
+Polarization of an algebraic form
+Line–line intersection
+Idun Reiten
+Linear recurrence with constant coefficients
+Mitchell's embedding theorem
+Transpose
+Vaughan's identity
+Complex conjugate of a vector space
+Hua's identity
+Orthonormal basis
+Viktor Wagner
+Persistence module
+Signal-flow graph
+David Eisenbud
+List of problems in loop theory and quasigroup theory
+Patrick Michael Grundy
+Coordinate vector
+Triangle inequality
+Jean-Louis Loday
+Leonard Eugene Dickson
+Hilbert–Burch theorem
+Landau's algorithm
+Hermite normal form
+Shear matrix
+Igon value
+Light's associativity test
+Fangcheng (mathematics)
+Factorization of polynomials over finite fields
+Brāhmasphuṭasiddhānta
+Zinovy Reichstein
+Linearity
+Total algebra
+Polynomial transformation
+Generalized eigenvector
+Dan Segal
+Scaling and shifting
+Generalized singular value decomposition
+Karin Erdmann
+Tapering (mathematics)
+Abel's binomial theorem
+Flag (linear algebra)
+Euler's totient function
+Two-graph
+Wolfgang Krull
+Quasi-free algebra
+Masatoshi Gündüz Ikeda
+Cubic equation
+Linear equation
+Hahn–Banach theorem
+Matrix Chernoff bound
+Bertrand's postulate
+Principle of distributivity
+Nullspace property
+Split-complex number
+Integrable module
+Integer points in convex polyhedra
+John von Neumann
+Overdetermined system
+Quaternionic matrix
+Sequential dynamical system
+Inverse limit
+Kronecker substitution
+Wang algebra
+Computer algebra system
+General linear group
+Orthogonal basis
+Kernel (algebra)
+Linear complementarity problem
+Groupoid algebra
+Expression (mathematics)
+John Horton Conway
+Melvin Hochster
+Jan Trlifaj
+Algebraic structure
+Hyperplane
+Generating set of a module
+Cis (mathematics)
+Free product of associative algebras
+Cycle graph (algebra)
+Joint spectral radius
+Pfister's sixteen-square identity
+Appell sequence
+Recurrence relation
+Guy Terjanian
+Modularity (networks)
+William S. Burnside
+Alexei Kostrikin
+Euclidean space
+Abel's identity
+Egyptian algebra
+Stokes operator
+Graph automorphism
+Antiisomorphism
+Risch algorithm
+Corank
+Restricted isometry property
+Chiungtze C. Tsen
+Conjugate (square roots)
+Antiunitary operator
+Stephen R. Doty
+List of polynomial topics
+Barycentric coordinate system
+Direct sum
+Sarah-Marie Belcastro
+Matching polynomial
+Digital root
+Dialgebra
+Additive polynomial
+Alpha centrality
+Arity
+Monomial basis
+Simple (abstract algebra)
+Pointwise product
+Squared triangular number
+Dual basis in a field extension
+Aitken interpolation
+Icosian calculus
+Numerical range
+Bollobás–Riordan polynomial
+Cyclic algebra
+Tadashi Nakayama (mathematician)
+Ax–Grothendieck theorem
+Radical polynomial
+Symbolic method
+Babai's problem
+Cantor–Zassenhaus algorithm
+Nielsen–Schreier theorem
+Cauchy–Schwarz inequality
+Dual number
+Maximum-minimums identity
+Straight-line program
+Rayleigh's quotient in vibrations analysis
+Levi-Civita symbol
+Hypergeometric identity
+Ernst Witt
+Controlled invariant subspace
+Emmy Noether bibliography
+Linear combination
+Distributive property
+K-theory (physics)
+Square (algebra)
+Least-squares spectral analysis
+Weyl expansion
+Tutte matrix
+Trace (linear algebra)
+Abramov's algorithm
+Direct sum of modules
+Differentiation of trigonometric functions
+Spectral graph theory
+Delta operator
+Finite von Neumann algebra
+Dixon's identity
+Carlyle circle
+Jim Coykendall
+Square-free polynomial
+Tangent half-angle formula
+Faddeev–LeVerrier algorithm
+Coates graph
+Mac Lane's planarity criterion
+Canonical basis
+Maurice Auslander
+Closed-form expression
+Garrett Birkhoff
+List of abstract algebra topics
+Carlitz–Wan conjecture
+Bring radical
+Definite quadratic form
+K-SVD
+Perron's irreducibility criterion
+Antilinear map
+Equating coefficients
+Completing the square
+Degree matrix
+A∞-operad
+Vector calculus identities
+Jessica Sklar
+Setoid
+Cohn's irreducibility criterion
+Bracket polynomial
+Orthogonalization
+Journal of Symbolic Computation
+Independent equation
+Pierre Gabriel
+Additive identity
+Jordan normal form
+Quasinorm
+Berlekamp's algorithm
+Mathcad
+Stephen Schanuel
+Johannes Widmann
+Bilinear form
+Majorization
+Laplacian matrix
+Zero-product property
+Near sets
+Real-root isolation
+Liouville's formula
+Vandermonde's identity
+Asymmetric norm
+Dual graph
+Parallel (operator)
+Niven's theorem
+Distribution (number theory)
+Actuarial polynomials
+Spherical design
+Hudde's rules
+Calabi–Yau algebra
+Total set
+Fundamental theorem of finitely generated abelian groups
+Casus irreducibilis
+Dieudonné determinant
+Hundred Fowls Problem
+Normal basis
+Sum of radicals
+Amitsur–Levitzki theorem
+Jan-Erik Roos
+Tsit Yuen Lam
+Graham–Pollak theorem
+Resolvent set
+Matrix calculus
+Factorization algebra
+Infrastructure (number theory)

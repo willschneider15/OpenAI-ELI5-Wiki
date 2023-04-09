@@ -1,0 +1,3 @@
+# Distribution algebra
+
+Distribution algebra is a type of algebra that deals with the manipulation of algebraic expressions. It is used to simplify expressions, solve equations, and solve problems involving multiple variables. In distribution algebra, the terms of an expression are "distributed" across the terms of another expression. This means that the terms of one expression are multiplied by each of the terms of the other expression. For example, if we have the expression 4x + 2y, we can distribute it across the expression 3x + 5y by multiplying 4x by 3x and 2y by 5y, resulting in 12x^2 + 10xy. Distribution algebra is a useful tool for solving equations and simplifying expressions.

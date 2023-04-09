@@ -1,0 +1,3 @@
+# Viktor Wagner
+
+Viktor Wagner was a German architect and theorist in the late 19th and early 20th centuries. He is known for his ideas about organic architecture, which involves designing buildings that are in harmony with their natural environment. Wagner believed that buildings should be designed to fit into the landscape and be shaped by the natural elements around them, such as the sun, wind, and vegetation. He also argued that a building should be made of materials that are native to the area and should be designed to be as efficient as possible. Wagner's ideas were influential in the development of modern architecture and remain relevant today.

@@ -1,0 +1,3 @@
+# Rayleigh theorem for eigenvalues
+
+Rayleigh Theorem states that the eigenvalues of a symmetric matrix are real and non-negative. This theorem is also known as the Min-Max Theorem, as it states that the maximum eigenvalue can be found by taking the maximum of the Rayleigh quotient and the minimum eigenvalue can be found by taking the minimum of the Rayleigh quotient. The Rayleigh quotient is a function of the matrix and a vector, and is defined as the ratio of the inner product of the matrix and the vector, to the inner product of the vector and itself. This theorem is useful for finding the eigenvalues of a matrix, and can be used to find the eigenvalues of a real symmetric matrix.

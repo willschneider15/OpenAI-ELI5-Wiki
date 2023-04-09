@@ -1,0 +1,3 @@
+# Graham–Pollak theorem
+
+The Graham–Pollak theorem is a mathematical theorem that states that any graph with an odd number of vertices can be colored using only two colors. This means that if you have a graph with 5 vertices, you can color it using only two colors, such as red and blue. This theorem is important because it helps us understand how to color graphs with an odd number of vertices. It also helps us understand how to color graphs with an even number of vertices, since we can use the same two colors to color the graph. In addition, the theorem is useful for solving problems in graph theory, such as finding the shortest path between two vertices.

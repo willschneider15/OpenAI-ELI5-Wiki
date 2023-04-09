@@ -1,0 +1,3 @@
+# Encryption Algorithms
+
+Encryption algorithms are methods used to protect data by scrambling it so that it is unreadable to anyone but the intended recipient. They involve transforming the data using a mathematical formula, called a cipher, which scrambles the data into an unrecognizable format. The data can then only be decrypted, or unscrambled, by someone with the correct key. Encryption algorithms are used to protect data from unauthorized access and to ensure that only the intended recipient can view the data. They are used in a variety of applications, such as online banking, secure emails, and secure file transfers.

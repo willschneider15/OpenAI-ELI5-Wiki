@@ -1,0 +1,3 @@
+# Polynomial greatest common divisor
+
+The polynomial greatest common divisor (GCD) is a concept that is used to find the greatest common divisor between two polynomials. It is a way to simplify a polynomial expression by dividing it by the greatest common divisor. This is done by finding the highest power of each of the variables in the polynomials, and then dividing both polynomials by the highest power of that variable. This process is repeated until the two polynomials can no longer be divided by the same factor. The result is the polynomial greatest common divisor. This concept can be used to simplify complex polynomial expressions, and is an important concept in algebra.

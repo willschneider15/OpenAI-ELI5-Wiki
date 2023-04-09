@@ -1,0 +1,3 @@
+# Polynomial Diophantine equation
+
+A polynomial Diophantine equation is an equation with two or more variables that has integer solutions. It is named after the ancient Greek mathematician Diophantus, who studied such equations. It is a type of Diophantine equation, which is an equation where the solutions must be integers. Polynomial Diophantine equations can be used to solve a variety of problems, such as finding the number of solutions to a given equation, finding the maximum or minimum value of a function, or finding the greatest common divisor of two or more numbers. They can also be used to solve problems in number theory, algebra, and geometry.

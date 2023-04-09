@@ -1,0 +1,3 @@
+# Gerhard Hochschild
+
+Gerhard Hochschild was a German-American mathematician who developed the concept of Hochschild homology. This concept is used in algebraic topology, which is a type of mathematics that studies the shapes of objects. Hochschild homology is a way of analyzing the structure of a space by breaking it down into simpler parts and looking at the relationships between them. This helps us understand the properties of the space better. Hochschild's work has been used to study things like knots, surfaces, and manifolds. It can also be used to study the properties of algebraic objects, like rings and groups. Hochschild's work has been incredibly influential in the field of mathematics and has helped us better understand the world around us.

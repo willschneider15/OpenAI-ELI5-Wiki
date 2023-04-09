@@ -1,0 +1,3 @@
+# Shear mapping
+
+Shear mapping is a type of transformation that changes the shape of an object. It works by sliding parts of the object in different directions, like pushing one side of a square up and the other side down. This changes the shape of the object, making it look like it has been stretched or skewed. It can also be used to rotate an object, by pushing one side up and the other side down at the same time. Shear mapping is a powerful tool used in computer graphics to create interesting effects. It can be used to create 3D images, or to make objects look like they are moving in different directions.

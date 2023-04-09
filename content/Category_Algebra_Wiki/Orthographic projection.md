@@ -1,0 +1,3 @@
+# Orthographic projection
+
+Orthographic projection is a type of drawing that shows a 3D object from different angles. It is used to help visualize how an object looks from different perspectives. Orthographic projection is like taking a picture of an object from different sides. It shows the top, front, and side views of an object. The top view looks like a bird's-eye view. The front view shows the object from the front, and the side view shows the object from the side. All of these views help to give a better understanding of what the object looks like in 3D. Orthographic projection is used in many different fields, such as architecture, engineering, and product design.

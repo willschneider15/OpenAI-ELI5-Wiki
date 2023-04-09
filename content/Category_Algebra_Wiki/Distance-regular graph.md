@@ -1,0 +1,3 @@
+# Distance-regular graph
+
+Distance-regular graphs are graphs that have the same number of edges between any two vertices, regardless of their distance. This means that the number of edges connecting two vertices that are a certain distance apart is the same as the number of edges connecting two vertices that are a different distance apart. For example, if two vertices are two steps away from each other, there will be the same number of edges between them as if they were four steps away from each other. Distance-regular graphs are useful for studying symmetries in graphs, and can be used to solve many problems in mathematics and computer science.

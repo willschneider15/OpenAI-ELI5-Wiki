@@ -1,0 +1,3 @@
+# Arithmetica
+
+Arithmetica is a branch of mathematics that deals with numbers and their properties. It is the study of numbers and the operations that can be performed on them. Arithmetica includes topics such as addition, subtraction, multiplication, division, fractions, exponents, and roots. It also includes topics such as equations, inequalities, and formulas. Arithmetica helps us understand the relationships between numbers and how to use them in solving problems. It is an important part of our daily lives as it helps us make decisions and solve problems. Arithmetica is a great way to learn about numbers and how to use them in our everyday lives.

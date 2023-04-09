@@ -1,0 +1,3 @@
+# Loewner order
+
+The Loewner order is a mathematical concept that describes the relationship between two sets of numbers. It is used to compare two sets of numbers and determine which is larger. The Loewner order states that if two sets of numbers have the same number of elements, the set with the larger sum of elements is the larger set. This means that if one set of numbers has a higher sum than the other, it is the larger set. For example, if one set of numbers is {1, 2, 3} and the other is {4, 5, 6}, the second set is the larger set since it has a higher sum (15 compared to 6). The Loewner order is a useful tool for comparing two sets of numbers and determining which is larger.

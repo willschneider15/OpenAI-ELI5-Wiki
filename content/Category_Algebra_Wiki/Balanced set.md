@@ -1,0 +1,3 @@
+# Balanced set
+
+A balanced set is a collection of items that are evenly distributed among two or more groups. This concept is often used in statistics and machine learning. For example, when creating a dataset for a classification task, it is important to have a balanced set of data points. This means that the number of data points in each class should be roughly equal. This ensures that the model is not biased towards a particular class and that it can accurately learn the differences between classes. Additionally, having a balanced set of data points can help reduce the chances of overfitting, as the model is exposed to a wider range of data points.

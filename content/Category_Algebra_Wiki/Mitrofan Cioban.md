@@ -1,0 +1,3 @@
+# Mitrofan Cioban
+
+Mitrofan Cioban is a Romanian folk dance that originated in the 17th century. It is a lively dance with a fast rhythm and is performed in a circle. The dancers hold hands and move in a circular pattern, often clapping and singing as they go. The dance moves are simple and repetitive, and the steps are usually done with the feet close together. The music usually has a lively tempo and can be accompanied by a violin or other instruments. The dance is usually done in the springtime, and the lyrics of the song often tell stories of love and joy. Mitrofan Cioban is a fun, energetic dance that celebrates the joy of life.

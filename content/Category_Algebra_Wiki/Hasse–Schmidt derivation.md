@@ -1,0 +1,3 @@
+# Hasse–Schmidt derivation
+
+Hasse–Schmidt derivations are a way of constructing a function from simpler functions. It works by taking a set of functions and combining them in a certain way to create a more complex function. The way the functions are combined is called a Hasse–Schmidt derivation. This process is useful because it allows us to create complicated functions from simpler ones, making it easier to understand and work with. It is also useful because it can be used to create functions that are more efficient than the ones that would be created without it. Hasse–Schmidt derivations are also important in mathematics because they can be used to prove theorems and solve problems.

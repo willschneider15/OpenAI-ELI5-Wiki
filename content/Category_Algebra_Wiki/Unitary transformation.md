@@ -1,0 +1,3 @@
+# Unitary transformation
+
+A unitary transformation is a mathematical operation that changes the shape and size of a vector or matrix without changing its contents. It is a transformation that preserves the magnitude and direction of the original vector or matrix. Unitary transformations are used to simplify complex equations, and are often used in quantum mechanics and signal processing. Unitary transformations can be performed using matrices and linear algebra, and can be used to rotate, scale, and reflect vectors. Unitary transformations are important because they preserve the magnitude and direction of a vector, and can be used to solve complex equations.

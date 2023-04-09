@@ -1,0 +1,3 @@
+# Trace diagram
+
+Trace diagrams are a type of visual tool used to help people understand the flow of a process. They are often used to help identify potential problems or areas for improvement. Trace diagrams are made up of boxes and arrows that represent different steps in a process. The boxes represent the steps, and the arrows show the order in which the steps should be completed. Trace diagrams can be used to help people understand how a process works, as well as to identify any potential problems or areas for improvement. Trace diagrams can also be used to help people understand how different parts of a process interact with each other.

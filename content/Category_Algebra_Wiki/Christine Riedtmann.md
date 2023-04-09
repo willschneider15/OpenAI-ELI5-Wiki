@@ -1,0 +1,3 @@
+# Christine Riedtmann
+
+Christine Riedtmann is a German psychologist who developed the concept of 'Flow'. Flow is a mental state that is experienced when a person is completely absorbed in an activity and is focused on the task at hand. This state of 'flow' can be experienced when a person is engaged in an activity that is challenging but also achievable. It is a state of intense concentration and enjoyment that allows the person to forget their worries and become fully immersed in the activity. Flow can be experienced in a variety of activities such as playing a sport, painting, writing, or playing a musical instrument. Flow is an important concept because it can help people to stay motivated and be productive while still enjoying the activity.

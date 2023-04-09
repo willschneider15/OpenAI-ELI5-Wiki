@@ -1,0 +1,3 @@
+# Interleaving distance
+
+Interleaving distance is a measure of how similar two sequences of elements are. It is based on the idea of interleaving two sequences, which means combining them in a way that preserves the order of each element. For example, if two sequences are [A, B, C] and [1, 2, 3], an interleaved sequence would be [A, 1, B, 2, C, 3]. The interleaving distance is the number of steps it takes to transform one sequence into the other using interleaving. The smaller the interleaving distance, the more similar the sequences. This measure is useful in applications such as natural language processing, where it can be used to compare the similarity of two texts.

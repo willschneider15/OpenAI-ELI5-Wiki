@@ -1,0 +1,3 @@
+# Boole polynomials
+
+Boole polynomials are mathematical equations used to describe logical relationships. They are named after the mathematician George Boole, who developed the concept of Boolean algebra. Boole polynomials use a combination of variables, constants, and operators to represent logical operations. Variables are represented by letters, constants by numbers, and operators by symbols. The polynomials can be used to determine the truth value of a statement, or to solve logical problems. Boole polynomials are often used in computer programming, as they can be used to represent complex logic in a concise form.

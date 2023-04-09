@@ -1,0 +1,3 @@
+# Semilinear map
+
+A semilinear map is a type of mathematical function that maps one set of elements to another set of elements. It is similar to a linear map, except that it allows for a certain degree of flexibility in the mapping. For example, a semilinear map could map a set of numbers to a set of letters, or a set of points in a plane to a set of points in a different plane. The flexibility of a semilinear map is that it can map elements that are not in the same order as the original set. This allows for more complex mappings than a linear map, which requires that the elements be mapped in the same order as the original set.

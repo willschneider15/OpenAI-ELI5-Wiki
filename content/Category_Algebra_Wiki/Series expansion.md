@@ -1,0 +1,3 @@
+# Series expansion
+
+Series expansion is a mathematical concept that involves expressing a function as a sum of an infinite number of terms. It is used to approximate a function with a simpler expression. For example, a Taylor series is an expansion of a function into an infinite sum of terms which can be used to approximate the function with a simpler expression. This can be useful for solving equations or approximating functions that are difficult to work with. Series expansion can also be used to find the derivatives of functions, which can be used to determine the slope of a line or the rate of change of a function.

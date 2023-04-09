@@ -1,0 +1,3 @@
+# Howson property
+
+The Howson Property is a concept related to decision-making. It states that if a decision-maker has a set of options and knows the expected outcomes of each option, then the decision-maker should choose the option with the highest expected value. In other words, the decision-maker should choose the option that has the best chance of producing the desired result. This concept can be applied to many different situations, such as when deciding which investment to make or which course of action to take in a difficult situation. The Howson Property is a useful tool for making decisions because it helps ensure that the decision-maker is making the best possible choice.

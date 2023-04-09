@@ -1,0 +1,3 @@
+# Quantum Cryptography
+
+Quantum cryptography is a type of encryption that uses quantum mechanics to secure data. It uses the properties of quantum particles, such as photons, to encode and decode information. The photons are sent between two parties, and the data is encrypted using a special algorithm. The data is then decoded using a second algorithm. The photons used in quantum cryptography are unique; they cannot be copied or altered, so the data is secure. This makes quantum cryptography more secure than traditional encryption methods, as it is impossible to break the code without changing the quantum particles. Quantum cryptography is still in its early stages of development, but it has the potential to revolutionize the way we communicate and store data.

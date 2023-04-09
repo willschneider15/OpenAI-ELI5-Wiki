@@ -1,0 +1,3 @@
+# Polynomial decomposition
+
+Polynomial decomposition is a mathematical technique used to break down a polynomial expression into simpler components. It involves breaking down a polynomial into its individual terms and then simplifying each term. This is done by factoring out common factors, collecting like terms, and then combining them together. By doing this, the polynomial can be reduced to its simplest form. This process can be used to solve equations and can help simplify complex equations. Polynomial decomposition is a useful tool for solving equations and can be used to find the roots of a polynomial.

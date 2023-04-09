@@ -1,0 +1,3 @@
+# Ihara zeta function
+
+Ihara zeta function is a mathematical tool used to study networks of connected objects, like points on a graph. It is named after the mathematician Yasutaka Ihara, who discovered it. The Ihara zeta function is a type of generating function, which is a mathematical expression that can be used to calculate a sequence of numbers. It is a complex function, meaning it involves imaginary numbers, and is expressed as a power series. The Ihara zeta function is used to calculate the number of closed paths of a given length in a network. It is also used to calculate the number of cycles in a graph, which can be used to measure its connectivity.

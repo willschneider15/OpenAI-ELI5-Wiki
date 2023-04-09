@@ -1,0 +1,3 @@
+# Absorption law
+
+Absorption law is a legal principle that states that a person cannot receive more than one satisfaction, or compensation, for a single wrong. This means that if a person has suffered a loss due to another person's negligence, they can only receive one form of compensation, such as money or an apology, for the wrong done. This law prevents double recovery, which would be unfair to the person who caused the harm. The law is based on the idea that if a person is wronged, they should only be compensated once, and not be allowed to receive more than one form of compensation. This law helps to ensure that justice is served, and that everyone involved receives fair treatment.

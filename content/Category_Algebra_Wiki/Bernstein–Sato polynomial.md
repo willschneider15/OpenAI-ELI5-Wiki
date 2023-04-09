@@ -1,0 +1,3 @@
+# Bernstein–Sato polynomial
+
+A Bernstein–Sato polynomial is a mathematical tool used to study the singularities of functions. It is a polynomial equation with a single variable, usually denoted by x. The equation can be used to determine the behavior of a function near a singularity, which is a point where the function is not defined. The Bernstein–Sato polynomial can also be used to find the local behavior of a function around a singularity. The polynomial can be used to classify the type of singularity, and can also be used to calculate the number of solutions to a function near a singularity. In short, the Bernstein–Sato polynomial can be used to study and calculate the behavior of a function near a singularity.

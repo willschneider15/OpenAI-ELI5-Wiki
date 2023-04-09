@@ -1,0 +1,3 @@
+# Center (algebra)
+
+Center is a concept in algebra that is used to describe the middle point of a set of points. The center of a set of points is the point that is equidistant from all other points in the set. This means that the distance from the center to each other point in the set is the same. To find the center of a set of points, you first need to find the average of the x-coordinates and the average of the y-coordinates. The average of the x-coordinates is the x-coordinate of the center, and the average of the y-coordinates is the y-coordinate of the center. The center is then the point where these two coordinates meet.

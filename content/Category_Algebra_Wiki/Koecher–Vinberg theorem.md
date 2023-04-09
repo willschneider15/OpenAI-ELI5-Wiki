@@ -1,0 +1,3 @@
+# Koecher–Vinberg theorem
+
+Koecher–Vinberg theorem is a mathematical theorem that allows us to solve certain problems involving linear inequalities. It is a powerful tool for solving optimization problems, which involve finding the best solution to a given problem. In a nutshell, the theorem states that if two sets of linear inequalities are given, then there is a solution that satisfies both sets of inequalities. This solution is called the optimal solution, and it is the best possible solution given the constraints of the problem. The theorem can be used to solve a variety of problems, from finding the shortest path between two points to finding the best investment portfolio.

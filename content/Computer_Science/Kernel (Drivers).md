@@ -1,0 +1,3 @@
+# Kernel (Drivers)
+
+Kernel (Drivers) are like the brains of a computer. They are small pieces of software that tell the computer how to do different tasks. They act as the bridge between the hardware and the software, allowing the two to communicate with each other. Drivers are responsible for controlling the hardware components of a computer, such as the monitor, the mouse, and the printer. Without them, the hardware would not be able to function. Drivers also allow the computer to access different types of files, like videos, music, and documents. They are also responsible for connecting the computer to the internet. In short, drivers are essential for a computer to work properly.

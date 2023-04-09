@@ -1,0 +1,3 @@
+# Ina Kersten
+
+Ina Kersten is a concept that encourages people to be kind to one another. Ina Kersten was created by a Dutch woman, Ina, who wanted to spread kindness in her community. She believed that if people could be kind to one another, it would help to build strong relationships and create a better world. The idea is that when someone does something kind for another person, it creates a ripple effect of kindness that can spread around the world. Ina Kersten is about taking the time to be kind and show appreciation for the people in your life. It can be as simple as a kind word, a hug, or a smile. By taking the time to be kind, we can create a better world for everyone.

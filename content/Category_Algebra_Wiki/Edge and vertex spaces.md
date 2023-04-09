@@ -1,0 +1,3 @@
+# Edge and vertex spaces
+
+Edge and vertex spaces are two concepts used in graph theory. A graph is a collection of points (vertices) connected by lines (edges). Edge spaces are the areas between two vertices, while vertex spaces are the points where two edges meet. Edge spaces can represent the distance between two points, while vertex spaces can represent the intersection of two lines. Edge spaces are often used to represent relationships between two points, while vertex spaces are used to represent the connection between two lines. Edge and vertex spaces are essential for visualizing relationships between points in a graph.

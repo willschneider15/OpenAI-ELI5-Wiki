@@ -1,0 +1,3 @@
+# Abramov's algorithm
+
+Abramov's algorithm is a way to solve problems by breaking them down into smaller pieces. It works by taking a problem, breaking it down into smaller parts, and then solving each part one at a time. This way, the problem can be solved more quickly and efficiently. To use the algorithm, you start by writing down the problem, then breaking it down into smaller parts. After that, you solve each part one at a time, starting with the easiest part first. Once all the parts are solved, you can combine them together to solve the whole problem. This way, you can solve complex problems with fewer steps.

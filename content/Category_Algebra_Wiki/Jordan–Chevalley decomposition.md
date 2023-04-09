@@ -1,0 +1,3 @@
+# Jordan–Chevalley decomposition
+
+Jordan-Chevalley decomposition is a way to break down a matrix into simpler parts. It is a useful tool for linear algebra because it allows us to solve equations and problems more quickly and easily. It works by taking a matrix and dividing it into two parts: a lower triangular matrix (with all the entries below the main diagonal equal to zero) and an upper triangular matrix (with all the entries above the main diagonal equal to zero). The two parts can then be multiplied together to get the original matrix. This decomposition can be used to solve linear equations, calculate eigenvalues, and find the inverse of a matrix.

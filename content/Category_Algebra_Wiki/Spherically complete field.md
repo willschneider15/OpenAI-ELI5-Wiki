@@ -1,0 +1,3 @@
+# Spherically complete field
+
+A spherically complete field is a type of mathematical field that is complete in the sense that all its elements can be connected to each other in a continuous way. This means that if two elements are close together in the field, then they can be connected by a line or a curve. This is similar to how a sphere is complete in the sense that all points on the surface of the sphere can be connected by a continuous line. In a spherically complete field, all elements can be connected in this way, no matter how far apart they are. This makes the field useful in mathematics, as it allows for more precise calculations.

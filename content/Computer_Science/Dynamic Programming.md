@@ -1,0 +1,3 @@
+# Dynamic Programming
+
+Dynamic Programming is a way of solving problems by breaking them down into smaller, easier to solve pieces. It works by breaking down a problem into subproblems, and then storing the results of the subproblems so that they can be reused. This allows the same problem to be solved faster and more efficiently. For example, if you wanted to find the fastest way to get to school, you could break down the problem into smaller pieces like finding the shortest route to each intersection, and then store the results. That way, when you need to find the shortest route to school, you can quickly look up the results of each subproblem and get the fastest route.

@@ -1,0 +1,3 @@
+# Board puzzles with algebra of binary variables
+
+Board puzzles with algebra of binary variables are a type of mathematical puzzle that involve solving equations by assigning a value of either 0 or 1 to each variable. The goal is to find the combination of values that will make the equation true. This type of puzzle is often used to teach logical reasoning and problem-solving skills. It can also be used to explore the nature of Boolean logic and its application in computing. The puzzles can range from simple to complex and can involve multiple variables and equations. By assigning a value of either 0 or 1 to each variable, the solver must work out the correct combination of values that will make the equation true.

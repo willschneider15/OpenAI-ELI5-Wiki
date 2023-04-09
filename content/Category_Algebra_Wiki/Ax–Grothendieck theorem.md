@@ -1,0 +1,3 @@
+# Ax–Grothendieck theorem
+
+The Ax–Grothendieck theorem is a mathematical theorem that states that any two objects in a category can be connected by a morphism. In other words, it states that any two objects in a category can be related to each other. This theorem is important for mathematicians, as it allows them to study relationships between objects in a category, which can help them solve problems. In simpler terms, the Ax–Grothendieck theorem tells us that any two objects in a group can be connected in some way. This can help us understand how different objects in a group interact with each other.

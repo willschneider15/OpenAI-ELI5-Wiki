@@ -1,0 +1,3 @@
+# Peter Rosenthal
+
+Peter Rosenthal is a Canadian lawyer who developed the concept of ADR (Alternative Dispute Resolution). ADR is a way for people to solve their disputes without going to court. It involves using a neutral third party to help the two parties come to an agreement. This third party can be a mediator, an arbitrator, or a combination of both. The mediator helps the two parties communicate and understand each other's points of view. The arbitrator makes a decision based on the facts presented by both parties. ADR is faster, cheaper, and more private than going to court, and it can help the two parties reach a resolution that is more likely to be accepted by both sides.

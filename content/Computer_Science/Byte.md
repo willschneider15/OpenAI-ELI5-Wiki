@@ -1,0 +1,3 @@
+# Byte
+
+A byte is a unit of digital information used to store data. It is made up of eight bits, or binary digits, which are the smallest unit of digital information. Bits are either 0 or 1, and they are used to represent text, numbers, images, and other types of data. By combining multiple bits together, we can create larger units of data like bytes, kilobytes, and megabytes. Bytes are used to measure the size of a file, like a document or an image. For example, a text document might be 5KB (kilobytes) or 5,000 bytes. A byte is also used to measure the speed of data transfer, like how fast you can download a file from the internet. Bytes per second (bps) is the unit used to measure the speed of data transfer.

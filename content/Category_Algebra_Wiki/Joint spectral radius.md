@@ -1,0 +1,3 @@
+# Joint spectral radius
+
+The joint spectral radius is a measure of the maximum growth rate of a set of matrices. It is calculated by taking the largest magnitude of the eigenvalues of all possible products of the matrices in the set. The joint spectral radius is important because it can be used to determine the stability of a system. For example, if the joint spectral radius of a set of matrices is greater than 1, then the system is unstable and the matrices are said to be jointly expansive. On the other hand, if the joint spectral radius is less than 1, then the system is stable and the matrices are said to be jointly contractive.

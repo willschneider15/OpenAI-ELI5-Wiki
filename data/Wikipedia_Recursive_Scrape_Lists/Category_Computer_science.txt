@@ -1,0 +1,1000 @@
+Richard Y. Wang
+Junos OS
+Diane Litman
+International Computer Music Conference
+Fractional-order control
+Network forensics
+Mohamed Rafiquzzaman
+Location transparency
+Pacific Symposium on Biocomputing
+Sven Pagel
+PHY-Level Collision Avoidance
+BCS Lovelace Medal
+Teo Mora
+System on a chip
+Computer science
+Mamadou Gouro Sidibe
+Conference on Human Factors in Computing Systems
+International Conference on Functional Programming
+Impulse vector
+Consensus dynamics
+Developer relations
+Digital signal processor
+Loebner Prize
+Gerard Salton Award
+Marie-Francine Moens
+Xuedong Huang
+Munther A. Dahleh
+Time-driven switching
+Bellman pseudospectral method
+Dead-beat control
+Switch virtual interface
+Minimum-Pairs Protocol
+Ani Nenkova
+Sidney Fernbach Award
+Gregory Grefenstette
+Network eavesdropping
+Out-of-band data
+Conference on Information and Knowledge Management
+Intelligent Systems for Molecular Biology
+Michael J. Black
+Paris Kanellakis Award
+ACM Doctoral Dissertation Award
+End-to-end delay
+Harry H. Goode Memorial Award
+Timnit Gebru
+J. W. Graham Medal
+DirectPlay
+Basel Computational Biology Conference
+Multimedia over Coax Alliance
+International Society for Music Information Retrieval
+Hardware compatibility list
+John Mathieson (computer scientist)
+Automatic differentiation
+International Conference on Very Large Data Bases
+Chan-Jin Chung
+Networked music performance
+International Conference on Pattern Recognition in Bioinformatics
+Rada Mihalcea
+Eric Feron
+Technical Symposium on Computer Science Education
+Minimum energy control
+ACM Conference on Fairness, Accountability, and Transparency
+Jean-Pierre Hubaux
+Russell A. Brown
+David R. Kaeli
+Heinz Billing Prize
+Network delay
+Dahl–Nygaard Prize
+Network diagram software
+Thermal design power
+Eugene Charniak
+Chain-linked model
+Hans-Juergen Boehm
+Host model
+Onward!
+Reliable Data Transfer
+Programming language design and implementation
+Research in Computational Molecular Biology
+List of important publications in cryptography
+HD-PLC
+H-infinity loop-shaping
+Webist
+Loop performance
+Routing protocol
+Generalized filtering
+Informatics engineering
+X2 transceiver
+Industrial data processing
+Optogenetics
+Delay differential equation
+Synthetic division
+Roger Needham Award
+Peter Bürgisser
+Chandrika Kamath
+Wim Sweldens
+Mini-STX
+Routing domain
+International Conference on Availability, Reliability and Security
+Kharitonov's theorem
+ISCB Africa ASBCB Conference on Bioinformatics
+Irwin Sobel
+Glycolytic oscillation
+Control reconfiguration
+Pseudospectral knotting method
+IPSANET
+Workshop on Algorithms Engineering
+Sidney Michaelson
+Network configuration and change management
+Systemness
+Sloan Research Fellowship
+User-in-the-loop
+List of computer science conference acronyms
+Coherent control
+Programming Language Design and Implementation
+William C. Carter Award
+Luca Benini
+Etherloop
+Packet switching
+Klaus Peter Jantke
+OOPSLA
+Bill Paxton (computer scientist)
+Ad hoc network
+Migration (virtualization)
+Transition (computer science)
+Out-of-band agreement
+Ultra-large-scale systems
+Milind Tambe
+European Symposium on Programming
+American Automatic Control Council
+Download
+Concurrent estimation
+W. Wallace McDowell Award
+FGLM algorithm
+Adenike Osofisan
+Hussein Abbass
+Hardware security
+Vasant Honavar
+Electronic engineering
+Regularization by spectral filtering
+Power-line communication
+OGSM
+First-order hold
+Mark D. Hill
+Igor Jurisica
+Conference on Innovative Data Systems Research
+Data assimilation
+Michael Pound
+Measurement Studio
+Hierarchical control system
+Chebyshev pseudospectral method
+Prakash Panangaden
+Networking hardware
+ONOS
+Gröbner fan
+Boon Thau Loo
+Filtering problem (stochastic processes)
+International Symposium on Wearable Computers
+Richard H. R. Harper
+Computer Pioneer Award
+Timothy Jurka
+I/O virtualization
+Nigel A. L. Clarke
+Programmable logic controller
+OpenVNet
+International Conference on Service Oriented Computing
+Nullor
+Craig Gotsman
+Alex Graves (computer scientist)
+Barbara J. Grosz
+Honeywell JetWave
+Pedro Domingos
+Symbolic execution
+NetFPGA
+Process variable
+Patrick Piemonte
+European Summer School in Logic, Language and Information
+David Silver (roboticist)
+Network equipment provider
+AP Computer Science
+Chamber of Computer Engineers of Turkey
+Proxy list
+Content-addressable memory
+Gary Babcock Gordon
+Critical code studies
+Lillian Lee (computer scientist)
+Frenetic (programming language)
+Affect control theory
+Web container
+Penny Crane Award for Distinguished Service
+History of programming languages
+Datasource
+Cache hierarchy
+Wireless data center
+Cicely Popplewell
+Ruslan Mitkov
+Ellevate Network
+Leon J. Osterweil
+Operating system Wi-Fi support
+Learning automaton
+Polynomial identity testing
+Van Wijngaarden Award
+Emulator
+Bode's ideal transfer function
+Polynomial decomposition
+Inderjit Dhillon
+Content delivery network interconnection
+Network Protocol Virtualization
+Fault detection and isolation
+International Symposium on Algorithms and Computation
+Negative feedback
+4D vector
+Router on a stick
+International Conference on Acoustics, Speech, and Signal Processing
+Feed forward (control)
+Hop (networking)
+Sensor node
+Programmer (hardware)
+Inerter (mechanical networks)
+ACM Symposium on User Interface Software and Technology
+Network Driver Interface Specification
+Computing Research Association
+IEEE Conference on Computational Intelligence and Games
+Legendre pseudospectral method
+International Conference on Logic Programming
+Serafim Batzoglou
+The Web Conference
+Differential game
+Computational social choice
+Multilink striping
+Computer science in sport
+Nenad Medvidović
+Ludgate Prize
+Andrew J. Hanson
+Phoenix network coordinates
+Node (networking)
+Call setup
+Poornima Vijayashanker
+International Conference on Computer and Information Technology
+ACM SIGPLAN Programming Languages Software Award
+Convergence (routing)
+Clarisse Iribagiza
+RNDIS
+ICAART
+IP connectivity access network
+International Conference on Computational Intelligence Methods for Bioinformatics and Biostatistics
+Lenhart Schubert
+Kalai Prize
+Broadcast, unknown-unicast and multicast traffic
+IEEE Visualization
+Hankel singular value
+Berlekamp–Zassenhaus algorithm
+Discretization
+Halanay inequality
+Minimal realization
+Algorithmic state machine
+Game development kit
+Bilinear transform
+Model predictive control
+Machine learning control
+Randomized benchmarking
+International Symposium on Symbolic and Algebraic Computation
+Information-centric networking
+International Systems and Storage Conference
+Electrical engineering
+Multicover Bifiltration
+Perceptual control theory
+International Conference on Language Resources and Evaluation
+Pasquale Aiello
+Joscha Bach
+QUIC
+Perceived performance
+Service Data Objects
+Maja Vuković
+Internal environment
+Karen Catlin
+Falling cat problem
+Oriol Vinyals
+IEEE Richard W. Hamming Medal
+Thorsten Altenkirch
+ASRock M8
+Content delivery platform
+Covariance intersection
+Overlay network
+Host system
+Microgrid
+Multicast router discovery
+Symbolic regression
+Empirical Methods in Natural Language Processing
+International Conference on Document Analysis and Recognition
+Matt Welsh (computer scientist)
+NO CARRIER
+Data center
+Ramesh Sitaraman
+Dynamic circuit network
+Librem
+Hans Uszkoreit
+Positive systems
+Flajolet Lecture Prize
+Gröbner basis
+Dale Miller (academic)
+National Prize for Exact Sciences (Chile)
+Bareiss algorithm
+Elementary function
+Wireless onion router
+Information Systems Research in Scandinavia
+Integral sliding mode
+Dell M1000e
+VLDB conference
+Ore algebra
+Binary expression tree
+Networked control system
+ACM Software System Award
+Calgary Challenge
+Computational neuroaesthetics
+Load-balanced switch
+Robert Wilensky
+NAT traversal with session border controllers
+ACM Multimedia
+Summer School Marktoberdorf
+Wojciech Zaremba
+FTOS
+Network domain
+Relay network
+Data communication
+Promiscuous traffic
+Robert Tomasulo
+Lightweight Presentation Protocol
+Irene Greif
+Hostname
+Judy Butland
+Tim Kindberg
+International Conference on Interactive Computer Aided Learning
+Compensator (control theory)
+Feedback
+Ethernet over USB
+International Conference on Intelligent Tutoring Systems
+Ernesto Damiani
+International Conference on Digital Audio Effects
+Offset filtration
+Minor loop feedback
+Subrata Dasgupta
+Felix Gers
+Cut-through switching
+Gordon Bell Prize
+IEEE P1906.1
+Software Product Line Conference
+Polynomial long division
+Triangular decomposition
+Fault Tolerant Ethernet
+Jelani Nelson
+Digital control
+Konrad Zuse Medal
+4D-RCS Reference Model Architecture
+Milan Vojnovic
+Hanna Wallach
+Computer scientist
+Margaret Mitchell (scientist)
+Faugère's F4 and F5 algorithms
+Electronic Reference Library
+Bode's sensitivity integral
+Liouvillian function
+Secure element
+LOBSTER
+Alpha strike (engineering)
+H square
+Home network
+Hall circles
+WinGate
+Flat pseudospectral method
+Control system
+Versit Consortium
+H-infinity methods in control theory
+Alan Turing Centenary Conference
+Psychoinformatics
+Martin Ester
+Organizational unit (computing)
+Alan Smeaton
+David Magerman
+International Conference on Bioinformatics
+Symposium on Operating Systems Principles
+David Walden
+Hautus lemma
+Network controllability
+MobileHCI
+International ACM SIGACCESS Conference on Computers and Accessibility
+Dynamic simulation
+José Luis Encarnação
+Mail-sink
+Collision avoidance (networking)
+A. Murat Eren
+Women in computing
+Deadband
+Herbrand Award
+Deep Medhi
+Ewan Stafford Page
+Ken Kennedy Award
+Obstacle avoidance
+Location information server
+Peer group (computer networking)
+Roy Clay
+Chih-Jen Lin
+Hardware-based encryption
+Joseph Keshet
+Workshop on Algorithms in Bioinformatics
+Linear parameter-varying control
+Sorting network
+Vinyl cutter
+Test vector
+OpenDaylight Project
+Fractional lambda switching
+Niloufar Salehi
+RapidIO
+Distributed parameter system
+Eckert–Mauchly Award
+Computer compatibility
+Tim Gill
+Datakit
+Rice University Electrical and Computer Engineering
+Wireless engineering
+Logic synthesis
+Comparison of streaming media software
+Nullator
+History of Programming Languages (conference)
+Julia Hirschberg
+Hybrid system
+Kenton Clarke
+Pietro Perona
+Janet basis
+Unwired enterprise
+Grace Murray Hopper Award
+RSA Award for Excellence in Mathematics
+Conway polynomial (finite fields)
+SURAnet
+Rajesh K. Gupta
+IMU Abacus Medal
+System of polynomial equations
+UPC and NPC
+DECbit
+Intermittent control
+Victor Vianu
+World Multiconference on Systemics, Cybernetics and Informatics
+Symbolic-numeric computation
+T.H. Tse
+Empathy Map
+Coefficient diagram method
+QualNet
+Double integrator
+Derivation of the Routh array
+ACM Eugene L. Lawler Award
+Barwise Prize
+Dynamic bandwidth allocation
+Lanstar
+Raphael Rom
+JGroups
+VARAN
+Tsutomu Kanai Award
+GPU switching
+Charlie Lee (computer scientist)
+ARITH Symposium on Computer Arithmetic
+Tanel Tammet
+Hierarchical internetworking model
+Ahmed K. Elmagarmid
+SIGMOD Edgar F. Codd Innovations Award
+Message switching
+International Conference on Remote Engineering and Virtual Instrumentation
+Flatness (systems theory)
+International Conference on Concurrency Theory
+Consolidated Tape Association
+Diskless shared-root cluster
+Failover
+Bartels–Stewart algorithm
+Named data networking
+Decentralized autonomous organization
+Linear control
+Medical Image Understanding and Analysis conference
+Sound and Music Computing Conference
+Timeout (computing)
+EATCS Award
+Closed-loop controller
+Computer algebra
+Schwartz–Zippel lemma
+Abstraction (computer science)
+Yorick Wilks
+Artstein's theorem
+Shazia Sadiq
+IEEE Internet Award
+Decision theory
+ACM International Conference on Design of Communication
+Masreliez's theorem
+Observability Gramian
+ONAP
+Glossary of computer science
+Seymour Cray Computer Engineering Award
+International Conference on Computer Vision
+Narada multicast protocol
+Johan Bollen
+Harlan D. Mills Award
+Digital Humanities conference
+Munindar P. Singh
+Tony Kent Strix award
+Pairing (computing)
+Sneakernet
+VyOS
+Extended Semantic Web Conference
+ISCSI Extensions for RDMA
+Federated Computing Research Conference
+White Camel award
+International Middleware Conference
+Idea networking
+International Conference on Information Systems Security and Privacy
+Packet processing
+State-transition equation
+Secure end node
+Hardware reset
+Creative computing
+Link flap
+Policy-based management
+Hubert Mara
+Computer science and engineering
+Computer network diagram
+Network simulation
+Craig Silverstein
+Trevor Mudge
+Yunhao Liu
+Wu's method of characteristic set
+Workshop on Information Technologies and Systems
+Federal Networking Council
+European Conference on Information Retrieval
+Network-Integrated Multimedia Middleware
+Packet concatenation
+Windows Vista networking technologies
+SwitchBlade
+List of computer scientists
+Sally Fincher
+Smart device
+Pharos network coordinates
+Multiple models
+Symposium on Principles and Practice of Parallel Programming
+Cross Gramian
+Heng Ji
+Intelligent control
+Elimination theory
+Zero-overhead looping
+Buchberger's algorithm
+Fingerprint scanner
+Closed system (control theory)
+Bea Knecht
+Active disturbance rejection control
+Packard Bell Statesman
+SPLASH (conference)
+Full state feedback
+PLL multibit
+ACM Conference on Recommender Systems
+Control (management)
+International Conference on Business Process Management
+Connection-oriented communication
+STREAMS
+European Conference on Computer Vision
+René Vidal
+Symposium on Experimental Algorithms
+Prefetching
+William Bigelow Easton
+ScreenOS
+TOOLS conference series
+Cheng Xiang Zhai
+Dimension of an algebraic variety
+Matched Z-transform method
+Stephen M. Watt
+Parameterized approximation algorithm
+Dell Networking Operating System
+Rate Based Satellite Control Protocol
+ACM SIGMOD Conference
+International Conference on Architectural Support for Programming Languages and Operating Systems
+Daniel Abadi
+Minimum phase
+Reactive synthesis
+Digital Preservation Award
+Information and computer science
+Eyeball network
+History of computer science
+Annual Meeting of the Association for Computational Linguistics
+International Conference on Advances in ICT for Emerging Regions
+International Conference on Web Services
+OpenSym
+Defense Information System Network
+Open Compute Project
+Radio access technology
+Gustaf Neumann
+Erik Ernst
+Pollard's kangaroo algorithm
+Gajski–Kuhn chart
+International Conference on User Modeling, Adaptation, and Personalization
+Roman Yampolskiy
+Advanced process control
+Mexican International Conference on Artificial Intelligence
+Bellman equation
+Online model
+Discrete event dynamic system
+Kalman filter
+J. H. Wilkinson Prize for Numerical Software
+Gosper's algorithm
+Blair MacIntyre
+New Interfaces for Musical Expression
+List of computer science awards
+BIOSTEC
+Kentaro Toyama
+Tsunami UDP Protocol
+Li-Fi Consortium
+Factorization of polynomials
+Jakita O. Thomas
+List of wireless sensor nodes
+Switched Multi-megabit Data Service
+Computing with Memory
+Howard Gobioff
+Alexander L. Wolf
+Dynamic provisioning environment
+Micro-bursting (networking)
+Conference on Computer Vision and Pattern Recognition
+C. Emre Koksal
+Connectionless communication
+International Symposium on Computer Architecture
+ISC High Performance
+Prize for Innovation in Distributed Computing
+Jing-Pha Tsai
+Presburger Award
+Tiziana Margaria
+Fanya Montalvo
+Pipeline forwarding
+History of compiler construction
+Tor (network)
+Pascale Fung
+ACM Conference on Hypertext and Social Media
+Iso-damping
+PowerEdge VRTX
+Dn42
+Gabriel Wainer
+Kleene Award
+Marieke Huisman
+IJCAI Award for Research Excellence
+Preslav Nakov
+Tucker Prize
+Workshop on Generic Programming
+Noncommutative signal-flow graph
+Resultant
+Dell PowerConnect
+Single-root input/output virtualization
+Manik Varma (computer scientist)
+NPL network
+Joseph Glickauf
+Higher-order sinusoidal input describing function
+Conference on Web Science
+Marti Hearst
+Computer engineering
+IEEE John von Neumann Medal
+Optimal projection equations
+Universal gateway
+Fibre Channel frame
+Haskell Symposium
+Abdigani Diriye
+List of search appliance vendors
+National Documentation Centre (Greece)
+Symbolic integration
+Erdős–Rényi Prize
+ICORES
+Physical media
+Instinet
+Chatterbox Challenge
+Turing Award
+Milner Award
+Technology transfer in computer science
+European Summer School in Information Retrieval
+Hui Lei
+Ibrahim Kalil Konaté
+Jürgen Schmidhuber
+Photonically Optimized Embedded Microprocessors
+Network agility
+Industrial process control
+USENIX Conference on File and Storage Technologies
+Graeme Ackland
+P4 (programming language)
+ACM/IEEE Virtual Reality International Conference
+ICPRAM
+Dijkstra Prize
+International Solid-State Circuits Conference
+Santanu Bhattacharya (data scientist)
+Polynomial greatest common divisor
+IPv4 shared address space
+International Symposium on Microarchitecture
+Controllability Gramian
+Directory System Agent
+IET Mountbatten Medal
+Class kappa function
+ERCIM Cor Baayen Award
+Pfaffian constraint
+Jie Tang
+Nitro Zeus
+Melba Roy Mouton
+Symposium on Trends in Functional Programming
+Time-driven priority
+P2PTV
+I2P
+Patrick Baudisch
+Krener's theorem
+Demetri Terzopoulos
+USENIX Security Symposium
+ACM/IEEE Supercomputing Conference
+IJCAI Computers and Thought Award
+Alan D. Berenbaum Distinguished Service Award
+AAAI Squirrel AI Award
+Hardware Trojan
+B5000 instruction set
+Power cycling
+List of computer science conferences
+Swiss Network Operators Group
+UDPCast
+Valeria Bertacco
+Boolean
+Windows domain
+European Computer Science Summit
+Yi Mu (academic)
+Ge Wang
+History of software
+Sameer Maskey
+Ns (simulator)
+Queuing delay
+Computer Applications and Quantitative Methods in Archaeology
+In situ adaptive tabulation
+Network information system
+Regular semi-algebraic system
+SIGCOMM Award
+Traffic flow (computer networking)
+AAAI/ACM Conference on AI, Ethics, and Society
+European Joint Conferences on Theory and Practice of Software
+Annual Conference of the European Association for Computer Graphics
+Symposium on Principles of Database Systems
+Edsger W. Dijkstra Prize in Distributed Computing
+Marine Carpuat
+Information Systems International Conference
+Energy-shaping control
+Genetic and Evolutionary Computation Conference
+Ashley Morris (blogger)
+Denny Vrandečić
+ACM Prize in Computing
+Vyatta
+Upload
+Sturm's theorem
+Daffodil Polytechnic Institute
+Impulse response
+Orbit (control theory)
+Faustine Fotso
+Reda Seireg
+Network allocation vector
+Session (computer science)
+Networked Robotics Corporation
+Vivaldi coordinates
+Regular chain
+Spanish Cybersecurity Research Conference
+Theodosios Pavlidis
+Alex Krizhevsky
+Hardware for artificial intelligence
+International Joint Conference on Web Intelligence and Intelligent Agent Technology
+Daniel M. Romero
+Tas Tsonis
+Ilkay Altintas
+Parallel parking problem
+Plug compatible
+Sophia Ananiadou
+Label switching
+Phil Venables (computer scientist)
+Southwest Symposium on Image Analysis and Interpretation
+Electronic badge
+Iterative learning control
+Landau's algorithm
+Bing Liu (computer scientist)
+Linnar Viik
+Wolfgang Viechtbauer
+Maurice Wilkes Award
+Norator
+Distributed Event-Based Systems
+Gödel Prize
+Factorization of polynomials over finite fields
+Hybrid Scheduling
+Email art
+William H. Robinson
+Registered state change notification
+International Symposium on Memory Management
+XLDB
+ACM SIGIR Conference
+Proper transfer function
+Global network
+Azriel Rosenfeld Award
+Router (computing)
+Network browser
+Internal model (motor control)
+Visible Embryo Project
+Network-neutral data center
+Local Management Interface
+HP OpenCall
+Tin Kam Ho
+General communication channel
+Bicycle and motorcycle dynamics
+Jiebo Luo
+Outline of computer engineering
+Timeline of programming languages
+M. Tamer Özsu
+Processor design
+Rebeca Guber
+Security domain
+CHI Academy
+SIGOPS Mark Weiser Award
+Scott Kirkpatrick
+John von Neumann
+MsQuic
+WIP message
+Kalman decomposition
+Ipke Wachsmuth
+Kronecker substitution
+JANOG
+Fulkerson Prize
+Cecilia Berdichevsky
+Gi-Fi
+Multipacket reception
+Reciprocity (network science)
+Paul S. Wang
+Partha Niyogi
+Flat-panel display
+Slashdot effect
+Arlindo Oliveira
+John Leslie King
+Bidyut Baran Chaudhuri
+Rolanet
+International Electron Devices Meeting
+Hutter Prize
+Hardware backdoor
+Computer hardware
+Joint spectral radius
+Information-centric networking caching policies
+Outline of computer science
+Milorad Simić
+Guido Gerig
+Processing delay
+Phil Bagwell
+Bellman filter
+Reliable multicast
+Data cable
+Cisco Certified Entry Networking Technician
+Host Based Security System
+SIGGRAPH
+Matthias Grossglauser
+Charles Babbage Premium
+John D. Lafferty
+Marianne Laqueur
+Risch algorithm
+Alasdair Turner
+Computer engineering compendium
+Adaptive control
+Dual control theory
+Mason's gain formula
+Weizenbaum Award
+Alan Turing Year
+International Conference on Computational Linguistics and Intelligent Text Processing
+Epistemic feedback
+Orit Peleg
+Parasitic oscillation
+Sideloading
+Danny Lewin Best Student Paper Award
+Eugene L. Lawler Award
+British Machine Vision Conference
+International Symposium on Mixed and Augmented Reality
+Network-In-a-Box
+Richard Helm
+Path computation element
+Spatial computing
+Pushmeet Kohli
+Knuth Prize
+Eirpac
+Benjamin Kunz Mejri
+Cantor–Zassenhaus algorithm
+Bret Victor
+Tyranny of numbers
+Australasian Language Technology Association
+Lyapunov equation
+Microsoft Award
+Controlled invariant subspace
+Reflected-wave switching
+Remanence
+Network on a chip
+Presence service
+Misty Blowers
+Marlon Dumas
+Markus Gross
+Ace Stream
+Bond Bridge
+Class kappa-ell function
+Dinesh Verma
+Jim Coplien
+Workgroup (computer networking)
+Network block device
+Abramov's algorithm
+QuRiNet
+North American Network Operators' Group
+Versatile Service Engine
+Particle filter
+Synchronous virtual pipe
+Nazanin Daneshvar
+Square-free polynomial
+Virtual environment
+Deborah Raji
+Entrance facility
+Vintage computer
+Robert B. Schnabel
+Nuclear computation
+Link level
+REsource LOcation And Discovery Framing
+Fixed–mobile convergence
+James H. Wilkinson Prize in Numerical Analysis and Scientific Computing
+Text, Speech and Dialogue
+Frequency response
+Moving horizon estimation
+Anticausal system
+European Conference on Object-Oriented Programming
+Digital signal processing
+Class-based queueing
+ITU-T Study Group 15
+Symposium on Applied Computing
+Serge Belongie
+O'Reilly Open Source Award
+Routing bridge
+Softwire (protocol)
+Leslie Blackett Wilson
+Virtual firewall
+Programming Languages Software Award
+European Conference on Computational Biology
+Computational politics
+Data-driven control system
+Journal of Symbolic Computation
+HPM.1
+Suranga Nanayakkara
+Keepalive
+Network virtualization platform
+International Conference on Database Theory
+International Conference on Pattern Recognition and Image Analysis
+Error signal
+Alice K. Hartley
+David J. Malan
+IGMP snooping
+Michael S. Montalbano
+Berlekamp's algorithm
+General-Purpose Serial Interface
+International Conference on Compiler Construction
+Agnostic (data)
+Head-related transfer function
+Heterogeneous network
+P. Anandan
+RSCS
+Real-root isolation
+Jason Kingdon
+Nerode Prize
+OMNeT++
+International Conference on Parallel and Distributed Systems
+Raymond J. Mooney
+Stevens Award
+Broadcast engineering
+Northbound interface
+Session multiplexing
+Scandinavian Conference on Image Analysis
+Mirella Lapata
+ACM SIGUCCS Hall of Fame Award
+Tawanna Dillahunt
+Control theory
+Dynamic site acceleration
+Proxy server
+Thomas N. Hibbard
+Dora Metcalf
+Remote infrastructure management
+Consolidation ratio
+Didier Guzzoni
+Input shaping
+Stefano Soatto
+Sum of radicals
+CK Raut
+Vlado Keselj
+Karen Spärck Jones Award
+Machtey Award
+Edmond Chow
+Asymptotic gain model
+Annual Conference of the North American Chapter of the Association for Computational Linguistics
+Workshop on Algorithmic Approaches for Transportation Modeling, Optimization, and Systems
+Kousha Etessami
+Jonathan B. Postel Service Award
+Pirelli Internetional Award
+Sean Kandel
+Content delivery network
+Fabric computing
+Remote computer
+Chan-Byoung Chae
+Content centric networking
+Motion control
+List of important publications in computer science
+SCSI RDMA Protocol

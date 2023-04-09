@@ -1,0 +1,3 @@
+# Turning Machine
+
+A Turning Machine is a type of computer that follows instructions to solve problems. It works by reading instructions from a tape, which is like a long strip of paper with a list of instructions written on it. The Turning Machine reads one instruction at a time and then performs the action it is told to do. For example, it might be told to add two numbers together or to move a number from one place to another. As it reads each instruction, it changes the state of the machine so that it knows what it needs to do next. When it has completed all of the instructions, it has solved the problem.

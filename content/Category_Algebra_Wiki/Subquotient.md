@@ -1,0 +1,3 @@
+# Subquotient
+
+Subquotients are a concept in mathematics that refer to a certain type of subset of a larger set. A subquotient is created when a subset of a set is divided into smaller subsets. Each subset is then considered a subquotient of the larger set. For example, if a set contains 150 elements and is divided into three subsets of 50 elements each, then each subset would be a subquotient of the larger set. Subquotients are important in mathematics because they allow us to break down large sets into smaller, more manageable subsets. This makes it easier to work with the elements of the set and to analyze various properties of the set.

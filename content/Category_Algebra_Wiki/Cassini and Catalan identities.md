@@ -1,0 +1,3 @@
+# Cassini and Catalan identities
+
+Cassini and Catalan identities are mathematical formulas that help us find the area of certain shapes. Cassini's identity states that if we draw two circles, with one nested inside the other, then the product of the two radii of the circles and the difference between the two radii squared, is equal to the area of the shape formed by the two circles. Catalan's identity states that if we draw four circles, with one nested inside the other three, then the product of the four radii of the circles and the difference between the two outer radii squared, is equal to the area of the shape formed by the four circles. Both of these identities help us find the area of certain shapes quickly and efficiently.

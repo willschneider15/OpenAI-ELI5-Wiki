@@ -1,0 +1,3 @@
+# Adjacency matrix
+
+Adjacency matrix is a type of data structure used to represent a graph. It is a two-dimensional array of size VxV (V is the number of vertices in the graph). The elements in the matrix indicate whether there is an edge from one vertex to another. If there is an edge, the element in the matrix is set to 1, otherwise it is set to 0. This makes it easy to check if two vertices are connected or not. Adjacency matrix is a very useful tool to represent and analyze graphs. It is used to find the shortest path between two vertices, as well as to find the number of connected components in a graph.

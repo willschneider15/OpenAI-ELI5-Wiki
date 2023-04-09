@@ -1,0 +1,3 @@
+# Anton Sushkevich
+
+Anton Sushkevich is a Russian scientist who developed the concept of "functional programming". This concept is a way of writing code that is simpler and easier to understand. It is based on the idea that a program should be divided into small, self-contained functions that can be easily reused and changed. This makes it easier to debug and maintain the code, as well as making it more efficient. Functional programming is used in many programming languages, including Python, JavaScript, and Java. It is an important part of modern software development, and Anton Sushkevich is credited with its invention.

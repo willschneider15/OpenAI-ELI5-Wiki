@@ -1,0 +1,3 @@
+# Free product of associative algebras
+
+The Free Product of Associative Algebras is a mathematical concept used to describe the relationship between two or more algebras. It is constructed by taking the Cartesian product of the algebras and then adding the operations of each algebra. The result is a new algebra that is the "free product" of the original algebras. This is useful for studying the structure of a given algebra, as it allows for the exploration of more complex relationships between the algebras. By studying the free product of two or more algebras, one can gain insight into the structure of the original algebras and how they interact.

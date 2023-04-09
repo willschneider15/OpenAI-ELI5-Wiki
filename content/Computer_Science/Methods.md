@@ -1,0 +1,3 @@
+# Methods
+
+A method is a set of instructions that tells a computer what to do. It is like a recipe that tells the computer how to solve a problem. It is like a puzzle piece that can be combined with other pieces to create a larger program. Methods are used to break down complex problems into smaller, more manageable pieces. For example, a sorting algorithm is a method that is used to organize a list of numbers in order from smallest to largest. Methods are also used to create reusable code, which can be used in multiple places without having to write the code again. This saves time and makes programming more efficient. Methods are an essential part of computer science and are used in many different programming languages.

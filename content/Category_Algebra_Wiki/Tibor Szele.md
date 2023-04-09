@@ -1,0 +1,3 @@
+# Tibor Szele
+
+Tibor Szele was a Hungarian mathematician who developed a concept called "Szele's Theorem". This theorem states that for any two given sets of numbers, there is a unique way to connect them with a straight line. This line can be used to calculate the average of the two sets of numbers. This theorem was useful for solving problems in mathematics, engineering, and economics. It has been used to calculate the average price of a stock, the average temperature of a city, and the average speed of a car. It is a simple yet powerful concept that has had a major impact on the world of mathematics.

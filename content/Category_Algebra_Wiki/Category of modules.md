@@ -1,0 +1,3 @@
+# Category of modules
+
+Category of modules is a way to organize and store related modules in a single module. It is a way to group related modules together, making them easier to find and access. For example, if you have a project that needs to access certain modules related to a specific topic, you can create a category of modules that contains all of the related modules. This way, you can quickly access the modules you need without having to search through multiple modules. Categories of modules can also be used to create a library of modules that can be used across multiple projects. This allows for code reuse and makes it easier to maintain and update the code.

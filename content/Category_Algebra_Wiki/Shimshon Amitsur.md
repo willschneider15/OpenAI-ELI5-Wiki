@@ -1,0 +1,3 @@
+# Shimshon Amitsur
+
+Shimshon Amitsur was a mathematician who developed the concept of algebraic structures. He studied abstract algebra, which is the study of mathematical structures such as groups, rings, and fields. Amitsur realized that these structures had certain properties that could be used to make predictions about how they would behave. He developed a set of axioms, or rules, to describe these properties. These axioms are now known as Amitsur's theorem. Amitsur's theorem states that any algebraic structure has a certain set of properties, including associativity, commutativity, and distributivity. This theorem is used to study the behavior of mathematical structures, helping mathematicians to understand how they work.

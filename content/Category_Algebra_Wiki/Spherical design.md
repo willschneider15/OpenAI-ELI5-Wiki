@@ -1,0 +1,3 @@
+# Spherical design
+
+Spherical design is a concept that looks at the world from a holistic view. It is based on the idea that all aspects of life, from the environment to the economy, are interconnected and must be considered when making decisions. This means that decisions should not be made in isolation, but rather with an understanding of how they will affect other aspects of life. Spherical design encourages us to think about the long-term implications of our decisions and to consider how our actions will impact the environment, the economy, and our communities. By taking a holistic approach to decision making, we can create a better future for everyone.

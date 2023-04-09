@@ -1,0 +1,3 @@
+# Joseph Wedderburn
+
+Joseph Wedderburn was a mathematician who made an important discovery in the early 1900s. He figured out that any algebraic structure can be broken down into two parts: a "center" and a "radical". The center is the part that remains unchanged, while the radical is the part that changes. This discovery changed the way mathematicians think about structures and helped them to understand them better. In addition, Wedderburn's discovery also helped to make it easier to solve equations and make predictions. In short, Joseph Wedderburn's discovery was an important one that changed the way mathematicians think about structures and helped them to understand them better.

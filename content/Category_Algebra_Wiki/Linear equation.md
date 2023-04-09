@@ -1,0 +1,3 @@
+# Linear equation
+
+A linear equation is an equation that can be written in the form of `ax + b = 0`, where `a` and `b` are real numbers and `x` is a variable. This equation is used to describe the relationship between two variables and can be used to solve for the value of `x`. Linear equations are used to find solutions to many real-world problems, such as calculating the cost of a product or the speed of a car. Linear equations are also used in algebra, geometry, and calculus to solve for unknown variables. Linear equations are an important part of mathematics, and they can be used to solve a wide variety of problems.

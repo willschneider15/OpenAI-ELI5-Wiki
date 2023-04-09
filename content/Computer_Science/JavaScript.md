@@ -1,0 +1,3 @@
+# JavaScript
+
+JavaScript is a programming language that is used to make websites interactive. It is used to create dynamic webpages, which means that the page changes depending on what the user does. For example, when you click a button on a website, JavaScript can make something happen like a pop-up window or a message. JavaScript can also be used to create games, animations, and other interactive elements. It can also be used to add interactivity to websites, like when you hover over a button and it changes color. JavaScript is a powerful language that can be used to create amazing things on the internet.

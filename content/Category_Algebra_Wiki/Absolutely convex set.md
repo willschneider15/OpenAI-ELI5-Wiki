@@ -1,0 +1,3 @@
+# Absolutely convex set
+
+Absolutely convex sets are sets of points in a given space that have the property of being both convex and absolutely convex. A set is convex if for any two points in the set, the line connecting them is also in the set. An absolutely convex set is a set that is convex and also includes all points that lie on the line connecting any two points in the set. This means that the set has no gaps or holes, and all points that lie on the line connecting any two points in the set are also part of the set. Absolutely convex sets can be found in many areas of mathematics, including linear algebra, calculus, and optimization.

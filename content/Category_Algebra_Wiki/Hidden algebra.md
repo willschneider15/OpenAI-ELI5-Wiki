@@ -1,0 +1,3 @@
+# Hidden algebra
+
+Hidden algebra is a concept that refers to the underlying mathematical principles that are present in everyday activities and objects. For example, when a child is playing with blocks, they are learning about shapes, angles, and spatial relationships - all of which are forms of algebra. Hidden algebra can also be found in nature - for example, the Fibonacci sequence, which is present in many natural patterns, such as the arrangement of leaves on a tree. Hidden algebra is an important concept to understand, as it helps us to recognize the mathematical principles that are present in our everyday lives.

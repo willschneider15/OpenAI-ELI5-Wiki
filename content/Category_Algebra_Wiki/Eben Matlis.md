@@ -1,0 +1,3 @@
+# Eben Matlis
+
+Eben Matlis is an idea created by the American author E.B. White. It is based on the idea that everyone has a unique set of skills, talents, and abilities that can be used to make the world a better place. Matlis encourages people to use their gifts to help others and to make a positive difference in the world. It is also a reminder that everyone has something to offer and that everyone has the potential to make a difference. Matlis encourages people to be creative and to think outside of the box to find ways to make a difference. It also encourages people to be kind and compassionate and to show respect for others. Matlis is about taking action and doing something to make the world a better place.

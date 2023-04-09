@@ -1,0 +1,3 @@
+# Split exact sequence
+
+A split exact sequence is a sequence of three groups of elements that are connected by two arrows. The arrows show how the elements in each group are related. The first group is called the kernel, the second group is called the image, and the third group is called the cokernel. The arrows show that the kernel is mapped to the image, and the image is mapped to the cokernel. The sequence is split because the kernel and the cokernel are not the same. This means that the elements in the kernel are not the same as the elements in the cokernel. Split exact sequences are used to show how different elements can be related.

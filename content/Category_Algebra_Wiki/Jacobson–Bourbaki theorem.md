@@ -1,0 +1,3 @@
+# Jacobson–Bourbaki theorem
+
+Jacobson–Bourbaki theorem states that any two algebraic structures of the same type (such as groups, rings, fields, etc.) are isomorphic, meaning they are essentially the same. This means that if two algebraic structures have the same operations, like addition and multiplication, then they can be mapped to each other in such a way that their elements correspond to each other. In other words, if two algebraic structures have the same operations, then they are essentially the same structure. In simpler terms, two algebraic structures with the same operations are the same no matter how they are written.

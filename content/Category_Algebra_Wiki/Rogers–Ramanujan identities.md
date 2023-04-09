@@ -1,0 +1,3 @@
+# Rogers–Ramanujan identities
+
+The Rogers–Ramanujan identities are a set of equations that involve the partition function, which is a mathematical function that counts the number of ways a number can be expressed as the sum of other numbers. These identities are important because they provide a connection between the partition function, modular forms, and theta functions. The identities were discovered by G.H. Hardy and S. Ramanujan in 1918 and were later generalized by Leonard Carlitz and L.J. Rogers. The identities are written as infinite series and are used to determine the number of ways a number can be expressed as the sum of other numbers. They are also used to prove other mathematical theorems.

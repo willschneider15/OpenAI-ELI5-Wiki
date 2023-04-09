@@ -1,0 +1,3 @@
+# Linear recurrence with constant coefficients
+
+A linear recurrence with constant coefficients is a mathematical expression that describes a sequence of numbers where each number is determined by the sum of the previous numbers. The coefficients are constant, meaning they remain the same for each term in the sequence. This type of recurrence is useful for predicting future numbers in the sequence based on the previous numbers. For example, a linear recurrence with constant coefficients can be used to calculate Fibonacci numbers, where the first two terms are given, and each subsequent term is the sum of the previous two terms.

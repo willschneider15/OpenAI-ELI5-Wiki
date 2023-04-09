@@ -1,0 +1,3 @@
+# Frobenius reciprocity theorem
+
+Frobenius Reciprocity is a theorem that states that if two groups act on each other, then the number of ways one group can act on the other is equal to the number of ways the other group can act on the first group. This theorem is useful for understanding the relationship between two groups and helps to simplify calculations. For example, if two groups, A and B, act on each other, then the number of ways A can act on B is the same as the number of ways B can act on A. This theorem can be used to solve problems in algebra, geometry, and other areas of mathematics.

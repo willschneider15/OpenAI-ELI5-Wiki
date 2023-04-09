@@ -1,0 +1,3 @@
+# One-relator group
+
+A one-relator group is a group that can be described by a single relation (or equation). This relation is usually a word, or a sequence of symbols, that is used to describe the group's structure. The one-relator group is one of the most basic types of groups and has been studied extensively in mathematics. It is commonly used to describe the structure of certain types of groups, such as free groups, surface groups, and Thompson's group. One-relator groups are important because they provide a way to understand the structure of a group without having to study its elements. They can also be used to prove theorems about groups, as well as to find solutions to equations involving groups.

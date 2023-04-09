@@ -1,0 +1,3 @@
+# Zero-symmetric graph
+
+A zero-symmetric graph is a type of graph in which all the edges have the same weight, or value. This means that the weight of each edge is 0, or the same. This type of graph is useful for representing relationships between objects or points, since the same weight is applied to each edge. For example, a zero-symmetric graph could be used to represent a network of roads connecting various cities, since the distance between each city is the same. Additionally, zero-symmetric graphs can be used to represent relationships between people, such as friendship, since the strength of each friendship is the same.

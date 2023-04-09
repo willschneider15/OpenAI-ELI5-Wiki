@@ -1,0 +1,3 @@
+# Guy Terjanian
+
+Guy Terjanian is an Armenian-American entrepreneur and philanthropist. He is best known for his commitment to helping others and giving back to the community. He is an advocate for education and economic development, and he has created several programs to help people in need. His main focus is on providing access to education, health care, and other resources to those who need it most. He believes that everyone should have the opportunity to reach their full potential, and he works to make this a reality for people around the world. Guy Terjanian is an inspiration to many, and his work has impacted the lives of countless people.

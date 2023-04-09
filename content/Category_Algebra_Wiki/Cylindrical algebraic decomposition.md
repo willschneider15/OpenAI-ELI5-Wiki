@@ -1,0 +1,3 @@
+# Cylindrical algebraic decomposition
+
+Cylindrical algebraic decomposition (CAD) is a mathematical tool used to break down a problem into simpler parts. It is used to solve problems related to algebraic equations, such as finding the roots of a polynomial. It works by decomposing the problem into cylindrical components, which are then further broken down until the problem is solved. This method allows for efficient and accurate solutions to complex equations. CAD is used in many areas of mathematics, including number theory, algebraic geometry, and computer algebra. It is also used in engineering, robotics, and artificial intelligence.

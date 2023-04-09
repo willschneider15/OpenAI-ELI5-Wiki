@@ -1,0 +1,3 @@
+# Completing the square
+
+Completing the square is a technique used to solve quadratic equations. It involves rewriting the equation in a form that has one side of the equation equal to a perfect square. To do this, you must first move the constant term (the number without a variable) to the other side of the equation. Then, take half of the coefficient (the number with the variable) and square it. Add this number to both sides of the equation. Finally, you will have an equation in the form of (x + a)^2 = b, which can easily be solved. Completing the square is a useful tool for solving quadratic equations and can be used to easily graph the equation.

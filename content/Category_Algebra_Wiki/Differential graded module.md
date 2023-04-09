@@ -1,0 +1,3 @@
+# Differential graded module
+
+Differential graded modules (DGMs) are a type of module that is used to study the structure of a particular algebraic system. They are used to study the structure of an algebraic system by assigning a "grading" to each element in the system. The grading is based on the number of operations that need to be performed to get from one element to another. This grading helps to identify relationships between elements and helps to understand the overall structure of the system. DGMs are used in many areas of mathematics, including algebraic topology, algebraic geometry, and homological algebra.

@@ -1,0 +1,3 @@
+# Hypergeometric identity
+
+Hypergeometric identity is a concept in mathematics that is used to describe a special type of functions. These functions are defined in terms of the hypergeometric series, which is a series of numbers that are related to each other in a specific way. The hypergeometric identity states that the sum of all the terms in the series is equal to a certain constant. This constant is known as the hypergeometric constant, and it is used to describe the behavior of the series. The hypergeometric identity is used to prove a number of mathematical results and is an important tool for understanding the properties of the hypergeometric series.

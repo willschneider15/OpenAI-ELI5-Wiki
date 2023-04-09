@@ -1,0 +1,3 @@
+# Orthogonal diagonalization
+
+Orthogonal diagonalization is a way to decompose a matrix into a product of two matrices. The first matrix is an orthogonal matrix, which means that it has columns that are all orthogonal (at right angles) to each other. The second matrix is a diagonal matrix, which means that all of the elements are zero except for the elements on the diagonal. The result of orthogonal diagonalization is that the original matrix is transformed into a product of two matrices, one of which is orthogonal and the other is diagonal, that have the same shape as the original matrix. This process is useful for solving linear equations and for understanding the structure of a matrix.

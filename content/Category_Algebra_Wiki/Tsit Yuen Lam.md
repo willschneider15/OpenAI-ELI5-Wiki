@@ -1,0 +1,3 @@
+# Tsit Yuen Lam
+
+Tsit Yuen Lam is a type of Chinese medicine that uses the philosophy of yin and yang to help people achieve balance in their lives. Yin and yang are two opposing forces that are believed to be in everything in the universe. Yin is dark and passive while yang is bright and active. Tsit Yuen Lam looks at the balance of these two forces in the body and how they affect health. By using a combination of herbs, acupuncture, and other treatments, Tsit Yuen Lam practitioners can help restore balance and harmony in the body. This helps to reduce stress, improve physical and mental health, and promote overall wellbeing. Tsit Yuen Lam is a holistic approach to health and wellness that can be used to help people of all ages and backgrounds.

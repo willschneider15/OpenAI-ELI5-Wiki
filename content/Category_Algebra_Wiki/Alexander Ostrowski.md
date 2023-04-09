@@ -1,0 +1,3 @@
+# Alexander Ostrowski
+
+Alexander Ostrowski was a mathematician who developed a concept known as the Ostrowski theorem. This theorem states that for any given real number, there exists a unique representation of that number as a sum of a rational number and a transcendental number. This theorem is important because it provides a way to represent real numbers in a more efficient way than traditional methods. It is also useful for solving certain types of equations, as it allows for a more precise calculation of the result. The theorem is named after Alexander Ostrowski, who first proposed it in the early 20th century.

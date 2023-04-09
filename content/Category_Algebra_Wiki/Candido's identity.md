@@ -1,0 +1,3 @@
+# Candido's identity
+
+Candido's identity is the idea that everyone has their own unique identity, and that no two people are the same. It is based on the belief that everyone has their own individual traits and characteristics, and that these make them who they are. Candido's identity is about recognizing and celebrating these differences, and understanding that everyone is unique and has something special to offer. It is about accepting and embracing the differences between individuals and understanding that these differences are what make us who we are. By recognizing and celebrating these differences, we can create a more inclusive and tolerant society.

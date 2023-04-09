@@ -1,0 +1,3 @@
+# Anna Romanowska
+
+Anna Romanowska was a Polish mathematician who was famous for her work on the foundations of mathematics. She was born in 1878 and studied mathematics at the University of Warsaw. She worked on mathematical logic, set theory, and algebraic geometry. Her work was highly influential and she was the first woman to receive a doctorate in mathematics from the University of Warsaw. She is remembered for her contributions to the development of mathematical logic, set theory, and algebraic geometry. She was also a proponent of women's rights and worked to promote education for women in the sciences. Anna Romanowska was a pioneer in mathematics and her work is still studied today.

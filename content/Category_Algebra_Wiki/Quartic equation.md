@@ -1,0 +1,3 @@
+# Quartic equation
+
+A quartic equation is a type of polynomial equation that contains four terms, or variables. It is written in the form of ax^4 + bx^3 + cx^2 + dx + e = 0, where a, b, c, d, and e are constants. The quartic equation is used to solve equations with four unknowns, which can be used to solve problems in mathematics, physics, and engineering. Quartic equations can be solved using a variety of methods, including factoring, completing the square, and using the quadratic formula. The solutions of a quartic equation can be real or complex numbers, depending on the values of the constants.

@@ -1,0 +1,3 @@
+# International Symposium on Symbolic and Algebraic Computation
+
+A **International Symposium on Symbolic and Algebraic Computation** (ISSAC) is a yearly conference that brings together researchers and practitioners from around the world to discuss and explore new methods, techniques, and tools for symbolic and algebraic computing. Symbolic and algebraic computation is the use of computers to solve mathematical problems that involve symbols and equations. At ISSAC, researchers present their latest work and discuss the latest trends in the field. The conference also features tutorials, workshops, and tutorials for those who are new to the field. ISSAC is a great opportunity for professionals to network and learn from each other.

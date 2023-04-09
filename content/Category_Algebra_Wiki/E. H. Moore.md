@@ -1,0 +1,3 @@
+# E. H. Moore
+
+E.H. Moore was a mathematician who developed the idea of the "Moore Method". It is a way of teaching mathematics that encourages students to explore the material and come up with their own solutions to problems. The method is based on the idea that students can learn more effectively when they are actively engaged in the material and encouraged to think for themselves. The method also encourages students to develop their own ideas and ask questions about the material. This helps them to be more creative and to better understand the material. The Moore Method is a great way to help students develop their mathematical skills and understanding.

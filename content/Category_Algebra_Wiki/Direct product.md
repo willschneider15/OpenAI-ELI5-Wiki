@@ -1,0 +1,3 @@
+# Direct product
+
+Direct product is a type of mathematical operation that combines two or more sets into one larger set. It is also known as Cartesian product. The result of a direct product is a set of ordered pairs, where each element in the first set is paired with each element in the second set. For example, if Set A = {1, 2, 3} and Set B = {a, b, c}, then the direct product of A and B is {(1,a), (1,b), (1,c), (2,a), (2,b), (2,c), (3,a), (3,b), (3,c)}. Direct product is useful in many areas, such as computing, engineering, and mathematics. It can be used to solve problems that require combining elements from different sets.

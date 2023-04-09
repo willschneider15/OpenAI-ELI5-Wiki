@@ -1,0 +1,3 @@
+# Divide and conquer
+
+Divide and Conquer is a problem-solving technique that involves breaking a complex problem into smaller, simpler parts. It is a recursive algorithm, meaning that it breaks a problem down into smaller and smaller pieces until it can be solved. To use this technique, you start with a problem and divide it into two or more smaller problems. Then, you solve each of those smaller problems individually. Finally, you combine the solutions of the smaller problems to get the solution to the original problem. Divide and Conquer is often used to solve difficult problems because it can reduce the amount of work needed to solve the problem. By breaking the problem into smaller parts, it is easier to understand and solve each part.

@@ -1,0 +1,3 @@
+# Norman L. Biggs
+
+Norman L. Biggs was a mathematician who was best known for his work on graph theory. Graph theory is a branch of mathematics that studies how points, called vertices, are connected to each other by lines, called edges. Biggs' work focused on finding ways to measure the size of a graph, or how many vertices and edges it has. He also studied how to determine the shortest path between two points on a graph, which is useful for finding the quickest route between two places. Biggs' work has been used in many fields, such as computer science, engineering, and transportation planning. His work has helped us better understand the world around us and make it easier to navigate.

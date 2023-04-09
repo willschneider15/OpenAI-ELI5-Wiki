@@ -1,0 +1,3 @@
+# Temperley–Lieb algebra
+
+Temperley–Lieb algebra is a mathematical tool used to describe patterns in music, art, and other areas. It is based on a system of equations that can be used to generate patterns. The algebra works by assigning values to different elements in the pattern. These values are then combined to create a new pattern. For example, if you assign the value of 1 to a circle and the value of 2 to a triangle, the pattern generated will be a circle followed by a triangle. This algebra can be used to create complex patterns, such as those found in classical music. It is a powerful tool for understanding and creating patterns in the world around us.

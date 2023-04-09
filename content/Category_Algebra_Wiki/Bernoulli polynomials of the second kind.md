@@ -1,0 +1,3 @@
+# Bernoulli polynomials of the second kind
+
+Bernoulli polynomials of the second kind are polynomials in which the coefficients are determined by a recurrence relation. This relation is based on the Bernoulli numbers, which are a sequence of rational numbers that can be used to express certain mathematical relationships. The polynomials of the second kind are related to the Bernoulli numbers in that they can be used to represent the same mathematical relationships. The polynomials of the second kind can be used to solve certain types of differential equations and to evaluate certain definite integrals.

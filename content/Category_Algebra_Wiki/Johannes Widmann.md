@@ -1,0 +1,3 @@
+# Johannes Widmann
+
+Johannes Widmann was a German mathematician who lived in the 15th century. He is best known for introducing the modern idea of the decimal system, which is a way of writing numbers using the digits 0 to 9 and a decimal point. Widmann was the first to use the decimal point to separate the whole numbers from the fractional part of a number. He also wrote a book called Arithmetica Integra, which was the first to use the plus and minus signs to represent addition and subtraction. Widmann's work greatly influenced the development of modern mathematics, and his ideas are still used today.

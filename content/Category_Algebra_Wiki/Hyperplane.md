@@ -1,0 +1,3 @@
+# Hyperplane
+
+A hyperplane is a line in a multi-dimensional space that can be used to divide the space into two halves. It is the higher-dimensional equivalent of a line in two-dimensional space. For example, in three-dimensional space, a hyperplane could be a flat plane that divides the space into two halves. In four-dimensional space, a hyperplane could be a curved surface that divides the space into two halves. In general, a hyperplane is a subspace of one dimension lower than the space it divides. Hyperplanes are useful for solving problems in machine learning and data analysis, as they can be used to separate data points into different categories.

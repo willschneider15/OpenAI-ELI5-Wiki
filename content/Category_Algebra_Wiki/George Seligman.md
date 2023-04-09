@@ -1,0 +1,3 @@
+# George Seligman
+
+George Seligman was an economist who developed the concept of modern portfolio theory. This theory states that investors should diversify their investments across different asset classes to reduce risk and maximize returns. The idea is that by diversifying, investors can reduce their exposure to any single asset class and thus reduce the risk of a major loss. Seligman argued that investors should strive to create a portfolio that has a good balance of risk and return. He also suggested that investors should be aware of the costs associated with each asset class, as well as how they are taxed. By following these principles, investors can create a portfolio that is tailored to their individual needs and goals.

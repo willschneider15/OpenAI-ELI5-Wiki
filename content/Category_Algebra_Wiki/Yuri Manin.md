@@ -1,0 +1,3 @@
+# Yuri Manin
+
+Yuri Manin is a Russian mathematician who made important contributions to many areas of mathematics, including algebraic geometry, number theory, and mathematical logic. He is best known for his work on the Langlands Program, which is a set of conjectures connecting number theory and algebraic geometry. He also developed a new approach to quantum computing, which has been used to create powerful algorithms for solving complex problems. Manin's work has been recognized with numerous awards, including the Wolf Prize in Mathematics, the Abel Prize, and the Kyoto Prize. Manin's work has been influential in many fields, and he is considered one of the most important mathematicians of the 20th century.

@@ -1,0 +1,3 @@
+# Transistor
+
+A transistor is like a switch that can be used to control the flow of electricity. It is made up of three parts: the base, the collector, and the emitter. The base is like the switch that turns the transistor on and off. The collector and the emitter are like two pipes that the electricity flows through. When the switch is on, the electricity flows from the collector to the emitter and when it is off, the electricity does not flow. Transistors are used in computers and other devices to control the flow of electricity in circuits. They can be used to control the speed of a motor or the brightness of a light. They are also used to store information in computers, which allows us to do things like play games and watch movies.

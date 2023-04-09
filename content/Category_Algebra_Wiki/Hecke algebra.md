@@ -1,0 +1,3 @@
+# Hecke algebra
+
+Hecke algebra is an algebraic structure that helps us understand symmetries in mathematics. It is a type of algebra that is related to groups and algebraic structures. It is made up of two parts: a set of elements and a set of operations. The elements are called "Hecke operators," and they represent different symmetries in mathematics. The operations are like addition, multiplication, and other mathematical operations. By combining the Hecke operators and operations, we can create equations that represent the symmetries we are interested in. Hecke algebra is used in many areas of mathematics, including algebraic geometry, number theory, and representation theory.

@@ -1,0 +1,3 @@
+# Lossy Compression
+
+Lossy compression is a way to reduce the size of a file without losing important information. It works by removing parts of the file that are not as important, such as colors or sounds. This makes the file smaller, but some details are lost in the process. Lossy compression is used for images, audio, and video files, and is most commonly used for streaming media. Lossy compression can make a file much smaller, allowing it to be sent and stored faster and more efficiently. The tradeoff is that some details are lost in the process. Lossy compression is a great way to reduce the size of a file without sacrificing too much quality.

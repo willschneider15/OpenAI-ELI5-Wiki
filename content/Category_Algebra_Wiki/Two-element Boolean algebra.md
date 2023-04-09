@@ -1,0 +1,3 @@
+# Two-element Boolean algebra
+
+Two-element Boolean algebra is a type of algebra used to describe the behavior of logic gates and circuits. It is based on the idea that all logical operations can be represented by two elements: true and false. The two elements can be combined using Boolean operations such as AND, OR, NOT, and XOR to form a logical expression. These expressions can then be used to describe the behavior of a circuit or logic gate. Boolean algebra is used in many different fields such as computer science, engineering, and mathematics. It is also used to define the behavior of digital logic circuits, which are used in computers and other electronic devices.

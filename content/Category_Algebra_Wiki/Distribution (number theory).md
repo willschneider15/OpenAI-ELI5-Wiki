@@ -1,0 +1,3 @@
+# Distribution (number theory)
+
+Distribution in number theory is the concept of how numbers are spread out in a given set of numbers. It is the study of the frequency of occurrence of different values in a given set of numbers. A distribution can be either uniform, meaning all values occur with the same frequency, or non-uniform, meaning different values occur with different frequencies. Distribution can also be used to describe the spread of a set of numbers, such as the mean, median, and standard deviation. By studying the distribution of a set of numbers, we can gain insight into the underlying patterns of the data set. Distribution can also be used to compare two or more sets of numbers to identify similarities and differences between the sets.

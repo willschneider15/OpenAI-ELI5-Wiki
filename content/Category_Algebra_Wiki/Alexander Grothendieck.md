@@ -1,0 +1,3 @@
+# Alexander Grothendieck
+
+Alexander Grothendieck was a mathematician who made a lot of important contributions to the field of mathematics. He was particularly known for his work in algebraic geometry and category theory. He was a major figure in the development of modern mathematics and his work changed the way mathematicians think about mathematics and how it can be used to solve problems. Grothendieck's work allowed for the development of new tools and techniques in mathematics that are still used today. He also worked on the development of new theories and concepts that have become important in mathematics today. In short, Grothendieck was an important mathematician who made a lot of contributions to the field of mathematics.

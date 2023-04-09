@@ -1,0 +1,3 @@
+# Liouville space
+
+Liouville space is a mathematical concept used to describe the behavior of particles in physics. It is a space that contains all possible states of a system. In this space, each point represents a different state of the system. For example, if we have a system of particles, each point in the space would represent the position and momentum of each particle. The state of the system can then be represented by a single point in this space. This makes it easier to analyze the system and predict its behavior. Liouville space is an important concept in understanding the behavior of particles in physics.

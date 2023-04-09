@@ -1,0 +1,3 @@
+# Pascal's rule
+
+Pascal's Rule is a mathematical rule used to calculate the probability of different outcomes. It is named after the French mathematician Blaise Pascal. The rule states that the probability of an event occurring is equal to the number of ways the event can occur, divided by the total number of possible outcomes. For example, if you were flipping a coin, the probability of heads would be 1/2, because there is only one way to get heads (by flipping a heads) and two possible outcomes (heads or tails). This rule can be used to calculate the probability of any number of outcomes, as long as all outcomes are equally likely. Pascal's Rule is a useful tool for understanding probability and making decisions based on the likelihood of different outcomes.

@@ -1,0 +1,3 @@
+# Usability Testing
+
+Usability testing is a way to measure how easy a product is to use. It helps designers and developers identify potential problems with their products and make them easier to use. It involves having people use the product and then asking them questions about their experience. The goal is to find out what works and what doesn't work, so that improvements can be made to the product. Usability testing can also help identify areas where the user might need more help or guidance in order to successfully use the product. By understanding how people interact with the product, designers and developers can make sure that the product is as easy to use as possible.

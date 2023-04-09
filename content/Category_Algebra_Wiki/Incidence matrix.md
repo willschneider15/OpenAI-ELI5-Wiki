@@ -1,0 +1,3 @@
+# Incidence matrix
+
+An incidence matrix is a matrix used to represent the connections between two sets of elements. It is a type of graph that shows the relationship between the two sets of elements. Each row represents one of the elements in the first set, and each column represents one of the elements in the second set. A "1" in the matrix indicates a connection between the two elements, while a "0" indicates no connection. The incidence matrix is useful for quickly visualizing the relationships between two sets of elements. It can also be used to calculate the number of connections between the two sets of elements.

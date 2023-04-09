@@ -1,0 +1,3 @@
+# Antiunitary operator
+
+An antiunitary operator is a mathematical operation that reverses the direction of time. It is a special type of operator that combines the effects of both a unitary operator, which preserves the magnitude of a wavefunction, and an anti-unitary operator, which reverses the sign of the wavefunction. When applied to a wavefunction, an antiunitary operator will reverse its direction in time, essentially reversing the flow of time. This can be useful in quantum mechanics, where the direction of time can have an effect on the behavior of particles. Antiunitary operators can also be used to analyze the behavior of particles in different quantum systems.

@@ -1,0 +1,3 @@
+# Light's associativity test
+
+Light's associativity test is a way to measure how strongly two items are associated with each other. It involves showing a person two items at the same time and asking them to choose one. If the person chooses one item more often than the other, then the two items are considered to be associated. This test is used to measure the strength of connections between ideas, objects, or people. It can also be used to understand how people think and make decisions. Light's associativity test is a useful tool for understanding how people think and the relationships between different concepts.

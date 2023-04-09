@@ -1,0 +1,3 @@
+# Perfect complex
+
+Perfect complex numbers are a combination of a real number and an imaginary number. They are used to describe a variety of phenomena in mathematics and physics. A perfect complex number is a number that can be written as a sum of two real numbers and an imaginary part. The imaginary part is represented by the letter i, which is the square root of -1. The real part is the number that is added to the imaginary part to create the perfect complex number. Perfect complex numbers are used to describe the behavior of waves and other physical phenomena. They can also be used to solve equations and describe the behavior of systems. Perfect complex numbers are an important tool in mathematics and physics.

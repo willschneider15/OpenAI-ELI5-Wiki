@@ -1,0 +1,3 @@
+# Tangent half-angle formula
+
+Tangent half-angle formula is a mathematical formula used to calculate the value of the tangent of a given angle when the angle is divided by two. This formula is used in trigonometry and is useful in solving problems involving angles and sides of a triangle. The formula is written as tangent (x/2) = (1-cos x)/(sin x). This formula can be used to calculate the tangent of any angle, whether it is a right angle or an obtuse angle. It is also useful in calculating the sides of a triangle when the angles are known. This formula can be used to solve a variety of problems in mathematics and can be used in many applications.

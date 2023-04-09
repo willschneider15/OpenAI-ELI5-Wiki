@@ -1,0 +1,3 @@
+# Idealizer
+
+Idealizer is a concept that encourages people to think of ways to make the world a better place. It encourages people to think of ways to help others, to be kind and to make the world a more positive place. Idealizer is about creating positive change in the world and helping people to reach their potential. It encourages people to think of ways to solve problems and to be creative in their solutions. It is about making the world a better place for everyone. Idealizer encourages people to think of ways to make a positive difference in their own lives, in the lives of others, and in the world.

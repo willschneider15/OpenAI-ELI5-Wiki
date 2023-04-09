@@ -1,0 +1,3 @@
+# Mixed linear complementarity problem
+
+Mixed Linear Complementarity Problem (MLCP) is a mathematical problem used to describe the behavior of physical systems. It combines linear equations with complementarity constraints, which are inequalities that must be satisfied in order for a solution to exist. The MLCP is used to model systems where two or more objects interact and their motion is limited by their contact with each other. The MLCP can be used to model a variety of physical systems, such as mechanical systems, robotics, and fluid flow. The MLCP is useful because it can be used to find the best solution to a given problem, even when the problem is complex and has many variables.

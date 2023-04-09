@@ -1,0 +1,3 @@
+# Patrick Michael Grundy
+
+Patrick Michael Grundy is a game that teaches kids about making decisions. It is played with two or more people and each person takes turns making a decision. The decisions can be anything from what to eat for lunch to what color to paint a bedroom. The goal is to make the best decision possible by considering all the options. After each decision, the players discuss why they chose what they did and what other options they had. This helps kids learn to think critically and make thoughtful decisions. It also teaches them to consider the consequences of their choices and to think about how their choices affect others. Patrick Michael Grundy is a great game for teaching kids important life skills.

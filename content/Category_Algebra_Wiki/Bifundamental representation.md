@@ -1,0 +1,3 @@
+# Bifundamental representation
+
+Bifundamental representation is a type of representation used in mathematics and physics. It is a way of representing two objects, such as vectors or matrices, in a single representation. This representation is used to describe interactions between the two objects. It is called bifundamental because it requires two fundamental objects to form the representation. The two objects can be related in different ways, such as by addition, subtraction, multiplication, or division. The bifundamental representation is useful in understanding how two objects interact with each other and can be used to solve complex problems.

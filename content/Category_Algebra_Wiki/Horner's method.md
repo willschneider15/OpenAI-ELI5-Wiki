@@ -1,0 +1,3 @@
+# Horner's method
+
+Horner's method is an efficient way to evaluate polynomials. It involves breaking down a polynomial expression into a series of simpler expressions. This method reduces the number of calculations needed to find the value of the polynomial. To use Horner's method, start by writing the polynomial in descending order of powers. Then, for each coefficient, multiply the current value by the variable and add the next coefficient. This process is repeated until the last coefficient is reached. The result is the value of the polynomial. This method is simple and efficient, making it a useful tool for solving polynomials.

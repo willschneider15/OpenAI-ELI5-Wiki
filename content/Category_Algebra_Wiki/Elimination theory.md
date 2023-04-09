@@ -1,0 +1,3 @@
+# Elimination theory
+
+Elimination theory is a way of solving problems by eliminating possible solutions until only one is left. It involves breaking down a problem and systematically eliminating possible solutions until only one is left. For example, if you are trying to identify the culprit in a crime, you could use elimination theory to narrow down the suspects by eliminating those who have alibis or those who do not fit the profile of the criminal. This process of elimination will eventually lead to the identification of the criminal. Elimination theory is a useful tool in problem solving as it helps to narrow down the possibilities and find the most likely solution.

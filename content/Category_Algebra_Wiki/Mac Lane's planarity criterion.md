@@ -1,0 +1,3 @@
+# Mac Lane's planarity criterion
+
+Mac Lane's planarity criterion is a way to tell if a graph is planar or not. It states that a graph is planar if and only if it has no subgraphs that are homeomorphic to the complete graph K5 or the complete bipartite graph K3,3. Homeomorphic means that two graphs have the same structure. If a graph does have one of these subgraphs, then it is not planar. To check for these subgraphs, look for any four vertices that are all connected to each other or any six vertices that are split into two groups of three, where each group is connected to the other. If you find either of these, then the graph is not planar.

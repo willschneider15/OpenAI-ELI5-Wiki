@@ -1,0 +1,3 @@
+# Algebraic function
+
+Algebraic functions are mathematical relationships that show how one variable is related to another. They are usually written using symbols and equations, and can be used to solve problems. For example, a linear equation is an algebraic function that shows the relationship between two variables, such as x and y. The equation might look like this: y = mx + b, where m is the slope of the line and b is the y-intercept. By knowing the values of m and b, you can calculate the value of y for any given value of x. Algebraic functions can also be used to model real-world relationships, such as the relationship between the number of hours worked and the amount of money earned.

@@ -1,0 +1,3 @@
+# Virtual Reality (VR)
+
+Virtual Reality (VR) is a computer-generated 3D environment that people can experience and interact with. It is like being inside a computer game or a movie, but you can actually move around in the environment and interact with it. You wear a headset that covers your eyes and ears and it transports you into the virtual world. You can look around and explore the environment, as if you were really there. You can also use controllers to interact with objects in the environment, just like you would in the real world. VR makes it possible to experience things that are not possible in the real world, such as flying or being underwater. It can also be used to simulate real-world environments, like a battlefield or a medical operating room.

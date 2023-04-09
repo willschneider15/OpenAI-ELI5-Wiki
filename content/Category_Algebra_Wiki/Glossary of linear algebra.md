@@ -1,0 +1,3 @@
+# Glossary of linear algebra
+
+Linear algebra is a branch of mathematics that deals with vectors and matrices. A glossary of linear algebra is a list of terms and definitions related to linear algebra. It includes terms such as vector, matrix, determinant, eigenvalues, eigenvectors, and linear transformations. It also includes definitions of operations such as matrix multiplication, the inverse of a matrix, and the rank of a matrix. The glossary is useful for understanding the concepts and language of linear algebra. It can also help students quickly find the definition of a term they may be unfamiliar with.

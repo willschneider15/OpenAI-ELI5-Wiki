@@ -1,0 +1,3 @@
+# William Kingdon Clifford
+
+William Kingdon Clifford was a British mathematician and philosopher who believed that it was wrong to believe in something without evidence. He thought that if one has no proof, then they should not believe it. He said that believing something without proof was a form of stealing, because the person was taking something without giving anything in return. He argued that it is wrong to accept something without evidence, because it is unfair to those who have taken the time and effort to find the evidence. He also argued that believing without evidence could lead to dangerous consequences, such as believing in false information. Clifford's philosophy has been influential in the fields of logic and ethics.

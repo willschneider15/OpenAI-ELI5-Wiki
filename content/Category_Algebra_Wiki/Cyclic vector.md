@@ -1,0 +1,3 @@
+# Cyclic vector
+
+A cyclic vector is a vector that is repeated in a cyclic pattern. This means that the vector is repeated over and over again in a certain order. For example, a cyclic vector of length 5 would be (1,2,3,4,5,1,2,3,4,5,1,2,3,4,5). This pattern is repeated and can be used to represent a sequence of numbers. Cyclic vectors are useful for representing data in a concise and organized manner. They can be used to represent any type of data, such as time-series data or stock market prices. Cyclic vectors are also useful for solving certain types of problems, such as finding the shortest path between two points.

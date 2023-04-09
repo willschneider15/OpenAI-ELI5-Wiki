@@ -1,0 +1,3 @@
+# Harvard Architecture
+
+Harvard Architecture is a type of computer architecture that separates the memory into two different areas: the program memory and the data memory. The program memory stores the instructions for the computer to execute, while the data memory stores the information used by the program. The two memories are connected by a bus, which allows the computer to access both memories. This type of architecture allows for faster processing since the computer can access the instructions and the data at the same time. It also allows for more efficient use of memory since the instructions and data can be stored separately. Harvard Architecture is used in many modern computers and is especially useful for embedded systems.

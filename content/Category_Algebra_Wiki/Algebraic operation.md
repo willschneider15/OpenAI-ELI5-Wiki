@@ -1,0 +1,3 @@
+# Algebraic operation
+
+Algebraic operations are a set of mathematical rules used to manipulate algebraic expressions. They involve performing operations such as addition, subtraction, multiplication, division, and taking roots. These operations are used to simplify equations, solve equations, and create new equations. Algebraic operations allow us to solve problems by breaking them down into smaller parts. For example, if I'm 5, then I can use algebraic operations to calculate how old I am in years. I can use addition to add five years to my current age, and multiplication to calculate the age I will be in five years. Algebraic operations help us solve problems by breaking them down into smaller parts.

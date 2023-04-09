@@ -1,0 +1,3 @@
+# Mitchell's embedding theorem
+
+Mitchell's embedding theorem states that any computable function can be represented as a neural network. In other words, any algorithm that can be programmed into a computer can be represented as a neural network. This means that neural networks can be used to solve any problem that a computer can solve. This is a powerful concept as it allows us to use neural networks to solve complex problems that would otherwise be difficult to solve with traditional algorithms. Mitchell's theorem is an important concept in machine learning and artificial intelligence as it allows us to use neural networks to solve a wide range of problems.

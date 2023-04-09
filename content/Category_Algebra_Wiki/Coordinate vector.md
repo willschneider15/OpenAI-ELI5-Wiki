@@ -1,0 +1,3 @@
+# Coordinate vector
+
+A coordinate vector is a type of vector that is used to describe the position of a point in a coordinate system. It is represented by an ordered pair of numbers, which is also known as the coordinates. The first number of the pair is the x-coordinate, which tells us the position of the point along the x-axis. The second number of the pair is the y-coordinate, which tells us the position of the point along the y-axis. The coordinate vector is then the vector that connects the origin of the coordinate system to the point described by the coordinates. This vector can be used to calculate the distance between two points, as well as the angle between them.

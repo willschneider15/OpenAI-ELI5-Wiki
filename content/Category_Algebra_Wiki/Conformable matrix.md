@@ -1,0 +1,3 @@
+# Conformable matrix
+
+A conformable matrix is a mathematical concept used to describe the relationship between two matrices when they are multiplied together. It refers to the number of columns in the first matrix being equal to the number of rows in the second matrix. This is necessary for the two matrices to be multiplied together, as the number of columns in the first matrix must match the number of rows in the second matrix. If the two matrices do not have the same number of columns and rows, then they are not conformable and cannot be multiplied. Conformable matrices are important in various mathematical operations, such as linear algebra and calculus, as they are essential for performing many calculations.

@@ -1,0 +1,3 @@
+# Quaternionic vector space
+
+A quaternionic vector space is a mathematical concept that uses quaternions, which are four-dimensional numbers, to describe a space. Quaternions are made up of four parts: a real number, and three imaginary numbers. These four parts can be used to represent points in a three-dimensional space. A quaternionic vector space is a collection of all the points in this space. Every point in the space can be described by a quaternion, and the quaternions can be added together to form new points. The quaternionic vector space is useful in physics and engineering, as it can be used to describe the motion of an object in three-dimensional space.

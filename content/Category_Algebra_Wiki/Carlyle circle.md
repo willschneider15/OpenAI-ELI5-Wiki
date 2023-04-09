@@ -1,0 +1,3 @@
+# Carlyle circle
+
+The Carlyle Circle is a term used to refer to a group of influential people who are connected to each other in some way. The group is named after Thomas Carlyle, a Scottish philosopher and historian who believed that a small group of people, often referred to as "great men", could shape the course of history. The group usually consists of people in positions of power and influence, such as politicians, business leaders, and academics, and they often meet to discuss and debate topics of importance. The Carlyle Circle is seen as a way for those in power to share their ideas and influence each other, and it is believed that their conversations can have a major impact on the world.

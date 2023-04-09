@@ -1,0 +1,3 @@
+# Formal power series
+
+Formal power series are mathematical expressions that represent a sequence of numbers. They are composed of a sum of terms, each of which is a power of some variable, multiplied by a coefficient. The coefficients can be real numbers, or even more general expressions such as polynomials. Formal power series can be used to represent a wide variety of mathematical functions, including polynomials, exponentials, logarithms, and trigonometric functions. They are useful for solving problems in calculus and other areas of mathematics. Formal power series can also be used to represent solutions to differential equations, and they can be used to approximate solutions to certain types of equations.

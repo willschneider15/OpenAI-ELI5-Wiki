@@ -1,0 +1,3 @@
+# Pollard's kangaroo algorithm
+
+Pollard's kangaroo algorithm is a way to solve certain types of mathematical problems. It works by having a 'kangaroo' jump around a mathematical landscape, made up of points that represent solutions to the problem. The kangaroo will jump from one point to another, and when it finds two points that are close together, it will 'hop' between them. If the kangaroo finds a 'trap' (a point where it can't move any further), then it has found a solution to the problem. The kangaroo can then use this solution to solve the problem. Pollard's kangaroo algorithm is a fast and efficient way to solve certain types of problems, and is used in cryptography and other areas of mathematics.

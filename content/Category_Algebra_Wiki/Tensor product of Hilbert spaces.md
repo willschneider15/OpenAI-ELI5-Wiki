@@ -1,0 +1,3 @@
+# Tensor product of Hilbert spaces
+
+The tensor product of two Hilbert spaces is a way of combining them together to form a new space. It is a mathematical operation that takes two spaces and combines them into a single space. The tensor product of two spaces is a combination of all possible linear combinations of the two spaces. This means that any vector in the tensor product space can be written as a linear combination of vectors from the two original spaces. This new space is useful for studying the interactions between two systems and for understanding how the two systems interact with each other.

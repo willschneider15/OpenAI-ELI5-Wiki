@@ -1,0 +1,3 @@
+# Bunch–Nielsen–Sorensen formula
+
+The Bunch–Nielsen–Sorensen formula is a mathematical formula used to calculate the probability of a certain event occurring. It is used when there are multiple possible outcomes, such as a coin toss or a dice roll. The formula takes into account the number of possible outcomes, the probability of each outcome, and the number of times the event has occurred. The formula is used to calculate the probability of an event occurring given the number of times it has already occurred. For example, if a coin has been flipped three times and has landed on heads each time, the Bunch–Nielsen–Sorensen formula can be used to calculate the probability of the coin landing on heads again.

@@ -1,0 +1,3 @@
+# Projection-valued measure
+
+Projection-valued measure (PVM) is a mathematical tool used in quantum mechanics to describe the properties of a quantum system. It is a generalization of the concept of a probability measure, which assigns a probability to each possible outcome of a random experiment. A PVM assigns a projection operator to each possible outcome of a quantum experiment, which can be used to calculate the probability of that outcome occurring. The projection operators can also be used to calculate the expected value of an observable, such as the position or momentum of a particle. In addition, PVMs can be used to describe the entanglement of particles in a quantum system, which is an important concept in quantum information theory.

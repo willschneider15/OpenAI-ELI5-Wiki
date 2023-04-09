@@ -1,0 +1,3 @@
+# Bill Casselman
+
+Bill Casselman is a Canadian mathematician and author who has written many books about mathematics. He believes that mathematics is a language, and that understanding it is like learning any other language. He encourages people to explore and understand the language of mathematics, so that they can use it to solve problems and find creative solutions. Casselman believes that mathematics can be used to explore the world around us and to help us think more deeply about the world. His books are designed to help people of all ages and levels understand the language of mathematics, and to use it to make sense of the world. Casselman's books are written in a way that is accessible to all readers, and his enthusiasm for mathematics is contagious.

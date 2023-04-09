@@ -1,0 +1,3 @@
+# SQL Injection
+
+SQL Injection is a type of cyber attack that targets databases. It happens when a hacker puts malicious code into a web form or URL that is then passed to a database. The malicious code tricks the database into doing something it shouldn't, like giving the hacker access to sensitive data. This can be done by entering something like `' OR 1=1--` into a web form. This code will give the hacker access to the entire database. To protect against SQL Injection attacks, web developers should use validation techniques to make sure only valid data is sent to the database. They should also use prepared statements to make sure the data is not manipulated in any way.

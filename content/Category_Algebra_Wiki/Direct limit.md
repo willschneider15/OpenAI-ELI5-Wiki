@@ -1,0 +1,3 @@
+# Direct limit
+
+Direct limit is a concept in mathematics that describes how a sequence of objects can be combined to form a larger object. It is used to create a limit of a sequence of objects that is greater than the sum of the individual objects. The limit is created by taking the union of all the objects in the sequence and then adding the properties of each object to the limit. This allows for the properties of each object to be combined to form a larger object. Direct limit is useful for taking a sequence of objects and combining them into a single object that has all the properties of the individual objects.

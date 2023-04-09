@@ -1,0 +1,3 @@
+# Algebraic structure
+
+Algebraic structure is a way of looking at mathematical objects and the relationships between them. It is the study of how these objects interact with each other and how they can be manipulated. Algebraic structure is based on the idea of combining objects together to form new objects. This can be done by using operations such as addition, subtraction, multiplication, and division. By combining objects together in different ways, we can create new objects that have different properties and relationships. Algebraic structure helps us to understand the relationships between objects and how they can be used to solve problems.

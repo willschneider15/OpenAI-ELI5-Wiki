@@ -1,0 +1,3 @@
+# Basis function
+
+Basis functions are mathematical functions that are used to approximate a given function. They are used to represent a function in terms of a linear combination of simpler functions. This means that a more complicated function can be expressed as a linear combination of simpler functions. This is useful because it makes it easier to solve problems that involve more complicated functions. Basis functions can be used in a variety of fields such as machine learning, signal processing, and image processing. They can also be used to represent data, such as in the form of a Fourier series. In summary, basis functions are mathematical functions that are used to approximate a given function and are used to represent data in a simpler form.

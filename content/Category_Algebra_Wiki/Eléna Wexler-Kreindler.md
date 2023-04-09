@@ -1,0 +1,3 @@
+# Eléna Wexler-Kreindler
+
+Eléna Wexler-Kreindler is an artist who uses art to explore the connections between humans and nature. Her work focuses on creating a space for people to reflect on their relationship with the environment. She uses a variety of media, including painting, sculpture, photography, and video, to create pieces that explore the intricate relationship between humans and nature. Her pieces often feature animals and plants, as well as abstract forms, to create a connection between the natural world and the human experience. Her work encourages viewers to reflect on their own relationship with the environment, and to think about how they can work to protect it.

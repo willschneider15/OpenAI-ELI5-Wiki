@@ -1,0 +1,3 @@
+# Ratio
+
+Ratio is a comparison of two or more numbers or quantities. It is expressed as a fraction, with the numerator representing one quantity and the denominator representing the other. For example, if there are 5 apples and 10 oranges, the ratio of apples to oranges is 5:10 or 1:2. Ratios can also be expressed using words, such as "one to two" or "five to ten". Ratios are useful for comparing different values, such as in a recipe that requires one cup of sugar for every two cups of flour. Ratios can also be used to compare the size of two objects, such as the ratio of a person's height to their weight. Ratios are also used in mathematics, such as when finding the slope of a line or the ratio of a circle's circumference to its diameter.

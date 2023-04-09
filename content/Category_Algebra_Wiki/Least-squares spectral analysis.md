@@ -1,0 +1,3 @@
+# Least-squares spectral analysis
+
+Least-squares spectral analysis is a statistical technique used to identify the frequencies and amplitudes of a signal. It works by taking a signal and breaking it up into different frequencies, then using a mathematical formula to determine the amplitudes of each frequency. This can be used to identify the components of a signal, such as the fundamental frequency and its harmonics. It can also be used to identify noise and other unwanted components. The advantage of this technique is that it is fast and efficient, and can be used to identify signals in noisy environments.

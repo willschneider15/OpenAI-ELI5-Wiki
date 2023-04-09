@@ -1,0 +1,3 @@
+# Vector algebra
+
+Vector algebra is a type of math used to calculate the magnitude and direction of a vector, which is a quantity with both magnitude and direction. Magnitude is the size or length of the vector, and direction is the angle it makes with a particular reference point. Vector algebra uses operations like addition, subtraction, multiplication, and division to calculate the magnitude and direction of a vector. For example, if you have two vectors, you can add them together to get the combined magnitude and direction of the two vectors. Vector algebra is used in many areas of math and science, such as physics and engineering.

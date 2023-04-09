@@ -1,0 +1,3 @@
+# Dimension of an algebraic variety
+
+A dimension of an algebraic variety is a measure of the number of independent directions in which the variety can vary. It is an important concept in algebraic geometry, which is the study of the equations that define a variety. The dimension of an algebraic variety is determined by the number of independent variables in the equations that define it. For example, a line in two-dimensional space has a dimension of one, because it can only vary in one direction. A plane in three-dimensional space has a dimension of two, because it can vary in two directions. Higher-dimensional algebraic varieties can have dimensions of three or more.

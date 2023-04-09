@@ -1,0 +1,3 @@
+# Conway polynomial (finite fields)
+
+The Conway polynomial is a mathematical concept used to describe the behavior of finite fields. Finite fields are collections of elements, such as numbers, that can be added, subtracted, multiplied, and divided. The Conway polynomial is a polynomial equation that describes how the elements of a finite field interact with each other. The equation is used to determine the behavior of the elements when they are combined in different ways. The polynomial equation is usually expressed in terms of the elements' indices, which are numbers that represent the elements' positions in the finite field. The Conway polynomial can be used to study the behavior of finite fields and to solve problems related to them.

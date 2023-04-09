@@ -1,0 +1,3 @@
+# Overcompleteness
+
+Overcompleteness is a concept that describes situations where there is too much of something. It can be used to describe a variety of situations, from physical objects to abstract concepts. For example, if a room is filled with too many chairs, it is said to be overcomplete. Similarly, if a language has too many words to express a concept, it is said to be overcomplete. In both cases, there is an excess of something that is not necessary. This can lead to confusion and difficulty in understanding the concept or using the objects. Overcompleteness can also lead to wasted resources, as too much of something is being used when it is not needed.

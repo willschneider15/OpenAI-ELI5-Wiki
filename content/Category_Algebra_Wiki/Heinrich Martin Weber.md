@@ -1,0 +1,3 @@
+# Heinrich Martin Weber
+
+Heinrich Martin Weber was a German mathematician who lived in the 19th century. He developed a mathematical concept known as Weber's Law. This law states that the relationship between two stimuli (or inputs) is proportional to the ratio of the two inputs. For example, if one stimulus is twice as strong as the other, then the response to the stronger stimulus will be twice as strong as the response to the weaker stimulus. This law is used in a variety of fields, such as psychology, economics, and engineering. Weber's law is an important concept in understanding the behavior of people and systems.

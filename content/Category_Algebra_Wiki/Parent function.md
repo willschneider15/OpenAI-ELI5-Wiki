@@ -1,0 +1,3 @@
+# Parent function
+
+A parent function is a function that is used as a base to create other functions. It is the simplest form of a function and is used as a starting point when creating more complicated functions. Parent functions are often used in mathematics to represent basic concepts such as linear equations, quadratic equations, exponential equations, and trigonometric equations. Parent functions can be used to graph a variety of functions and can be used to help students understand how different functions can be related to each other. Parent functions are also used to help students understand the concept of transformations, which is when a function is changed in some way, such as by changing the coefficients, adding a constant, or changing the sign of the function.

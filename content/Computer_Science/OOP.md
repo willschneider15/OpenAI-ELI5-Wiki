@@ -1,0 +1,3 @@
+# OOP
+
+Object-Oriented Programming (OOP) is a way of writing computer programs that makes them easier to understand and maintain. It works by breaking down a program into small pieces called objects, which can each have their own properties and methods. The objects can interact with each other and the program can be modified by changing the objects. OOP is like a family tree. Each object is related to another object, and they all have a common ancestor. To make a program, you start with the ancestor object and add objects that are related to it. Each object has its own properties and methods, and when the program is running, it uses these objects to do its work. OOP is a great way to write programs because it makes them easier to understand and maintain.

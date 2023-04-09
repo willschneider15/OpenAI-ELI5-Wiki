@@ -1,0 +1,3 @@
+# Garrett Birkhoff
+
+Garrett Birkhoff was an American mathematician who made important contributions to the fields of algebra and graph theory. He is best known for his work on lattices, which are mathematical structures that can be used to represent relationships between different elements. He also developed the concept of graph coloring, which is used to solve problems in computer science, engineering, and other disciplines. Garrett Birkhoff's work has been highly influential and has had a lasting impact on mathematics and computer science. He is remembered as one of the most important mathematicians of the 20th century.

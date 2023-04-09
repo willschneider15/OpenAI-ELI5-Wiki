@@ -1,0 +1,3 @@
+# Orthonormal function system
+
+Orthonormal function systems are sets of functions that are mutually orthogonal and normalized. Orthogonality means that two functions are perpendicular to each other, which means that the inner product of two functions is equal to zero. Normalization means that the two functions have a unit length, which means that the inner product of two functions is equal to one. Orthonormal function systems are used in mathematics and engineering to represent a wide variety of physical phenomena. They are useful because they are easier to work with than other types of functions and they can provide a more accurate representation of a system. Orthonormal function systems are also used in signal processing, image processing, and numerical analysis.

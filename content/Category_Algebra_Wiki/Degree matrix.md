@@ -1,0 +1,3 @@
+# Degree matrix
+
+The degree matrix is a type of matrix used to represent the degree of a vertex in a graph. It is a square matrix with the same number of rows and columns as the number of vertices in the graph. Each element of the matrix is the degree of the corresponding vertex. The degree of a vertex is the number of edges connected to it. The degree matrix is used in graph theory to analyze the structure of the graph. It can be used to determine the number of edges, the number of connected components, and the connectivity of each vertex. It can also be used to calculate the shortest path between two vertices.

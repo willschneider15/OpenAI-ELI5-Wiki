@@ -1,0 +1,3 @@
+# Ruth Moufang
+
+Ruth Moufang was a mathematician who discovered a special type of symmetrical shape called a Moufang loop. A Moufang loop is a shape made up of points that are all connected to each other in a way that no matter which point you start at, the same pattern of connections will be followed all the way around the loop. It is like a circle, but with more points and different kinds of connections. Ruth Moufang's discovery has been used in many different fields, from mathematics to engineering to computer science. It is an important concept in mathematics because it can help us understand and solve complex problems.

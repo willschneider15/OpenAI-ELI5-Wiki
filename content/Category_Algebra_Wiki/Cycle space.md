@@ -1,0 +1,3 @@
+# Cycle space
+
+Cycle space is a term used to describe the area or space dedicated to cycling. It is an important part of urban planning and design, and can include both physical infrastructure (such as bike lanes and paths) and non-physical elements (such as signage and education). Cycle space can help to make cycling more convenient, safe, and attractive for people of all ages and abilities. It can also help to reduce car use and traffic congestion, and to improve air quality. By providing dedicated cycle space, cities can encourage more people to cycle, leading to healthier and more sustainable cities.

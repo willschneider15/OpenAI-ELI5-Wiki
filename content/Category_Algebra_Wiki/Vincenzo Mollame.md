@@ -1,0 +1,3 @@
+# Vincenzo Mollame
+
+Vincenzo Mollame is a concept developed by Italian philosopher Vincenzo Mollame. It focuses on the idea that people should live according to their own values and beliefs, not those imposed by society. This means that people should strive to be true to themselves and their own ideas, rather than following the crowd. To do this, Mollame suggests that people should focus on developing their own personal ethics and morality, as well as understanding their own motivations and desires. This can help people to make decisions that are in line with their own beliefs, rather than those of the majority. In this way, Vincenzo Mollame encourages people to be authentic and true to themselves.

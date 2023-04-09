@@ -1,0 +1,3 @@
+# Special linear group
+
+The Special Linear Group, also known as SL(2,R), is a group of matrices with real numbers as entries. It is a special type of linear group, meaning that it is a group of linear transformations (transformations that can be represented by matrices). The elements of SL(2,R) are all 2x2 matrices with determinant 1, which means that the product of the two entries in each row and column must equal 1. The group is important in mathematics and physics, as it is used to describe the symmetries of certain physical systems. It is also used to study Lie groups and Lie algebras, which are important in the study of symmetry and symmetry-breaking in physics.

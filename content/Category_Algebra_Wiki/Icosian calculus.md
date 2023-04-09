@@ -1,0 +1,3 @@
+# Icosian calculus
+
+Icosian calculus is a type of mathematical system that uses shapes and colors to represent numbers and equations. It is based on the idea of using a dodecahedron, which is a 3-dimensional shape with 12 sides. Each side of the dodecahedron is colored with a different color, which is then used to represent a number. The numbers are then used to calculate equations, such as addition and subtraction. The equations can be represented by the colors and shapes of the dodecahedron, which makes it easier for children to learn and understand. Icosian calculus is a great way to help children learn math, as it is visual, fun, and easy to understand.

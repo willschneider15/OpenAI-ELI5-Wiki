@@ -1,0 +1,3 @@
+# Constant-recursive sequence
+
+A constant-recursive sequence is a sequence of numbers that follow a fixed pattern. This pattern is determined by two constants, a and b, which are used to calculate the value of each successive term in the sequence. The first term in the sequence is determined by the value of a, and each subsequent term is calculated by adding b to the previous term. This process is repeated until the desired number of terms is reached. For example, if a = 2 and b = 3, the sequence would be 2, 5, 8, 11, 14, 17, etc. Constant-recursive sequences are useful for predicting and understanding patterns in data, and can be used to generate sequences of numbers with specific properties.

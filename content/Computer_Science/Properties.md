@@ -1,0 +1,3 @@
+# Properties
+
+Properties are like special variables that are associated with a particular class or object. They are used to store values, and can be accessed or modified by other classes or objects. Properties can be used to control the way in which a class or object behaves. For example, a class might have a property that stores the current state of a game, such as whether the game is paused or running. This property can be used to control how the game behaves when certain events occur. Properties can also be used to store data that is associated with a particular class or object, such as the user's name or the current score in a game. They can also be used to store configuration settings for a program, such as the size of the window or the color of the background.

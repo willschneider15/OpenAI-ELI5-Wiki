@@ -1,0 +1,3 @@
+# Tapering (mathematics)
+
+Tapering is a mathematical concept that involves changing the size or shape of something gradually. It is used to describe the process of changing a line, shape, or object from one size or shape to another. For example, tapering can be used to describe a line that gradually changes from thick to thin. It can also be used to describe an object that gradually changes from round to square. Tapering is a useful concept for creating smooth, gradual transitions between different sizes and shapes. It can also be used to create interesting visual effects. Tapering can be used in a variety of contexts, such as art, engineering, and mathematics.

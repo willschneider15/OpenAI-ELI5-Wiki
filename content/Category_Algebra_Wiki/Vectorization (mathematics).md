@@ -1,0 +1,3 @@
+# Vectorization (mathematics)
+
+Vectorization is a way of expressing a mathematical operation in terms of vectors, or arrays of numbers. It is a powerful tool for quickly and efficiently performing calculations on large datasets. It works by applying a single formula or operation to all elements of a vector at once, rather than having to perform the same operation on each element individually. This makes vectorization much faster than traditional methods, and can be used to quickly solve complex problems. Vectorization is a key concept in mathematics and computer science, and is used in many areas such as machine learning, image processing, and data analysis.

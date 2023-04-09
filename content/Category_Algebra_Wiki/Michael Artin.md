@@ -1,0 +1,3 @@
+# Michael Artin
+
+Michael Artin is a mathematician who has made important contributions to the field of algebra. He is known for his work in algebraic geometry, which is the study of the properties of shapes and curves in space. Artin's work has helped to create a better understanding of how algebra and geometry interact. He has also developed new ideas about algebraic surfaces and their applications. Artin's work has helped to make algebra more accessible to students and to improve the way mathematics is taught in schools. He is also known for his work on non-commutative algebra, which is a branch of algebra that deals with the study of non-commutative rings and algebras.

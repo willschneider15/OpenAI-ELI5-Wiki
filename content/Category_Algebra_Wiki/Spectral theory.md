@@ -1,0 +1,3 @@
+# Spectral theory
+
+Spectral theory is a branch of mathematics that studies the relationship between operators and functions. It is used to describe and analyze the behavior of certain types of functions, such as those that represent waves or vibrations. Spectral theory is based on the idea that a function can be represented by a combination of simpler functions, called eigenfunctions. Each eigenfunction has a corresponding eigenvalue, which describes the strength of the function. By combining these eigenvalues and eigenfunctions, we can create a spectrum, which is a representation of the function's behavior. Spectral theory is used to study many different types of phenomena, such as sound waves, light waves, and vibration waves.

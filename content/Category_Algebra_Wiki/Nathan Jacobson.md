@@ -1,0 +1,3 @@
+# Nathan Jacobson
+
+Nathan Jacobson was a mathematician who developed a way of looking at numbers called the Jacobson radical. The Jacobson radical is a way of looking at numbers that can be used to understand how they interact with each other. It is based on the idea that numbers can be broken down into smaller pieces or "radicals," which can then be used to calculate how they interact with each other. This method is useful for understanding complex mathematical relationships and can be used to solve problems in many different areas, including algebra and number theory. By understanding the Jacobson radical, mathematicians can better understand the relationships between numbers and use it to solve problems.

@@ -1,0 +1,3 @@
+# Weyl's inequality
+
+Weyl's inequality is a mathematical theorem which states that the sum of the absolute values of the eigenvalues of a matrix is bounded by the sum of the absolute values of the individual entries of the matrix. In other words, it states that the magnitude of the eigenvalues of a matrix cannot be greater than the sum of the absolute values of the individual entries of the matrix. This theorem can be used to study the behavior of matrices and to help understand the properties of their eigenvalues. It can also be used to determine the stability of a system, as well as other properties.

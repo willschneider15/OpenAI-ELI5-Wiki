@@ -1,0 +1,3 @@
+# Cartesian tensor
+
+Cartesian tensors are mathematical objects used to describe physical properties like force, velocity, and acceleration. They are made up of a set of numbers arranged in a grid. Each number in the grid represents a component of the physical property. For example, a force vector could be represented by three numbers in a row, each representing the amount of force in a different direction. Cartesian tensors can be used to describe the relationship between two or more physical properties. For example, the tensor for a velocity vector can be multiplied by a tensor for a force vector to describe the effect of the force on the velocity.

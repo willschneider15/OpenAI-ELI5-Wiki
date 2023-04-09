@@ -1,0 +1,3 @@
+# David Buchsbaum
+
+David Buchsbaum was a mathematician who developed a method of determining the speed of an algorithm. His method is called the Buchsbaum-Roth algorithm, which works by analyzing how many steps an algorithm takes to solve a problem. It compares the number of steps it takes to solve the problem with the number of steps it would take a computer to solve the same problem. If the number of steps is significantly lower than the computer's, then the algorithm is said to be fast. If the number of steps is significantly higher than the computer's, then the algorithm is said to be slow. By using this algorithm, developers can determine how quickly their algorithms will run and make adjustments accordingly.

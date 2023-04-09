@@ -1,0 +1,3 @@
+# Cyclotomic identity
+
+Cyclotomic identity is a mathematical concept that states that any polynomial can be written as the product of cyclotomic polynomials. Cyclotomic polynomials are polynomials that can be expressed as the sum of nth roots of unity, where n is an integer. This means that any polynomial can be expressed as a combination of cyclotomic polynomials, which makes it easier to solve complex equations. For example, if you have a polynomial with a degree of 4, it can be written as the product of four cyclotomic polynomials. This makes it easier to solve the equation, as the cyclotomic polynomials can be easily solved.

@@ -1,0 +1,3 @@
+# Affine space
+
+An affine space is a type of mathematical space where the points are connected by straight lines. It is similar to a Euclidean space, except that there are no fixed points or directions. Instead, each point has its own coordinates, and the distance between two points is determined by the coordinates. This type of space is used in many areas of mathematics, including linear algebra, geometry, and computer graphics. In addition, it can be used to model physical phenomena such as light rays and electric fields. Affine spaces are also used in economics to study markets and in physics to study the behavior of particles.

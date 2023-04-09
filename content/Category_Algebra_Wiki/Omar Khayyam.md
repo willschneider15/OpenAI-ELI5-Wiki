@@ -1,0 +1,3 @@
+# Omar Khayyam
+
+Omar Khayyam was a Persian poet, mathematician and astronomer who lived in the 11th century. He is best known for his collection of poems called the Rubaiyat, which are full of wisdom and advice about life. His poems are often seen as a celebration of the joys of life, such as love, friendship, and beauty. He also wrote about the importance of living in the present and making the most of each moment. He believed that life was too short to waste, and that we should focus on the things that truly matter. He also wrote about the power of fate and the inevitability of death, but also the importance of accepting our mortality and living life to the fullest. His poems and ideas still resonate today and are seen as a source of inspiration and comfort.

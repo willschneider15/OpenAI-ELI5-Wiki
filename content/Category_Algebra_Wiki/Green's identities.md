@@ -1,0 +1,3 @@
+# Green's identities
+
+Green's identities are mathematical equations that are used to relate the value of a function to its derivatives. They are named after the mathematician George Green, who first discovered them in 1828. Green's identities are used to prove certain properties of a function, such as its continuity and differentiability. They are also used to simplify certain calculations, such as the evaluation of integrals. Green's identities can be used to prove theorems in mathematics, such as the Fundamental Theorem of Calculus. In essence, Green's identities are mathematical equations that are used to relate the value of a function to its derivatives, and are used in a variety of ways in mathematics.

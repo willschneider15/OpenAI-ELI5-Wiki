@@ -1,0 +1,3 @@
+# Wu's method of characteristic set
+
+Wu's method of characteristic set is a mathematical technique used to analyze and solve linear equations. It is based on the idea that every linear equation can be represented by a set of characteristics, or variables, which can be used to determine the solution. The technique involves representing the equation as a set of characteristics, then solving the equation by finding the values of the characteristics that satisfy the equation. This method is useful because it can be used to solve equations with many variables, and it is relatively simple to understand.

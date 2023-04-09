@@ -1,0 +1,3 @@
+# Actuarial polynomials
+
+Actuarial polynomials are mathematical equations used to calculate the value of a life insurance policy. They are used to determine the premiums that must be paid for a policy and the amount of money that will be paid out in the event of death. The equations take into account factors such as age, gender, health, and lifestyle. The equations are designed to determine the probability of death in any given year and the amount of money that would be paid out to the policyholder's beneficiaries. Actuarial polynomials are an important tool for insurance companies to accurately assess the risk associated with providing life insurance policies.

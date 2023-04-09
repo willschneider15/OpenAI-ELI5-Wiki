@@ -1,0 +1,3 @@
+# Two-graph
+
+Two-graph is a type of graph that consists of two different types of data. The first is a regular graph, which shows the relationship between two variables and the second is a secondary graph, which shows the relationship between the two variables in a different way. The two graphs are used together to provide a more complete picture of the data. For example, a two-graph could be used to compare the sales of a product over time, with one graph showing the sales over time and the other graph showing the customer satisfaction ratings over the same period. This allows for a more complete understanding of the data, as both graphs provide different insights into the data.

@@ -1,0 +1,3 @@
+# Abstraction
+
+Abstraction is a way of hiding details so that we can focus on the important parts of something. It is like looking at something from far away so that you don't have to see all of the tiny details. In computer science, abstraction is used to make programming easier by hiding the details of how a computer works and focusing on the code that will solve the problem. Abstraction helps us break down complex tasks into smaller, easier to understand pieces. For example, instead of having to understand how a computer works, we can use a programming language to write code that tells the computer what to do. Abstraction is a powerful tool that helps us solve problems quickly and efficiently.

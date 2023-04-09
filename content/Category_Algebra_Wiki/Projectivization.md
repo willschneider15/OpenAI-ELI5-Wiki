@@ -1,0 +1,3 @@
+# Projectivization
+
+Projectivization is a concept used in psychology that helps explain how people create meaning from their environment. It’s based on the idea that people project their own thoughts and feelings onto others, and that this can shape how they interact with the world. For example, if someone is feeling anxious, they might project this feeling onto someone else and interpret their behavior as being hostile or aggressive. Projectivization can also be used to explain how people make sense of ambiguous situations or symbols. People might interpret a symbol or event in a way that reflects their own beliefs, values, and experiences. This concept can be helpful in understanding how people interact with each other and their environment.

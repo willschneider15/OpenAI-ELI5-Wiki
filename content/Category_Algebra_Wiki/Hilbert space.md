@@ -1,0 +1,3 @@
+# Hilbert space
+
+Hilbert space is a type of mathematical space that has an infinite number of dimensions. It is named after the German mathematician David Hilbert. In this space, points are connected by lines and the distance between them can be measured. This space can be used to describe physical phenomena such as light waves, sound waves, and other types of waves. It is also used to describe more abstract concepts such as quantum mechanics and the behavior of particles. In short, Hilbert space is a way to describe the behavior of objects in the universe, allowing us to better understand the physical world around us.

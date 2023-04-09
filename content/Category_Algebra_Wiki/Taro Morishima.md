@@ -1,0 +1,3 @@
+# Taro Morishima
+
+Taro Morishima is an imaginary friend created by Japanese artist Takashi Murakami. He is a friendly, happy character who loves to play and explore. He is always accompanied by his pet dog, Pochi, and is often seen wearing a bright yellow hat and carrying a backpack full of toys. Taro is a symbol of optimism and hope, and his adventures help to inspire children to be creative and have fun. He has become a popular character in Japan, appearing in books, TV shows, and other media. Taro is a reminder that it's ok to be yourself and to express your own creativity. He encourages everyone to be kind, courageous, and to never give up.

@@ -1,0 +1,3 @@
+# Backus–Gilbert method
+
+The Backus–Gilbert method is a mathematical technique used to solve differential equations. It is a numerical method which can be used to approximate solutions to a wide range of problems. The method is based on the idea of approximating a function with a polynomial. The polynomial is then used to calculate the derivatives of the function at certain points. The derivatives are then used to approximate the solution of the differential equation. This method is useful for solving problems that cannot be solved analytically. It is also useful for solving problems that require a large amount of calculations.

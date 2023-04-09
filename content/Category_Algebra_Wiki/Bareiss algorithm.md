@@ -1,0 +1,3 @@
+# Bareiss algorithm
+
+Bareiss algorithm is a method of solving linear equations using integer numbers. It is an efficient way of finding the solution to a system of linear equations without having to calculate all the possibilities. The algorithm works by rearranging the equations so that the coefficients of the variables are all integers. Then, it uses a process of elimination to solve the system. This process involves subtracting one equation from another to get a new equation with a different set of coefficients. The process is repeated until the system is solved. This algorithm is useful because it is faster than other methods and it guarantees an exact solution.

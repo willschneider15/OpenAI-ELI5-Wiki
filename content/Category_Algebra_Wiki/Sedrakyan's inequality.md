@@ -1,0 +1,3 @@
+# Sedrakyan's inequality
+
+Sedrakyan's inequality is an inequality that states that the sum of the squares of two or more independent random variables is always greater than or equal to the sum of the squares of their expected values. This means that if we have two or more random variables, the sum of their squares will always be greater than or equal to the sum of their expected values, which is a measure of their average. This inequality is useful in statistics and probability theory, as it can be used to determine the likelihood of certain events occurring. In addition, it can help us understand the behavior of random variables, which can help us make better decisions.

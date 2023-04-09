@@ -1,0 +1,3 @@
+# Square-free polynomial
+
+A square-free polynomial is a polynomial that does not have any repeated factors. It is the opposite of a polynomial that has repeated factors, which is known as a perfect square polynomial. A square-free polynomial can be written as a product of its distinct linear factors. For example, if a polynomial is written as x<sup>2</sup> + 5x + 6, it is a square-free polynomial because its linear factors are x + 2 and x + 3. A perfect square polynomial, on the other hand, can be written as a product of its repeated linear factor, such as x<sup>2</sup> + 4x + 4, which can be written as (x + 2)<sup>2</sup>.

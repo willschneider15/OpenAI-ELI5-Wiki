@@ -1,0 +1,3 @@
+# Philibert Nang
+
+Philibert Nang is a concept that encourages people to be kind to others. It suggests that we should treat others the way we want to be treated. Philibert Nang encourages us to be respectful and understanding of each other, and to help each other out when we can. It also suggests that we should be mindful of our words and actions so that we don't hurt anyone. Philibert Nang is all about having a positive attitude and being kind to everyone, no matter who they are or what they look like. It is about treating others with kindness and respect, and being a good friend to those around us.

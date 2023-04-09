@@ -1,0 +1,3 @@
+# Orthonormality
+
+Orthonormality is a concept that describes a set of vectors that are all of equal length and all at right angles (orthogonal) to each other. It is important in mathematics because it allows us to measure the distance between two vectors and to determine the angle between them. It is also used in many areas such as linear algebra, signal processing, and quantum mechanics. Orthonormality helps us to make calculations easier by reducing the number of variables that we need to consider. In simple terms, orthonormality describes a set of vectors that are all the same length and all at right angles to each other.

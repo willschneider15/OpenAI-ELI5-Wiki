@@ -1,0 +1,3 @@
+# Cyclotomic polynomial
+
+A cyclotomic polynomial is a type of polynomial that is used to describe the roots of a polynomial equation. It is named after the Greek word “cyclos”, which means circle. The cyclotomic polynomial is made up of a set of coefficients, or numbers, that describe the roots of a polynomial equation. The coefficients are arranged in a certain order, and when the equation is solved, the roots of the polynomial equation can be found. The cyclotomic polynomial is used in many mathematical fields, such as number theory, algebra, and geometry. It can also be used to solve problems related to the roots of polynomial equations.

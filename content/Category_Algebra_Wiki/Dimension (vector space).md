@@ -1,0 +1,3 @@
+# Dimension (vector space)
+
+A dimension is a measure of a space or a vector space. It is a mathematical concept used to describe the size and shape of an object or a space. A vector space is a set of vectors that can be added together to form a new vector. Each vector in the set has a specific length and direction. The dimension of a vector space is the number of vectors it contains. For example, a two-dimensional vector space contains two vectors, while a three-dimensional vector space contains three vectors. A four-dimensional vector space contains four vectors, and so on. The dimension of a vector space can help us understand the size and shape of the space, which can be useful for analyzing data or solving problems.

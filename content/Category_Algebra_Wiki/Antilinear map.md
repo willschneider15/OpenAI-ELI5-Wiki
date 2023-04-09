@@ -1,0 +1,3 @@
+# Antilinear map
+
+Antilinear maps are mathematical operations that take a complex number and transform it into a new complex number. They are the opposite of linear maps, which take a complex number and produce a real number. An antilinear map takes a complex number and produces another complex number. An example of an antilinear map is the conjugate, which takes a complex number and produces its complex conjugate. The conjugate of a complex number is simply the same number with the sign of the imaginary part flipped. For example, the conjugate of 2 + 3i is 2 - 3i. Antilinear maps are important in many areas of mathematics, including quantum mechanics.

@@ -1,0 +1,3 @@
+# Signal-flow graph
+
+A signal-flow graph is a diagram used to represent a set of linear equations. It is a graphical representation of the interconnections between different elements in a system. The elements are represented by nodes, and the signals that flow between them are represented by arrows. Each arrow represents a signal that passes from one element to another. The nodes represent the elements of the system, such as amplifiers, filters, and other components. The arrows represent the flow of signals between them. The signal-flow graph is useful for analyzing and solving linear equations, as well as understanding the behavior of a system. It can be used to visualize the relationships between different elements in a system, and to identify potential problems.

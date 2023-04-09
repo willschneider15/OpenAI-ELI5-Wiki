@@ -1,0 +1,3 @@
+# Pfister's sixteen-square identity
+
+Pfister's sixteen-square identity is a way of looking at how different shapes can be related to each other. It uses four squares arranged in a square grid to represent four different shapes. Each of the four squares can be divided into four smaller squares, and each of the sixteen squares can be colored in different ways. The sixteen-square identity states that if two of the shapes are related in some way, then the two corresponding squares in the grid will have the same color pattern. For example, if two shapes are reflections of each other, then the squares that represent them will both have the same colors in the same places. This identity can help us to understand how different shapes are related to each other.

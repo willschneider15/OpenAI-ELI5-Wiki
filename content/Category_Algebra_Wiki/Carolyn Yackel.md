@@ -1,0 +1,3 @@
+# Carolyn Yackel
+
+Carolyn Yackel is a concept developed by mathematician and educator, Carolyn Yackel. It is based on the idea that mathematics is a social activity, and that learning and understanding it should be done through communication and collaboration. This means that math problems should be solved in a group, with each person contributing their ideas and working together to come up with a solution. The goal is to help students develop a deeper understanding of mathematics and to foster a sense of community among them. Through Carolyn Yackel's concept, students learn to think critically, to discuss their ideas, and to work together to solve math problems. This helps them develop problem-solving skills, which can be applied to many other areas of life.

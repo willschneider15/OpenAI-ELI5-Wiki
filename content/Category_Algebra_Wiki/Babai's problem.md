@@ -1,0 +1,3 @@
+# Babai's problem
+
+Babai's problem is a problem in computational complexity theory that was first posed by Hungarian mathematician László Babai in 1983. It is a problem that asks whether there is an algorithm that can solve the Graph Isomorphism problem in polynomial time. The Graph Isomorphism problem is a problem where two graphs are given and the goal is to determine if they are isomorphic, meaning if there is a way to transform one graph into the other by re-labeling the vertices. Babai's problem is important because it is a difficult problem that has implications for cryptography and other fields. If an algorithm is found that can solve the problem in polynomial time, it could have a significant impact on many areas of computer science.

@@ -1,0 +1,3 @@
+# Complex Lie algebra
+
+Complex Lie algebras are mathematical structures used to describe symmetries in physics. They are made up of a set of elements called generators, which obey certain rules called commutation relations. The generators can be thought of as vectors in a vector space, and the commutation relations describe how the vectors interact with each other. The generators can be used to construct a Lie group, which is a group of transformations that leave some property of a system unchanged. This group can be used to describe physical phenomena such as the motion of particles. Complex Lie algebras are used to study the symmetries of physical systems and to construct mathematical models of them.

@@ -1,0 +1,3 @@
+# Heap Memory
+
+Heap Memory is a way for a computer to store data. It is a special type of memory that is used to store data temporarily while the computer is running. Heap Memory is used to store data that needs to be accessed quickly, such as when a program is running. The data stored in Heap Memory is divided into small chunks, called blocks, and each block is assigned a unique address. When a program needs to access a piece of data, it looks up the address of the data in the Heap Memory and then retrieves the data. Heap Memory is important because it allows programs to quickly access data that they need to run.

@@ -1,0 +1,3 @@
+# Conductance (graph)
+
+Conductance is a measure of the ability of an electrical circuit to allow electricity to flow through it. It is measured in Siemens (S) and is the inverse of resistance. A graph of conductance versus voltage can be used to show how the circuit is behaving. In general, the graph will show that as the voltage increases, the conductance also increases. This is because as the voltage increases, more current is able to flow through the circuit, resulting in a higher conductance. The graph can also be used to determine how much current is flowing through the circuit at any given voltage.

@@ -1,0 +1,3 @@
+# Delta operator
+
+The Delta operator is a mathematical symbol that is used to represent the change in a variable over time. It is typically written as a triangle (∆) and is used in calculus to represent the rate of change of a function. In other words, it measures the difference between two values at different points in time. For example, if you have a function f(x) and you want to measure the change in the function over time, you can use the Delta operator to calculate the difference between the two points. This can be used to measure the rate of change of a function, as well as the difference between two values at different points in time.

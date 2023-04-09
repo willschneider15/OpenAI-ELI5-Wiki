@@ -1,0 +1,3 @@
+# Matrix factorization of a polynomial
+
+Matrix factorization of a polynomial is the process of breaking down a polynomial into a set of matrices. This allows for the polynomial to be expressed more concisely, and enables the user to more easily identify the structure of the polynomial. The process involves splitting the polynomial into two matrices, one containing the coefficients of the polynomial and the other containing the variables. These matrices can then be multiplied together to obtain the polynomial in its original form. This process can be used to solve equations and to simplify and analyze polynomials.

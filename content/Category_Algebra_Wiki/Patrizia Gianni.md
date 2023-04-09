@@ -1,0 +1,3 @@
+# Patrizia Gianni
+
+Patrizia Gianni is an Italian fashion designer who has been creating beautiful clothes for over 30 years. She is known for her unique style and her use of bright colors and bold patterns. Her collections are often inspired by her travels and her love of nature. Patrizia believes that fashion should be fun and creative, and she puts a lot of effort into making sure her designs are unique and eye-catching. She also believes in using sustainable materials and practices, so her clothes are often made with eco-friendly fabrics. Patrizia Gianni's designs are fun, beautiful, and sustainable, making them perfect for any occasion.

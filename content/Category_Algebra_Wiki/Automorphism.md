@@ -1,0 +1,3 @@
+# Automorphism
+
+An automorphism is a special type of transformation that changes the shape or structure of something while preserving its original properties. It is like a reflection in a mirror, where the object is flipped but the same. In mathematics, an automorphism is a type of transformation that can be applied to a mathematical object, such as a group or a graph. The transformation preserves the structure of the object, meaning that the same relationships between the elements of the object remain unchanged. For example, a rotation of a square by 90 degrees is an automorphism because the relationships between the sides and angles remain the same.

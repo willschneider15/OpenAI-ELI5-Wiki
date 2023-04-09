@@ -1,0 +1,3 @@
+# Integral graph
+
+Integral graph is a graphical representation of the integral of a function. It is a type of graph used to visualize the area under a curve. The graph is typically composed of two axes, one for the independent variable and one for the dependent variable. The area under the curve is represented by the integral, which is calculated by adding up all the small rectangles created by joining the points of the graph. This area is then represented by a shaded region, which gives us the total area under the curve. Integral graphs can be used to visualize the area under the curve of any function and are often used in calculus and other mathematical applications.

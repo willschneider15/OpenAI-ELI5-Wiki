@@ -1,0 +1,3 @@
+# Lerche–Newberger sum rule
+
+The Lerche-Newberger Sum Rule is a mathematical rule that helps us understand the behavior of certain physical systems. It states that the sum of the energies of all the particles in a system is equal to the total energy of the system. This means that when you add up the energies of all the particles in a system, the result should be the same as the total energy of the entire system. This rule is useful for understanding the behavior of particles in a system, such as the behavior of atoms and molecules in a gas or liquid. It is also useful for understanding the behavior of light and other forms of radiation.

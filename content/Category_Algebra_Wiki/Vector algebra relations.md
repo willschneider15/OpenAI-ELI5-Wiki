@@ -1,0 +1,3 @@
+# Vector algebra relations
+
+Vector algebra is a branch of mathematics that deals with the manipulation and analysis of vectors, which are mathematical objects that have both magnitude and direction. Vector algebra relations are the equations that are used to describe the relationships between vectors. These equations allow for the calculation of vector components, the addition and subtraction of vectors, and the multiplication of vectors by scalars. Vector algebra is used in many fields, including physics, engineering, and computer science. It is an important tool for solving problems related to motion and force. Vector algebra can also be used to describe the properties of curves and surfaces, as well as to calculate the area of a region.

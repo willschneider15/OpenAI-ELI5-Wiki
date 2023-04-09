@@ -1,0 +1,3 @@
+# Expression (mathematics)
+
+Expression in mathematics is a combination of symbols, numbers, and operations that represent a value. An expression can be written as a single number, a variable, a combination of numbers and variables, or a combination of numbers, variables, and operations. Expressions are used to represent a problem or to represent a solution to a problem. Expressions can be used to represent equations, inequalities, and other mathematical relationships. Expressions can also be used to represent functions, which are equations that take in one or more inputs and produce an output. Expressions are an important part of mathematics as they allow us to represent problems and solutions in a concise and organized manner.

@@ -1,0 +1,3 @@
+# Overdetermined system
+
+An overdetermined system is a system of equations with more equations than unknowns. This means that the system has more information than it needs to solve the problem, making it impossible to find a unique solution. Instead, the system will have multiple solutions, each of which satisfies all the equations. This can be useful in situations where there are multiple possible solutions, such as when solving for the unknowns in a complex network of equations. An overdetermined system can also be used to check the accuracy of a solution, as any solution that does not satisfy all the equations is not a valid solution.

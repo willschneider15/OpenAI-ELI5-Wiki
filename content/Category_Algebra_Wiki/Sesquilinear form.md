@@ -1,0 +1,3 @@
+# Sesquilinear form
+
+A sesquilinear form is a type of mathematical expression that involves complex numbers. It is a combination of a linear form and a bilinear form, and it is used to describe relationships between two vectors in an abstract space. In a sesquilinear form, the two vectors are multiplied together, and then the result is multiplied by a complex conjugate. This complex conjugate is the complex number multiplied by its own complex conjugate, which results in a real number. The sesquilinear form is used to define inner products, and it is important in many areas of mathematics, such as linear algebra, functional analysis, and quantum mechanics.

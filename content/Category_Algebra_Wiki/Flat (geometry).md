@@ -1,0 +1,3 @@
+# Flat (geometry)
+
+Flat geometry, also known as Euclidean geometry, is a type of geometry that deals with shapes that are flat and two-dimensional. It is based on the idea that points, lines, and angles exist in a two-dimensional space. In flat geometry, shapes are defined by their sides and angles, and all angles are equal to 90 degrees. Flat geometry is used to describe the everyday world, such as a square table or a triangle roof. It can also be used to calculate the area of a shape, the length of a line, or the angle of a corner. Flat geometry is an important part of mathematics and is used in many areas, such as architecture, engineering, and navigation.

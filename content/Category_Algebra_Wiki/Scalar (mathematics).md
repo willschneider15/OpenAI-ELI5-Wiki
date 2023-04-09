@@ -1,0 +1,3 @@
+# Scalar (mathematics)
+
+A scalar is a mathematical quantity that has only magnitude, but no direction. It is a single number on its own, without any other information attached to it. Scalars are used to measure the size of a physical quantity, such as length, mass, temperature, energy, or time. For example, 10 meters is a scalar, since it is a single number that tells us the length of something, but 10 meters east is not a scalar, since it includes direction. Scalars can be added, subtracted, multiplied, and divided, just like any other number. They can also be compared to each other, such as determining which of two temperatures is larger.

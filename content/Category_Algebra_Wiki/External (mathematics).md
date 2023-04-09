@@ -1,0 +1,3 @@
+# External (mathematics)
+
+External math is the study of mathematical objects and structures that exist outside of the usual number system. It is concerned with the study of abstract concepts such as infinity, imaginary numbers, and non-standard analysis. It is often used to study and explore mathematical theories and concepts that are not easily understood or solved using traditional mathematical methods. External math can help us gain a better understanding of the universe and its complex mathematical structures. It can also be used to solve difficult mathematical problems, such as those found in physics and engineering. By studying external math, we can gain a better understanding of the world around us and its mathematical structure.

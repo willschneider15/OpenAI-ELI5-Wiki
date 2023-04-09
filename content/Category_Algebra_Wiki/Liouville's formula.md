@@ -1,0 +1,3 @@
+# Liouville's formula
+
+Liouville's formula is a mathematical equation used to calculate the area of a shape. It states that the area of a shape is equal to the product of its circumference and its radius. This formula is especially useful in geometry, where shapes often have a circular shape. It can also be used to calculate the area of a triangle or a rectangle. In addition to calculating the area of a shape, Liouville's formula can also be used to calculate the volume of a three-dimensional shape. By multiplying the area of the shape with its height, the volume can be calculated. Liouville's formula is a useful tool for mathematicians and scientists alike.

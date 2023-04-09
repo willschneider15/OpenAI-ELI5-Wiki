@@ -1,0 +1,3 @@
+# Antivirus
+
+An antivirus is a type of software that helps protect your computer from malicious software, also known as malware. Malware can be used to steal your personal information or damage your computer. Antivirus software looks for patterns in the code of programs that might be malicious and then blocks or removes them. It also scans your computer regularly to make sure it is safe and secure. Antivirus software is important because it helps protect your computer from viruses, ransomware, and other malicious attacks. It can also help you keep your computer running smoothly by removing viruses and other malicious programs.

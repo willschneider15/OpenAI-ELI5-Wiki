@@ -1,0 +1,3 @@
+# Homogeneous coordinates
+
+Homogeneous coordinates are an extension of Cartesian coordinates, used to represent points in 3-dimensional space. They are used to represent points in a 3D space as a 4-tuple of numbers, rather than three separate coordinates. This allows for a simpler representation of points in 3D space as it allows for the same point to be represented in many different ways. For example, the point (1,2,3) can be represented as (2,4,6) or (3,6,9) using homogeneous coordinates. This makes it easier to perform calculations in 3D space, such as translations, rotations and scaling. Homogeneous coordinates are also useful for representing lines and planes in 3D space, as well as for projecting 3D images onto a 2D plane.

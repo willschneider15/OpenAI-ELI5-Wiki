@@ -1,0 +1,3 @@
+# Automatic differentiation
+
+Automatic differentiation (AD) is a technique used to calculate the derivative of a function. It works by breaking down a function into its individual operations and then using the chain rule to calculate the derivative at each step. AD is useful in many areas, such as machine learning and optimization, because it allows for efficient and accurate calculation of derivatives. The main advantage of AD is that it is much faster than calculating derivatives by hand. It also eliminates the need for manually coding derivatives, which can be time consuming and error prone. With AD, derivatives can be calculated quickly and accurately, allowing for faster optimization and more accurate machine learning models.

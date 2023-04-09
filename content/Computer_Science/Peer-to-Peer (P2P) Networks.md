@@ -1,0 +1,3 @@
+# Peer-to-Peer (P2P) Networks
+
+Peer-to-Peer (P2P) networks are networks that allow computers to connect directly to each other, without the need for a central server. In a P2P network, each computer acts as both a client and a server. This means that each computer can share files and data with other computers without having to go through a central server. P2P networks are often used for file sharing, streaming, and other applications. P2P networks are also more secure than traditional networks, as there is no single point of failure. This makes them less vulnerable to attacks and other malicious activities. P2P networks are also more efficient, as the data is distributed among many computers, instead of just one.

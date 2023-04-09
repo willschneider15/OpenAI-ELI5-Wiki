@@ -1,0 +1,6 @@
+CI and CD Tools (Jenkins, Travis CI, GitLab CI)
+Containerization (Docker, Kubernetes)
+Configuration Management (Ansible, Puppet, Chef)
+Deepfakes
+Generative Adversarial Networks (GANs)
+Reinforcement Learning (RL)

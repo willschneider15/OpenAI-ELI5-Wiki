@@ -1,0 +1,3 @@
+# Abstract algebra
+
+Abstract algebra is a branch of mathematics that studies abstract objects, such as sets, numbers, and operations. It is used to solve equations and to explore the structure of mathematical objects. In abstract algebra, we use symbols to represent objects and operations. We then use those symbols to study the properties of the objects and the relationships between them. Abstract algebra is used to solve problems that involve abstract objects, such as groups, rings, and fields. It is also used to explore the properties of these objects, such as their structure, symmetries, and transformations. Abstract algebra can help us understand the world around us, as it can be used to model real-world phenomena.

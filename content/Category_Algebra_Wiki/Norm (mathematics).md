@@ -1,0 +1,3 @@
+# Norm (mathematics)
+
+Norm is a measure of size or length of a vector. A vector is a mathematical object that has direction and magnitude (or length). The norm of a vector is the length of the vector, and is often written as ||v||. It is calculated by taking the square root of the sum of the squares of the components of the vector. For example, if a vector has components (3, 4), then the norm of the vector would be √(3^2 + 4^2) = 5. Norms are useful in many areas of mathematics, such as linear algebra and optimization. They can be used to measure the distance between two points or vectors, and to compare vectors of different lengths.

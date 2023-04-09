@@ -1,0 +1,3 @@
+# Extraneous and missing solutions
+
+Extraneous and missing solutions are concepts that are used to determine the accuracy and validity of a solution to an equation or system of equations. An extraneous solution is one that is not a true solution to the equation or system of equations, and is usually the result of an algebraic mistake or incorrect manipulation of the equation. A missing solution is a solution that should be included in the set of solutions, but is not due to an algebraic mistake or incorrect manipulation of the equation. In both cases, the solutions that are present are either incorrect or incomplete, and must be identified and corrected in order to obtain the correct solution set.

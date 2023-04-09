@@ -1,0 +1,3 @@
+# Bernoulli polynomials
+
+Bernoulli polynomials are a type of mathematical function used in calculus and analysis. They are named after the Swiss mathematician Jacob Bernoulli and are used to solve problems related to probability, statistics, and calculus. The polynomials are expressed in terms of the variable x and a parameter n, where n is a non-negative integer. The polynomials are written in the form Bn(x) = a0 + a1x + a2x2 + ... + anxn, where a0, a1, a2, ..., an are constants. Bernoulli polynomials can be used to solve various problems, such as finding the probability of an event occurring, or calculating the area under a curve. They can also be used to find the roots of equations, or to calculate integrals.

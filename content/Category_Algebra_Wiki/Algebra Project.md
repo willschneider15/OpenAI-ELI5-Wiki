@@ -1,0 +1,3 @@
+# Algebra Project
+
+Algebra Project is a program that helps students learn math skills. It focuses on algebra, which is a type of math that uses symbols and equations to solve problems. Algebra Project uses interactive activities and games to help students understand the topics. It also offers online resources, such as online lessons and videos, to help students learn. The program also provides guidance and support for students who need extra help. It also encourages students to work together and practice their skills in a collaborative environment. With Algebra Project, students can gain the skills they need to be successful in math.

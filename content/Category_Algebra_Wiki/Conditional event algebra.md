@@ -1,0 +1,3 @@
+# Conditional event algebra
+
+Conditional event algebra (CEA) is a mathematical tool used to describe and analyze the behavior of systems. It is used to model the dependencies between events and the conditions under which those events occur. CEA is based on Boolean algebra and is used to determine the probability of certain events occurring in a system. CEA can be used to analyze the behavior of systems with multiple variables, such as a system with multiple components or a system with multiple users. CEA can also be used to determine the probability of a certain event occurring given certain conditions, such as the probability of a user taking a certain action given certain input.

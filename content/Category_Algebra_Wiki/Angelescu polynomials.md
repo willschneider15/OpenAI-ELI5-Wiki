@@ -1,0 +1,3 @@
+# Angelescu polynomials
+
+Angelescu polynomials are a type of mathematical equation used to calculate the probability of success for a given set of conditions. The equation takes into account the amount of risk involved in a given situation and produces a numerical value that can be used to determine the likelihood of success. The polynomial is named after its creator, Romanian mathematician Constantin Angelescu, who developed the equation in the early 1900s. The equation is used in fields such as economics, finance, and statistics, and can help make decisions about investments, business decisions, and other activities.

@@ -1,0 +1,3 @@
+# Peter Cameron (mathematician)
+
+Peter Cameron is a mathematician who is famous for his work in combinatorics. He is best known for his work in permutation groups, which are collections of permutations (arrangements of objects) that obey certain rules. Cameron's work in this area has been used to solve problems in algebra, geometry, and computer science. He has also written several books on the subject, including Combinatorics: Topics, Techniques, Algorithms. In addition, he has made important contributions to the field of graph theory, which is the study of how different objects are connected to each other. Cameron's work has helped to advance the understanding of mathematics in many different areas.

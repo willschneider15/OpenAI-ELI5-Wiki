@@ -1,0 +1,3 @@
+# Rank (linear algebra)
+
+Rank is a concept used in linear algebra to measure the number of linearly independent vectors in a matrix. A vector is a set of numbers that can be used to represent a point in space. A matrix is a collection of vectors. The rank of a matrix is the number of linearly independent vectors it contains. For example, a matrix with two columns and three rows has a rank of two because there are only two linearly independent vectors in the matrix. The rank of a matrix can be determined by performing a series of calculations, such as calculating the determinant of the matrix, or by using the rank-nullity theorem. The rank of a matrix is important because it can be used to determine the number of solutions to a linear system of equations.

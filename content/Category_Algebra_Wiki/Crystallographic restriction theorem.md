@@ -1,0 +1,3 @@
+# Crystallographic restriction theorem
+
+The Crystallographic Restriction Theorem states that the symmetry of a crystal structure is limited by the number of atoms in the unit cell and their relative positions. This means that the symmetry of a crystal structure is determined by the atoms that make up the unit cell, and the way they are arranged. This is important because it helps us understand the properties of a material and how it behaves when subjected to different conditions. For example, the symmetry of a crystal structure can determine its electrical and optical properties, which can be used to design materials for different applications.

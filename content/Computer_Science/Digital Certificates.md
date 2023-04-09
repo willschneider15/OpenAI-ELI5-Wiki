@@ -1,0 +1,3 @@
+# Digital Certificates
+
+Digital Certificates are a type of digital signature used to prove the authenticity of a website or an online transaction. They are issued by a trusted third-party, such as a Certificate Authority (CA). The digital certificate contains information about the website or online transaction, such as the name of the website, the date and time of the transaction, and the identity of the website owner. When a user visits a website or makes an online purchase, the digital certificate is used to verify that the website is legitimate and the transaction is secure. Digital Certificates help protect users from malicious websites or online fraud.

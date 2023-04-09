@@ -1,0 +1,3 @@
+# Friedrich Karl Schmidt
+
+Friedrich Karl Schmidt was a German philosopher who believed in a theory called "Theory of Reification". This theory states that people's thoughts and feelings can become something tangible, or "reified". He believed that when people think about something, they can take that thought and make it into something real. For example, if someone thinks about a new invention, they can use their skills and resources to make it into a real product. This theory is important because it helps us understand how ideas can become reality. It also shows us that our thoughts and feelings are powerful and can be used to create something tangible.

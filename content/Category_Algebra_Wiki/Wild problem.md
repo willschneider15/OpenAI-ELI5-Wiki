@@ -1,0 +1,3 @@
+# Wild problem
+
+Wild problem is a concept that suggests that a problem can be solved in a variety of ways, and that each solution can be equally valid. This concept encourages creativity and out-of-the-box thinking when tackling a problem. It is based on the idea that there is no single “right” answer, and that different solutions can be equally valid and successful. Wild problem encourages flexibility and encourages people to think outside of the box when it comes to solving a problem. It is a great way to foster creativity and innovation, and it can help people to come up with more creative solutions to problems. Wild problem can be applied to any problem, from everyday tasks to complex problems.

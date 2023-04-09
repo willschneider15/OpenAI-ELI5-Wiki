@@ -1,0 +1,3 @@
+# Sun's curious identity
+
+Sun's Curious Identity is a concept that states that everyone is unique and has a unique identity. It is based on the idea that each person has something special that makes them different from everyone else. This could be anything from their physical features, to their personality, to their interests or hobbies. Sun's Curious Identity is about embracing these differences and recognizing that each person is an individual with their own unique identity. It is also about celebrating this uniqueness and recognizing that everyone has something special to offer. Sun's Curious Identity encourages people to be their own person and to embrace their uniqueness.

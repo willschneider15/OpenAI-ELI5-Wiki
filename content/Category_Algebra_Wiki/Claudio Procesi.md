@@ -1,0 +1,3 @@
+# Claudio Procesi
+
+Claudio Procesi is a mathematician who developed the concept of "non-linearity", which is a way of looking at how things change over time. Non-linearity is the idea that a system or process can change in unpredictable ways over time, and that it is impossible to predict exactly how it will change. This concept is important in mathematics, economics, and other fields. Procesi's work has helped us better understand how systems evolve over time, and how to better predict and control them. By understanding non-linearity, we can better understand how our world works, and how to make better decisions.

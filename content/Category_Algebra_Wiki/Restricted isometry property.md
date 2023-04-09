@@ -1,0 +1,3 @@
+# Restricted isometry property
+
+Restricted Isometry Property (RIP) is a mathematical property that describes how similar two vectors are to each other. Specifically, it states that if two vectors are similar to each other, then the product of their inner products should be close to 1. This property is useful in signal processing, machine learning, and data compression. It is also used in compressed sensing, which is a technique used to reduce the amount of data needed to accurately represent a signal. RIP ensures that the data is not distorted when compressed, meaning that the original signal can be accurately reconstructed from the compressed data.

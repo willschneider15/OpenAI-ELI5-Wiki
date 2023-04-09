@@ -1,0 +1,3 @@
+# Berlekamp–Rabin algorithm
+
+The Berlekamp–Rabin algorithm is a way of finding out if a given number is prime or not. It works by taking a number and testing it against a set of tests. If the number passes all the tests, then it is a prime number. If it does not pass all the tests, then it is not a prime number. The tests used in the algorithm are based on the mathematical properties of prime numbers, such as the fact that a prime number is only divisible by itself and 1. The Berlekamp–Rabin algorithm is an efficient way to test for primality, as it only requires a few steps to determine the result.

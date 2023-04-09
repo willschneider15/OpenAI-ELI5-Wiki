@@ -1,0 +1,3 @@
+# Frobenius normal form
+
+Frobenius normal form is a way to organize matrices, which are grids of numbers. It's like a way of tidying up the numbers so that it's easier to work with them. To put a matrix into Frobenius normal form, you start by looking at the numbers in the first column. If there are any zeros, you can move them to the bottom of the column. Then, you look at the numbers in the second column and do the same thing. You keep doing this until all the zeros are at the bottom of the matrix. This way, all the numbers that are not zero are at the top of the matrix. It makes it easier to work with the numbers because they are all in one place.

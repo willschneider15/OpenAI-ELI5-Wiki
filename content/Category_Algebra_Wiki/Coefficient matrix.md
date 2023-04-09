@@ -1,0 +1,3 @@
+# Coefficient matrix
+
+Coefficient matrix is a mathematical tool used to represent a system of linear equations. It is a rectangular array of numbers, symbols, and variables arranged in rows and columns. The coefficients represent the constants in the equations, while the variables represent the unknown values. The coefficient matrix can be used to solve the system of equations by multiplying it with the vector of unknowns. This will give the solution vector which contains the values of the unknowns. The coefficient matrix is an important tool in linear algebra and is widely used in many engineering and scientific fields.

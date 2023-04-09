@@ -1,0 +1,3 @@
+# Rational difference equation
+
+Rational difference equations are equations that involve the difference between two rational functions. They are used to model systems of equations in a variety of fields, such as economics, physics, and engineering. These equations are used to describe the relationship between two variables and can be used to predict future values of the variables. In a rational difference equation, one variable is represented by a rational function, while the other is represented by the difference between two rational functions. The coefficients of the rational functions are used to determine the behavior of the system. By solving a rational difference equation, one can determine the future values of the variables and make predictions about the system.

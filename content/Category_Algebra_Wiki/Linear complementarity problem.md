@@ -1,0 +1,3 @@
+# Linear complementarity problem
+
+A Linear Complementarity Problem (LCP) is a type of mathematical problem that involves two sets of variables, where the relationship between the two sets is determined by a set of linear equations. In an LCP, the variables must be complementary, meaning that the sum of their values must equal a certain value. This value is known as the complementarity constraint. For example, if one variable is a number between 0 and 1, then the other variable must be a number between 0 and 1 that, when added together, equals 1. LCPs are used to model and solve problems in a variety of fields, such as economics, engineering, and computer science.

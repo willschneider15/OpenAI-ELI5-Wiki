@@ -1,0 +1,3 @@
+# Majorization
+
+Majorization is a concept in mathematics that compares two sets of numbers or vectors. It is used to determine whether one set is "majorized" by the other, which means that the larger set is more dominant. Majorization is based on the idea that if one set of numbers is greater than or equal to another set in every element, then the larger set is majorized by the smaller set. For example, if one set of numbers is [1,2,3] and the other set is [2,3,4], then the larger set is majorized by the smaller set because each element in the larger set is greater than or equal to each element in the smaller set. Majorization is a useful tool for solving optimization problems and can be used in a variety of fields, such as economics, finance, and engineering.

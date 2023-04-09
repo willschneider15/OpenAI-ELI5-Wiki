@@ -1,0 +1,3 @@
+# Leonard Eugene Dickson
+
+Leonard Eugene Dickson was a mathematician who made important contributions to the field of algebra. He is best known for his work on finite fields, which are mathematical structures that have finite numbers of elements. Dickson developed methods to classify and construct finite fields, which are used in many areas of mathematics, including cryptography, coding theory, and number theory. He also wrote several books on the subject of algebra and finite fields. Dickson's work has helped mathematicians better understand the properties of finite fields and how they can be used to solve problems. He is remembered as one of the most influential algebraists of the 20th century.

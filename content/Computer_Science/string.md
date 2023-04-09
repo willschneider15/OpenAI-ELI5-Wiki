@@ -1,0 +1,3 @@
+# string
+
+A string is a sequence of characters, like letters, numbers, and symbols. It's like a sentence written without spaces. For example, "HelloWorld" is a string. Strings are used in computer programming to store information, such as words, numbers, and symbols. They are also used to make commands in computer programs. For example, you might use a string to tell a computer to display a certain message on the screen. Strings can be combined with other strings to create longer strings. For example, you could combine the strings "Hello" and "World" to create the string "HelloWorld". Strings are an important part of computer programming and can be used to store and manipulate data.

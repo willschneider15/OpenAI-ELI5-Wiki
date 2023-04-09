@@ -1,0 +1,3 @@
+# Bendixson's inequality
+
+Bendixson's inequality is a mathematical concept that states that a continuous function must have at least one zero crossing in a closed interval. This means that if you have a function that is continuous over a certain range, then it must have at least one point where the value of the function is equal to zero. This is important because it can be used to prove the existence of certain solutions to equations, and it can also be used to prove the existence of certain types of periodic behavior in systems. Bendixson's inequality is an important tool in mathematics and is used in many areas of study.

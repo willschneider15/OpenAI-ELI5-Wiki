@@ -1,0 +1,3 @@
+# Bring radical
+
+Bring Radical Like I'm 5 is a concept that encourages people to explain complex concepts in a simplified way. This concept helps people to understand complex topics that may be difficult to understand. The idea is to explain the concept in a way that a five-year-old would understand. This helps to break down the concept into more manageable pieces, making it easier to understand. By simplifying the concept, it allows people to gain a better understanding of the topic. This concept can be applied to any topic, from scientific concepts to political ideologies. It can also be used to explain complex topics in a way that is easier to comprehend. By using this concept, people can gain a better understanding of difficult topics and expand their knowledge.

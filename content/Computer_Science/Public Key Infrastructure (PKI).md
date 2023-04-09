@@ -1,0 +1,3 @@
+# Public Key Infrastructure (PKI)
+
+PKI is a system of digital tools and processes used to secure data and communications. It is based on the idea of public and private keys. A public key is a code that anyone can use to encrypt a message, while a private key is used to decrypt it. PKI allows users to securely share information over the internet, since only the intended recipient can decrypt the message. It also ensures that the sender is who they say they are, since only the sender can encrypt the message. PKI is used to secure transactions, emails, and other sensitive data. It is an important part of the internet's security infrastructure, and is used by governments, businesses, and individuals alike.

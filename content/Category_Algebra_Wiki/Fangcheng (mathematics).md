@@ -1,0 +1,3 @@
+# Fangcheng (mathematics)
+
+Fangcheng is a mathematical concept used to describe the relationship between two numbers. It is based on the Chinese number system, which uses the number five as a base. In Fangcheng, two numbers are combined to form a new number. This is done by multiplying the two numbers together and then adding the result to the sum of the two original numbers. For example, if you had two numbers 5 and 10, the Fangcheng would be (5 x 10) + (5 + 10) = 75. Fangcheng is used to solve mathematical problems and can be used to create equations and formulas. It can also be used to calculate the area of a triangle or the volume of a cylinder. Fangcheng is a useful tool for mathematicians and can be used to solve a variety of problems.

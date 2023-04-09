@@ -1,0 +1,3 @@
+# Alpha centrality
+
+Alpha centrality is a measure of the importance of a node in a network. It is calculated by looking at the number of connections a node has to other nodes in the network. A node with a high alpha centrality has a lot of connections to other nodes in the network, meaning it is important and influential. Alpha centrality can be used to identify key players in a network and to understand how information flows between nodes. It is especially useful in social networks, where it can be used to identify influential people or groups. Alpha centrality is a useful tool for understanding the structure of a network and the relationships between its nodes.

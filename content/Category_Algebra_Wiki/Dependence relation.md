@@ -1,0 +1,3 @@
+# Dependence relation
+
+Dependence relation is a concept in mathematics which describes the relationship between two variables. It is used to determine if one variable is dependent on another. For example, if two variables are related in such a way that the value of one affects the value of the other, then they are said to be dependent. This means that if one variable increases, the other will also increase, or if one decreases, the other will also decrease. Dependence relations can also be used to describe the relationship between two sets of data, such as the relationship between the price of a product and its demand.

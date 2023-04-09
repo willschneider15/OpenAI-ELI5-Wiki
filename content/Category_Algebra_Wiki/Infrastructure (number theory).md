@@ -1,0 +1,3 @@
+# Infrastructure (number theory)
+
+Infrastructure in number theory is the concept of using a set of mathematical objects to construct other mathematical objects. For example, infrastructure can be used to construct a number system, which is a set of numbers that can be used to express any number. This is done by creating a set of rules that define how the numbers can be combined and manipulated. The set of rules is known as an arithmetic system, and it allows us to manipulate and solve equations involving the numbers in the system. The infrastructure of the number system also allows us to identify patterns and relationships between the numbers, which can be used to solve more complex problems.

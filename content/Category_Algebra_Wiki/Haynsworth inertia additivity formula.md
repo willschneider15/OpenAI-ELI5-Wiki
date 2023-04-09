@@ -1,0 +1,3 @@
+# Haynsworth inertia additivity formula
+
+The Haynsworth Inertia Additivity Formula is a mathematical equation that is used to calculate the moment of inertia of a composite body. It states that the total moment of inertia for a composite body can be calculated by summing the moments of inertia of its individual components. This formula is useful for calculating the rotational inertia of complex structures, such as a car, which is composed of many different parts. It can also be used to calculate the inertia of an object that is made up of multiple components, such as a robot arm. The Haynsworth Inertia Additivity Formula can be used to predict the behavior of a system, such as how it will rotate when subjected to a force.

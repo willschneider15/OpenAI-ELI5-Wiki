@@ -1,0 +1,3 @@
+# Centralizer and normalizer
+
+Centralizers and normalizers are two concepts related to the idea of symmetry in mathematics. A centralizer is a set of elements in a group that commute with all elements of the group. This means that when two elements of the group are combined, the result is the same no matter which element is combined first. A normalizer is a subset of elements in a group that normalizes a given subgroup, meaning that it preserves the structure of that subgroup. This means that the elements of the subgroup remain unchanged even when combined with elements from the normalizer. Centralizers and normalizers are important concepts in mathematics, as they help to understand the structure of a group and how it behaves under certain operations.

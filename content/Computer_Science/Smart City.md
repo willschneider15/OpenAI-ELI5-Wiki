@@ -1,0 +1,3 @@
+# Smart City
+
+A Smart City is a city that uses technology to make it more efficient and livable. It uses technology to save energy, reduce traffic, and improve public safety. For example, sensors and cameras can be used to monitor traffic, and traffic lights can be adjusted to reduce congestion. Smart City systems can also be used to manage water and waste systems, and to provide better public services, such as healthcare and education. Smart Cities also use technology to improve communication between citizens and their government, and to provide citizens with more access to information. In short, Smart Cities use technology to make life easier, safer, and more efficient for everyone.

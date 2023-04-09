@@ -1,0 +1,3 @@
+# Non-negative matrix factorization
+
+Non-negative matrix factorization (NMF) is a mathematical technique used to break down a matrix into two smaller matrices. It is used to identify patterns and group similar elements in the matrix. The two matrices created by NMF are always non-negative, meaning that all the numbers in the matrices are greater than or equal to zero. NMF is used to solve problems in many different fields, including natural language processing, face recognition, and recommendation systems. It is also used to uncover hidden structures in data sets, such as finding topics in a collection of documents. NMF is a powerful tool that can help uncover patterns and relationships in data.

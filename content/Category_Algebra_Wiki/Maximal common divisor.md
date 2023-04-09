@@ -1,0 +1,3 @@
+# Maximal common divisor
+
+The greatest common divisor (GCD) or maximal common divisor (MCD) is a mathematical concept that is used to find the largest number that divides two or more integers. It is also known as the highest common factor (HCF). The MCD is calculated by finding the greatest common factor of two or more numbers. This is done by listing out all the common factors of the two numbers and then finding the greatest one. For example, the MCD of 12 and 18 is 6, since it is the greatest number that divides both 12 and 18. The MCD is an important concept in mathematics, and is used in many calculations and algorithms.

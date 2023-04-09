@@ -1,0 +1,3 @@
+# Levi-Civita symbol
+
+The Levi-Civita symbol is a mathematical tool used to describe the relationship between three or more vectors. It is also known as the "epsilon symbol" and is represented by the Greek letter epsilon (ε). The symbol has three indices, which represent the three vectors. The symbol is equal to +1 if the three vectors form a right-handed system, -1 if the vectors form a left-handed system, and 0 if the vectors are not linearly independent. The Levi-Civita symbol is useful for solving problems in calculus, linear algebra, and vector calculus. It can also be used to calculate the volume of a three-dimensional region or the surface area of a three-dimensional surface.

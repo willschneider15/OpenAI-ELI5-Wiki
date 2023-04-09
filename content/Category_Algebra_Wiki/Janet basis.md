@@ -1,0 +1,3 @@
+# Janet basis
+
+Janet Basis is a mathematical concept used to describe the relationship between two sets of variables. It is used to determine the degree of correlation between two sets of data. The basis of the concept is that the correlation between two variables is measured by the sum of their products. The higher the sum of the product, the more correlated the two variables are. This concept is useful in a variety of fields, such as economics, statistics, and engineering. Janet Basis can be used to identify relationships between variables that may not be immediately obvious, and can be used to make predictions about future data.

@@ -1,0 +1,3 @@
+# Generalized singular value decomposition
+
+Generalized Singular Value Decomposition (GSVD) is a mathematical technique for decomposing a matrix into its constituent parts. It is a generalization of the well-known Singular Value Decomposition (SVD), which is used to decompose a matrix into its singular values and vectors. GSVD is similar to SVD but it also takes into account the correlation between the two matrices being decomposed. This allows for a more accurate decomposition of the matrix, allowing for more precise analysis of the data. GSVD is used in many areas, including image processing, machine learning, and data analysis.

@@ -1,0 +1,3 @@
+# Locally finite operator
+
+A locally finite operator is a type of linear operator that acts on a vector space. It is defined as an operator that can be applied to any vector in the space and produces a finite number of non-zero vectors in the space. This means that the operator only affects a finite number of vectors in the space and does not spread its effect to an infinite number of vectors. This property is useful in applications such as solving linear equations and in numerical analysis. Locally finite operators are also useful in mathematical analysis, as they can be used to define a topology on a vector space.

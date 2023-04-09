@@ -1,0 +1,3 @@
+# Hamming space
+
+Hamming space is a way of organizing data to help computers understand it better. It is a way of grouping data together based on how similar it is. The data is grouped together using a numerical value called a Hamming distance. The Hamming distance is the number of changes needed to turn one piece of data into another. For example, if two words have a Hamming distance of two, then two letters need to be changed in one word to make it the same as the other. Hamming space is useful for computers because it allows them to quickly compare data and find similarities and differences. This helps computers to make decisions more quickly and accurately.

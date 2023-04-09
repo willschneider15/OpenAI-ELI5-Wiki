@@ -1,0 +1,3 @@
+# Dual basis in a field extension
+
+The concept of dual basis in a field extension is a way to represent a vector space in a more efficient way. In a field extension, a dual basis is a set of vectors that span the space and can be used to represent any vector in the space. This is done by taking the inner product of the vector with each of the basis vectors to get a set of coefficients that can be used to reconstruct the vector. The dual basis is useful because it eliminates the need to store the entire vector, reducing the memory requirements for storing and manipulating the vector. Additionally, it makes certain operations on vectors faster, such as computing the inner product or projecting a vector onto another vector.

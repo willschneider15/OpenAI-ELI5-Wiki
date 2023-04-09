@@ -1,0 +1,3 @@
+# Euler's totient function
+
+Euler's totient function (also known as the phi function) is a mathematical function that calculates the number of numbers less than a given number that are relatively prime to that number. This means that the numbers have no common factors other than 1. For example, the totient of 10 is 4, because the numbers 1, 3, 7, and 9 are all relatively prime to 10. This function is named after the Swiss mathematician Leonhard Euler, who first described it in 1763. Euler's totient function is important because it is used to calculate many different things, such as the number of integers in a given range that are relatively prime to each other. It is also used in cryptography and other areas of mathematics.

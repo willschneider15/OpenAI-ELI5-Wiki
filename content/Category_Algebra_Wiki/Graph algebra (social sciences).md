@@ -1,0 +1,3 @@
+# Graph algebra (social sciences)
+
+Graph algebra is a mathematical tool used in social sciences to study relationships between individuals and groups in a network. It is a type of algebraic graph theory which focuses on the properties of graphs. Graph algebra helps to study the structure of a network and how it affects the behavior of the individuals within it. It can also be used to analyze the effects of changes in the network structure on the behavior of its members. Graph algebra is used to model social networks, such as social media networks, and to analyze their structure, dynamics, and evolution. It can also be used to understand how certain behaviors, such as communication or collaboration, are affected by the structure of the network.

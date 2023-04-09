@@ -1,0 +1,3 @@
+# All one polynomial
+
+All-one polynomials are mathematical functions that have a value of 1 for every input. They are usually used in the field of algebraic coding theory, which is a branch of mathematics that deals with encoding and decoding data. All-one polynomials are special because they can be used to create codes that are capable of correcting errors in data transmission. The polynomials are created by adding up all the terms of a given polynomial, and then dividing by the number of terms. This results in a polynomial with a value of 1 for every input. All-one polynomials are useful for creating codes that can detect and correct errors in data transmission, which is important for reliable communication.

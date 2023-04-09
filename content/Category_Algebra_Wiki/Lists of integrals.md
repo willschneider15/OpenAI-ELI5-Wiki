@@ -1,0 +1,3 @@
+# Lists of integrals
+
+A List of Integrals is a collection of formulas and equations that are used to calculate the area under a curve. These equations are used to calculate the area between two points on a graph. The equations are typically written in the form of a summation, where the area is calculated by summing up the areas of all the individual pieces of the curve. The equations are usually written in the form of a definite integral, which is a calculus equation that gives the area under a curve. These equations are used in a variety of applications, such as calculating the area of a circle, calculating the volume of a sphere, and calculating the area of a triangle. Lists of integrals are a useful tool for solving a variety of problems.

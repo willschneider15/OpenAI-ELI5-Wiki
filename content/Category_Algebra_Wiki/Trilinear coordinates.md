@@ -1,0 +1,3 @@
+# Trilinear coordinates
+
+Trilinear coordinates are a way of representing points in 3D space. They are based on the idea of three lines, or axes, intersecting at a common point. This point is referred to as the origin, and the three axes are labeled x, y, and z. Points in space are then described by three numbers, which represent the distances of the point from each of the three axes. These numbers are referred to as the trilinear coordinates of the point. Trilinear coordinates can be used to describe the position of an object or the direction of a vector. They are a useful tool for visualizing and manipulating objects in 3D space.

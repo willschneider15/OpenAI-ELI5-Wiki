@@ -1,0 +1,3 @@
+# Partial trace
+
+Partial trace is a mathematical concept used to describe the behavior of quantum systems. It is used to calculate the reduced density matrix of a system, which is a measure of the probability of a system's state being in a particular configuration. In other words, it is used to determine the likelihood of a system being in a certain state. To calculate the partial trace, the system is divided into two parts and the trace of one part is taken. This trace is then used to calculate the reduced density matrix of the system. Partial trace is a useful tool in quantum physics and can be used to study the behavior of complex quantum systems.

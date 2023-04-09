@@ -1,0 +1,3 @@
+# Cycle basis
+
+Cycle basis is a way of representing a graph or network using a minimal set of cycles or loops. It is an important concept in graph theory, which is the study of networks. In a graph, a cycle is a path that starts and ends at the same vertex. A cycle basis is a set of cycles in a graph that forms a basis for the cycles in the graph, meaning that any cycle in the graph can be written as a combination of the cycles in the cycle basis. A cycle basis can be used to represent a graph in a more efficient way than representing the entire graph, as it only requires a minimal set of cycles. This can be useful in applications such as network analysis, where a cycle basis can provide insights into the structure of the network.

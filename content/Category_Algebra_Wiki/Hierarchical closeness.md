@@ -1,0 +1,3 @@
+# Hierarchical closeness
+
+Hierarchical closeness is a measure of how close two nodes are to each other in a hierarchical network. It is calculated by taking the shortest path between two nodes, and then adding up the weights of the edges that connect them. This measure can be used to identify the most important nodes in a network, as well as the nodes that are most closely connected to each other. This can be used to create a better understanding of the structure of a network, as well as to identify influential nodes. It can also be used to identify clusters of nodes that are strongly connected to each other.

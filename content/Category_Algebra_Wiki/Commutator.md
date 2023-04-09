@@ -1,0 +1,3 @@
+# Commutator
+
+A commutator is a device used to switch the direction of electric current. It works by taking an incoming electrical current from one direction and then switching it to the opposite direction. This is done by using two sets of contacts that are connected to a rotating armature. When the armature turns, it causes the contacts to switch the current flow. This allows the current to be reversed and is used in many electrical devices, such as motors and generators. Commutators are important in helping to regulate the flow of electricity in circuits, ensuring that the current is always flowing in the right direction.

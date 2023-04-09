@@ -1,0 +1,3 @@
+# Field arithmetic
+
+Field arithmetic is a type of mathematics that deals with the properties of a field, which is a set of elements with two operations (usually addition and multiplication) that satisfy certain axioms. In field arithmetic, one can perform operations such as addition, subtraction, multiplication, division, and exponentiation on elements of a field. The operations must obey certain rules in order for the field to be considered a field. For example, the addition and multiplication operations must be commutative, associative, and have an identity element. Field arithmetic is used in many areas of mathematics, including algebra, number theory, and cryptography.

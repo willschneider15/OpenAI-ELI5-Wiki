@@ -1,0 +1,3 @@
+# Landau's algorithm
+
+Landau's algorithm is a way of sorting items in a list. It works by comparing items in the list to each other and swapping them if they are out of order. This process is repeated until the list is sorted. It is an efficient and simple way to sort items. To help explain it better, imagine a list of numbers that need to be sorted from smallest to largest. Landau's algorithm would start by comparing the first two numbers and swapping them if the first number is larger than the second. Then it would move on to the next two numbers, and so on until it reaches the end of the list. By repeating this process, the list will eventually be sorted.

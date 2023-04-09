@@ -1,0 +1,3 @@
+# Triple product
+
+The triple product is a mathematical concept that involves multiplying three numbers together. It is used to calculate the volume of a certain object, such as a box or a cylinder. The triple product is calculated by multiplying the length, width, and height of the object together. For example, if you had a box with a length of 5 inches, a width of 10 inches, and a height of 15 inches, the triple product would be 5 x 10 x 15, which would equal 750. The triple product can also be used to calculate the volume of a cylinder. To do this, you would need to know the radius and height of the cylinder. The formula for this is πr<sup>2</sup>h, where π is the constant 3.14, r is the radius, and h is the height.

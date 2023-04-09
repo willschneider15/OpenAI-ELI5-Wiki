@@ -1,0 +1,3 @@
+# Algebraic connectivity
+
+Algebraic connectivity is a mathematical concept used to measure how well connected a network is. It is used to measure how well the nodes in a network are connected to each other. It is calculated by looking at the second smallest eigenvalue of the network's adjacency matrix. The higher the algebraic connectivity, the better connected the network is. It is important to note that a network with a higher algebraic connectivity is not necessarily more efficient than a network with a lower algebraic connectivity. Algebraic connectivity is a useful tool for understanding the structure of a network and can be used to measure how well nodes in a network are connected.

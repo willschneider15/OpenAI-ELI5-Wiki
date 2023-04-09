@@ -1,0 +1,3 @@
+# Bidiagonal matrix
+
+A bidiagonal matrix is a type of matrix where the entries are located only on the main diagonal and the diagonal immediately below it. This type of matrix is useful for solving linear equations, as it has a simpler structure than other matrices. The entries of the main diagonal are referred to as the main diagonal elements, while the entries of the diagonal below the main diagonal are referred to as the subdiagonal elements. A bidiagonal matrix is symmetric and its elements are either 0 or 1. It is also known as a band matrix, since the non-zero elements form a band along the main diagonal and the subdiagonal. Bidiagonal matrices are often used in numerical analysis, such as solving linear equations or computing the inverse of a matrix.

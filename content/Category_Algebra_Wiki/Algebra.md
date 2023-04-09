@@ -1,0 +1,3 @@
+# Algebra
+
+Algebra is a way of solving problems by using math equations. It's like a puzzle that you have to figure out. In algebra, you use letters and numbers to represent things. So if you have a problem like "What is the sum of 5 and 7?", instead of writing 5+7, you would write x+7, where x is the unknown number. Then, to figure out the answer, you solve the equation by using special math rules. In this case, you would add the two numbers together, so x+7 = 12. So x = 5, which is the answer to the problem. Algebra can be used to solve many different types of problems, from figuring out how much money you need to buy something to figuring out how far you will travel in a certain amount of time.

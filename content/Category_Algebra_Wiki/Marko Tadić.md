@@ -1,0 +1,3 @@
+# Marko Tadić
+
+Marko Tadić is a Croatian artist who is known for his unique style of painting. He creates abstract art that is full of bright colors and shapes. His work often features animals, landscapes, and other objects from nature. Tadić's paintings are often inspired by his travels and experiences. He uses a variety of techniques to create his art, including layering, blending, and mixing colors. He also often incorporates symbols and words into his work. His art is meant to evoke emotions and tell stories. Tadić believes that art should be accessible to everyone, and his work is often seen in galleries and museums around the world.

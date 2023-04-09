@@ -1,0 +1,3 @@
+# The Compendious Book on Calculation by Completion and Balancing
+
+The Compendious Book on Calculation by Completion and Balancing is a book written by Al-Khwarizmi, an Islamic mathematician from the 9th century. This book is considered one of the foundational texts for algebra, as it introduces the concept of solving equations with unknown values. The book explains how to solve equations by "completion and balancing," which involves adding unknown values to both sides of the equation and then solving for the unknowns. It also explains how to use the same technique to solve more complex equations. The techniques outlined in the book are still used today and are the basis for modern algebra.

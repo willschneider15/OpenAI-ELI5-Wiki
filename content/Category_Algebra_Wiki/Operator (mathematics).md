@@ -1,0 +1,3 @@
+# Operator (mathematics)
+
+Operators are symbols that tell the computer to perform certain operations on values. In mathematics, operators are used to perform arithmetic operations such as addition, subtraction, multiplication, and division. For example, the plus sign (+) is an operator that tells the computer to add two values together. Similarly, the minus sign (-) is an operator that tells the computer to subtract one value from another. Other operators include the multiplication sign (×) and the division sign (÷). These operators tell the computer to multiply or divide values, respectively. By using operators, we can quickly and easily solve mathematical problems.

@@ -1,0 +1,3 @@
+# Vertex-transitive graph
+
+A vertex-transitive graph is a graph where all vertices can be mapped to each other in a way that preserves the graph's structure. This means that if two vertices are connected by an edge, then the same two vertices can be mapped to each other in a way that preserves the edge. Vertex-transitive graphs are symmetric and regular, meaning that any two vertices have the same degree (number of edges connected to them) and the same set of neighbors. This type of graph is useful for modeling symmetric relationships in a variety of applications, such as social networks or transportation networks.

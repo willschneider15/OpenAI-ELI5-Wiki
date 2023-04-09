@@ -1,0 +1,3 @@
+# Irving Kaplansky
+
+Irving Kaplansky was an American mathematician who developed the concept of **Kaplansky's Direct Finiteness Theorem**. This theorem states that if a group contains a finite number of elements, then it must also contain a finite number of subgroups. In other words, if a group has a finite number of elements, then it can't have an infinite number of subgroups. This theorem is important because it helps us understand the structure of groups and how they are related to each other. Kaplansky's theorem is also used in the study of abstract algebra, which is the study of mathematical structures such as groups, rings, and fields.

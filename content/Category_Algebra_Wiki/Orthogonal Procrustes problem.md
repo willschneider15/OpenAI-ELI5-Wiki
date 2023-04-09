@@ -1,0 +1,3 @@
+# Orthogonal Procrustes problem
+
+The Orthogonal Procrustes problem is a mathematical problem that involves finding the best fit between two sets of points in a plane. The goal is to find a transformation that will make one set of points look as close as possible to the other set. This transformation is usually a rotation and a scaling, and the two sets of points must be the same size. The solution is the transformation that minimizes the sum of the squared distances between the two sets of points. This problem is useful in many applications, such as computer vision, pattern recognition, and image processing.

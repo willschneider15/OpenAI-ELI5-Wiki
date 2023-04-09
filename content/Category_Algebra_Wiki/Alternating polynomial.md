@@ -1,0 +1,3 @@
+# Alternating polynomial
+
+Alternating polynomials are a type of mathematical expression that can be used to describe a pattern or relationship between two or more variables. The polynomial is written as a series of alternating terms, with each term having a coefficient and a variable. For example, a polynomial of the form x + 2y - 3z would describe a relationship between three variables, x, y, and z. The coefficients of the terms indicate the strength of the relationship between the variables, with a positive coefficient indicating a positive relationship and a negative coefficient indicating a negative relationship. The alternating pattern of the terms helps to make the polynomial easier to read and understand.

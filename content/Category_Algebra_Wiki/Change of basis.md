@@ -1,0 +1,3 @@
+# Change of basis
+
+Change of basis is a mathematical concept that involves transforming a set of vectors from one basis to another. It is used to simplify problems by changing the coordinate system in which the vectors are expressed. For example, if a vector is expressed in a Cartesian coordinate system, it can be transformed into a different coordinate system such as polar or cylindrical coordinates. The transformation from one basis to another is accomplished by multiplying the vector by a matrix. The matrix is referred to as a change of basis matrix, and it is used to convert the vector from one basis to another. Change of basis can be used to solve problems in linear algebra, calculus, and other areas of mathematics.

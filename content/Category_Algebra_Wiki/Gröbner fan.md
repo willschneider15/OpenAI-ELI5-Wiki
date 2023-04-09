@@ -1,0 +1,3 @@
+# Gröbner fan
+
+A Gröbner fan is a tool used in mathematics to help visualize the solutions to a system of polynomial equations. It is a fan-shaped diagram that shows the relationship between the equations and their solutions. The fan is made up of lines that represent the equations and their solutions. Each line is labeled with the equation's coefficients, so you can easily see how the solutions change when the coefficients change. The fan is divided into sections, and each section corresponds to a different solution. This makes it easy to find the solutions to a system of equations and to compare them. The Gröbner fan is a useful tool for understanding and solving complex systems of equations.

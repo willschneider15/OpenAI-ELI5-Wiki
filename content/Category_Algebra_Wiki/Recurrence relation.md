@@ -1,0 +1,3 @@
+# Recurrence relation
+
+A recurrence relation is an equation that expresses a sequence of values in terms of the values that come before it. It is a way of defining a sequence in terms of itself. For example, the Fibonacci sequence is defined by the recurrence relation F_n = F_{n-1} + F_{n-2}, where F_n is the nth term of the sequence and F_{n-1} and F_{n-2} are the two terms that come before it. By using a recurrence relation, a sequence can be defined without having to explicitly list out all the terms. This makes it easier to find the nth term of a sequence without having to calculate all the terms before it.

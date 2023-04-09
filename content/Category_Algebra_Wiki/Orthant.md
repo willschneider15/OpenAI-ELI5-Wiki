@@ -1,0 +1,3 @@
+# Orthant
+
+Orthant is a mathematical concept. It is a set of points in a space that are all the same distance away from a certain point. For example, if you have a point in the middle of a circle, then the orthant is all the points on the circle that are the same distance away from the center. Orthants can also be used in higher dimensions, such as 3D or 4D. In these cases, the orthant is a set of points that are all the same distance away from a certain point in the higher dimension. Orthants are important in mathematics because they help us understand shapes, distances, and patterns in space.
