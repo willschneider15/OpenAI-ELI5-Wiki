@@ -50,7 +50,7 @@ git checkout -b your-branch-name
 
 This project will use GitHub Actions to automate certain workflows, such as validating pull requests and updating the known hallucinations.json file. Make sure your changes comply with the workflows set up in the `.github/workflows` directory.
 
-THIS WILL BE ADDED IF I CAN NOT HANDLE UPDATING THE FILE MANUALLY
+THIS STILL NEEDS TO BE TESTED AND IMPROVED
 
 ## License
 
