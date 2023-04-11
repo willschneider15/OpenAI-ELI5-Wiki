@@ -1,7 +1,5 @@
 # Crowdfunding
 
-**Crowdfunding**
-
 Crowdfunding is a way for people to raise money. Imagine having a big jar at home where you save money you don't want to spend. Crowdfunding is just like that jar, but online. Instead of saving money for yourself, you're putting it all together with other people's money for a big project. 
 
 - People can use crowdfunding to ask for help raising money for things like starting a new business, making a movie or creating a product. 

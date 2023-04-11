@@ -1,7 +1,5 @@
 # Roots
 
-**Roots**
-
 - **Roots** are the part of a plant that grow underground.
 - There are two types of roots: **tap roots** and **fibrous roots**.
   - **Tap roots** are thick and straight, growing deep into the soil.

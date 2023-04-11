@@ -1,7 +1,5 @@
 # Stems
 
-**Stems**
-
 Stems are the long and slender parts of the plant that hold the leaves, flowers, and fruits. They are essential parts of the plant that help it to grow and thrive. Here's a brief explanation of the concept of stems for you:
 
 - Stems play a vital role in transporting water, nutrients, and sugars across the plant from the roots to the different parts of the plant.

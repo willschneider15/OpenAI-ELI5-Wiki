@@ -1,7 +1,5 @@
 # Kaizen
 
-# Concept of Kaizen
-
 Kaizen is a Japanese business philosophy that means "continuous improvement." It is the idea of making small, incremental changes on a regular basis to improve processes, products, and services. Here are some examples of what it means:
 
 * It is like taking small steps to climb a mountain instead of trying to jump to the top.

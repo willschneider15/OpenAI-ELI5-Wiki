@@ -1,7 +1,5 @@
 # Inflation
 
-**Inflation:**
-
 Inflation is like when you go to a store with $5 in your pocket, and you can't buy as much as you could five years ago with the same $5. This happens because the price of things that you want to buy keeps going up.
 
 **Causes of inflation:**

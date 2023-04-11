@@ -1,7 +1,5 @@
 # Altruism
 
-**Altruism:**
-
 Altruism is when you do something nice for someone else without expecting anything in return. It's like when you help your friend with their math homework even though you don't like math because you want to make them happy.
 
 * Altruism is about selflessly helping others.

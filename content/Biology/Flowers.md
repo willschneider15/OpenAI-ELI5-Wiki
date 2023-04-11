@@ -1,7 +1,5 @@
 # Flowers
 
-# Flowers
-
 Flowers are the colorful and beautiful parts of a plant that make people happy. They come in different colors, shapes, and sizes, making them very special! 
 
 - Flowers produce seeds which are used to grow new plants.

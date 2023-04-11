@@ -1,7 +1,5 @@
 # Innovation
 
-# Innovation: An Explanation for Children
-
 Innovation means creating something that is new or different from what already exists. Just like a chef might come up with a new recipe, someone who is innovative comes up with new and creative ideas for products, services, or ways of doing things.
 
 ### Two Types of Innovation

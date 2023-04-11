@@ -1,7 +1,5 @@
 # Phylogenetics
 
-**Phylogenetics**
-
 Phylogenetics is a way of studying how living things are related to one another. It's like creating a family tree for all living things on Earth - from humans to plants to animals. 
 
 * Scientists use a variety of tools to study the DNA and physical characteristics of different species. 

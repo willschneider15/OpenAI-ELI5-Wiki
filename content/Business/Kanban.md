@@ -1,7 +1,5 @@
 # Kanban
 
-### Kanban
-
 Kanban is a tool used in production and manufacturing to visualize and manage workflow. Imagine you own a toy factory that produces toy cars. You have different stages in producing the toy - molding, painting, assembling, packing. You use a board called a Kanban board that has columns for each stage. 
 
 * You write the orders on cards and attach them to the board in the first column, which represents the molding stage. 

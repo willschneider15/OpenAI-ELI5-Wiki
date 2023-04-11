@@ -1,7 +1,5 @@
 # Mutation
 
-**Mutation**
-
 A mutation is a change in the genetic code that happens when cells don't copy the DNA sequence correctly. DNA is like a blueprint or recipe that tells cells how to grow and function. Mutations can be caused by many things, like radiation or chemicals in the environment. Mutations can occur in different ways, but the three primary types are substitution, deletion, and insertion.
 
 - **Substitution** - when one letter (nucleotide) is replaced with another, it can sometimes have no effect or change the amino acid, which can lead to a different trait or disease.

@@ -1,7 +1,5 @@
 # Epidemiology
 
-**Epidemiology**
-
 - Epidemiology is like being a detective, but for diseases
 - Instead of solving crimes, epidemiologists study diseases and try to figure out how they spread and how to prevent them
 - They look at patterns of diseases in groups of people to see if there are any similarities

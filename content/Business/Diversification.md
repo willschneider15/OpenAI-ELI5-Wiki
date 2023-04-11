@@ -1,7 +1,5 @@
 # Diversification
 
-**Diversification:**
-
 Diversification is a simple and effective concept that allows you to invest your money in different types of assets or companies. It is like not putting all your eggs in one basket. 
 
 Think about it like this: 

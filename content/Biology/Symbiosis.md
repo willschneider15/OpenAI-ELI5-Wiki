@@ -1,8 +1,5 @@
 # Symbiosis
 
-```
-*Symbiosis*
-
 - Symbiosis is like a friendship between two different living things.
 - In this friendship, both living things help each other out.
 - Imagine a bird cleaning the teeth of a crocodile. The bird gets food stuck in its teeth and the crocodile has dirty teeth. The bird gets food and the crocodile gets clean teeth, so they are both happy!

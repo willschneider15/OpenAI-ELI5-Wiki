@@ -1,7 +1,5 @@
 # Leadership
 
-# Leadership
-
 Leadership is being the boss of a group of people. It means you are responsible for guiding them towards a goal, just like a captain leads a team to victory on a sports field.
 
 Leadership involves: 

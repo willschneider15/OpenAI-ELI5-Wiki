@@ -1,7 +1,5 @@
 # Diffusion
 
-#### Diffusion
-
 Diffusion is the movement of stuff (molecules) from an area of high concentration to an area with low concentration. 
 
 * Imagine you have a bag of candy with many different flavors inside. If you shake it, the candies will scatter and move around. The flavors will mix until each candy bag has an equal amount of each flavor. 

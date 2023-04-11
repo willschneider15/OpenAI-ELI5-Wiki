@@ -1,7 +1,5 @@
 # Protists
 
-**Protists:**
-
 * Protists are a group of simple, single-celled organisms that belong to the kingdom Protista.
 * These organisms are found in various aquatic habitats such as fresh water, seawater, and even in damp soil.
 * They can be classified into three categories – animal-like protists, plant-like protists, and fungus-like protists.

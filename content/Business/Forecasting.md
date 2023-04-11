@@ -1,7 +1,5 @@
 # Forecasting
 
-# Forecasting
-
 Forecasting is like predicting the weather in advance. Just like a weatherman tells us what the weather will be like in the future, forecasting helps us make predictions about future events in business. 
 
 * It is a technique that helps businesses to estimate what might happen in the future based on current and historical data.  

@@ -1,7 +1,5 @@
 # Bonds
 
-## Bonds Explained for a 5-year-old
-
 A bond is like a special kind of IOU. 
 
 * An IOU is something you write when you borrow money from someone. 
